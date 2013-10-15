@@ -4,6 +4,7 @@
 
 	<xsl:template match="books">
 		<xsl:text># Books</xsl:text>
+		<xsl:text>&#xa;</xsl:text>
 		<xsl:text>Date | Author | Title | Subtitle | Year | Rating (0-5)</xsl:text>
 		<xsl:text>&#xa;</xsl:text>
 		<xsl:text>--- | --- | --- | --- | --- | ---</xsl:text>
