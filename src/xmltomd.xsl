@@ -90,12 +90,4 @@
 		<xsl:value-of select="1+last()-position()"/>
 		<xsl:text>"&gt;&lt;/a&gt;</xsl:text>
 	</xsl:template>
-
-	<xsl:template name="date">
-		<xsl:value-of select="substring(child::date[1], 1, 4)"/>
-		<xsl:text>/</xsl:text>
-		<xsl:value-of select="substring(child::date[1], 6, 2)"/>
-		<xsl:text>/</xsl:text>
-		<xsl:value-of select="substring(child::date[1], 9, 2)"/>
-	</xsl:template>
 </xsl:stylesheet>

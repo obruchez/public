@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books title="Olivier Bruchez's Last Books" description="The last books I read" link="http://olivier.bruchez.org/books.html" feed="http://olivier.bruchez.org/books.rss">
+    <book>
+        <date>2013.10.21</date>
+        <title>Métaphysique des tubes</title>
+        <author>Amélie Nothomb</author>
+        <publishingyear>2000</publishingyear>
+        <rating>4.75</rating>
+        <url>https://fr.wikipedia.org/wiki/M%C3%A9taphysique_des_tubes</url>
+    </book>
+    <book>
+        <date>2013.10.17</date>
+        <title>The Selfish Gene</title>
+        <subtitle>30th Anniversary edition</subtitle>
+        <author>Richard Dawkins</author>
+        <publishingyear>2006</publishingyear>
+        <rating>5.5</rating>
+        <url>https://en.wikipedia.org/wiki/The_Selfish_Gene</url>
+    </book>
 	<book>
         <date>2013.08.01</date>
         <title>A Universe from Nothing</title>
