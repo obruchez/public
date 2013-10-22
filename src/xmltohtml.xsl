@@ -9,132 +9,112 @@
     <xsl:variable name="color2">f0f0f0</xsl:variable>
 
     <xsl:template match="books">
-        <html>
-            <xsl:call-template name="head"/>
-            <body>
-                <table border="0">
-                    <tr bgcolor="#{$color1}"><th>Date</th><th>Author</th><th>Title</th><th>Subtitle</th><th>Year</th><th>Rating (0-5)</th></tr>
-                    <xsl:for-each select="book">
-                        <xsl:call-template name="book"/>
-                    </xsl:for-each>
-                </table>
-            </body>
-        </html>
+		<xsl:call-template name="table">
+		    <xsl:with-param name="contents">
+                <tr bgcolor="#{$color1}"><th>Date</th><th>Author</th><th>Title</th><th>Subtitle</th><th>Year</th><th>Rating (0-5)</th></tr>
+                <xsl:for-each select="book">
+                    <xsl:call-template name="book"/>
+                </xsl:for-each>
+		    </xsl:with-param>
+		</xsl:call-template>
     </xsl:template>
 
     <xsl:template name="book">
-        <xsl:variable name="color"><xsl:call-template name="color"/></xsl:variable>
-        <tr bgcolor="#{$color}">
-            <a name="{1+last()-position()}">
-                <td valign="top"><xsl:call-template name="date"/></td>
+		<xsl:call-template name="row">
+		    <xsl:with-param name="contents">
+		    	<td valign="top"><xsl:call-template name="date"/></td>
                 <td valign="top"><xsl:value-of select="child::author[1]"/></td>
                 <td valign="top"><xsl:value-of select="child::title[1]"/></td>
                 <td valign="top"><xsl:value-of select="child::subtitle[1]"/></td>
                 <td valign="top"><xsl:value-of select="child::publishingyear[1]"/></td>
                 <td valign="top"><xsl:call-template name="rating"/></td>
-            </a>
-        </tr>
+		    </xsl:with-param>
+		</xsl:call-template>
     </xsl:template>
 
     <xsl:template match="concerts">
-        <html>
-            <xsl:call-template name="head"/>
-            <body>
-                <table border="0">
-                    <tr bgcolor="#{$color1}"><th>Date</th><th>Musicians</th><th>Location</th><th>Event</th><th>Rating (0-5)</th><th>Comments</th></tr>
-                    <xsl:for-each select="concert">
-                        <xsl:call-template name="concert"/>
-                    </xsl:for-each>
-                </table>
-            </body>
-        </html>
+		<xsl:call-template name="table">
+		    <xsl:with-param name="contents">
+                <tr bgcolor="#{$color1}"><th>Date</th><th>Musicians</th><th>Location</th><th>Event</th><th>Rating (0-5)</th><th>Comments</th></tr>
+                <xsl:for-each select="concert">
+                    <xsl:call-template name="concert"/>
+                </xsl:for-each>
+  		    </xsl:with-param>
+		</xsl:call-template>
     </xsl:template>
 
     <xsl:template name="concert">
-        <xsl:variable name="color"><xsl:call-template name="color"/></xsl:variable>
-        <tr bgcolor="#{$color}">
-            <a name="{1+last()-position()}">
+        <xsl:call-template name="row">
+		    <xsl:with-param name="contents">
                 <td valign="top"><xsl:call-template name="date"/></td>
-                <td valign="top"><td valign="top"><xsl:call-template name="musicians-with-html"/></td></td>
+                <td valign="top"><xsl:call-template name="musicians-with-html"/></td>
                 <td valign="top"><xsl:value-of select="child::location[1]"/></td>
                 <td valign="top"><xsl:value-of select="child::event[1]"/></td>
                 <td valign="top"><xsl:call-template name="rating"/></td>
                 <td valign="top"><xsl:value-of select="child::comments[1]"/></td>
-            </a>
-        </tr>
+		    </xsl:with-param>
+		</xsl:call-template>
     </xsl:template>
 
     <xsl:template match="crashes">
-        <html>
-            <xsl:call-template name="head"/>
-            <body>
-                <table border="0">
-                    <tr bgcolor="#{$color1}"><th>Date</th><th>Manufacturer</th><th>Model</th><th>Comments</th></tr>
-                    <xsl:for-each select="crash">
-                        <xsl:call-template name="crash"/>
-                    </xsl:for-each>
-                </table>
-            </body>
-        </html>
+		<xsl:call-template name="table">
+		    <xsl:with-param name="contents">
+                <tr bgcolor="#{$color1}"><th>Date</th><th>Manufacturer</th><th>Model</th><th>Comments</th></tr>
+                <xsl:for-each select="crash">
+                    <xsl:call-template name="crash"/>
+                </xsl:for-each>
+		    </xsl:with-param>
+		</xsl:call-template>
     </xsl:template>
 
     <xsl:template name="crash">
-        <xsl:variable name="color"><xsl:call-template name="color"/></xsl:variable>
-        <tr bgcolor="#{$color}">
-            <a name="{1+last()-position()}">
+        <xsl:call-template name="row">
+		    <xsl:with-param name="contents">
                 <td valign="top"><xsl:call-template name="date"/></td>
                 <td valign="top"><xsl:value-of select="child::manufacturer[1]"/></td>
                 <td valign="top"><xsl:value-of select="child::model[1]"/></td>
                 <td valign="top"><xsl:value-of select="child::comments[1]"/></td>
-            </a>
-        </tr>
+		    </xsl:with-param>
+		</xsl:call-template>
     </xsl:template>
     
     <xsl:template match="exhibitions">
-        <html>
-            <xsl:call-template name="head"/>
-            <body>
-                <table border="0">
-                    <tr bgcolor="#{$color1}"><th>Date</th><th>Name</th><th>Museum</th><th>Rating (0-5)</th><th>Comments</th></tr>
-                    <xsl:for-each select="exhibition">
-                        <xsl:call-template name="exhibition"/>
-                    </xsl:for-each>
-                </table>
-            </body>
-        </html>
+		<xsl:call-template name="table">
+		    <xsl:with-param name="contents">
+                <tr bgcolor="#{$color1}"><th>Date</th><th>Name</th><th>Museum</th><th>Rating (0-5)</th><th>Comments</th></tr>
+                <xsl:for-each select="exhibition">
+                    <xsl:call-template name="exhibition"/>
+                </xsl:for-each>
+		    </xsl:with-param>
+		</xsl:call-template>
     </xsl:template>
 
     <xsl:template name="exhibition">
-        <xsl:variable name="color"><xsl:call-template name="color"/></xsl:variable>
-        <tr bgcolor="#{$color}">
-            <a name="{1+last()-position()}">
+        <xsl:call-template name="row">
+		    <xsl:with-param name="contents">
                 <td valign="top"><xsl:call-template name="date"/></td>
                 <td valign="top"><xsl:value-of select="child::name[1]"/></td>
                 <td valign="top"><xsl:value-of select="child::museum[1]"/></td>
                 <td valign="top"><xsl:call-template name="rating"/></td>
                 <td valign="top"><xsl:value-of select="child::comments[1]"/></td>
-            </a>
-        </tr>
+		    </xsl:with-param>
+		</xsl:call-template>
     </xsl:template>
 
     <xsl:template match="movies">
-        <html>
-            <xsl:call-template name="head"/>
-            <body>
-                <table border="0">
-                    <tr bgcolor="#{$color1}"><th>Date</th><th>Theater</th><th>Director</th><th width="25%">Title</th><th>Alternative Title(s)</th><th>Version</th><th>Rating (0-5)</th><th width="25%">Comments</th></tr>
-                    <xsl:for-each select="movie">
-                        <xsl:call-template name="movie"/>
-                    </xsl:for-each>
-                </table>
-            </body>
-        </html>
+		<xsl:call-template name="table">
+		    <xsl:with-param name="contents">
+                <tr bgcolor="#{$color1}"><th>Date</th><th>Theater</th><th>Director</th><th width="25%">Title</th><th>Alternative Title(s)</th><th>Version</th><th>Rating (0-5)</th><th width="25%">Comments</th></tr>
+                <xsl:for-each select="movie">
+                    <xsl:call-template name="movie"/>
+                </xsl:for-each>
+		    </xsl:with-param>
+		</xsl:call-template>
     </xsl:template>
 
     <xsl:template name="movie">
-        <xsl:variable name="color"><xsl:call-template name="color"/></xsl:variable>
-        <tr bgcolor="#{$color}">
-            <a name="{1+last()-position()}">
+        <xsl:call-template name="row">
+		    <xsl:with-param name="contents">
                 <td valign="top"><xsl:call-template name="date"/></td>
                 <td valign="top"><xsl:value-of select="child::theater[1]"/></td>
                 <td valign="top"><xsl:value-of select="child::director[1]"/></td>
@@ -176,28 +156,24 @@
                 </td>
                 <td valign="top"><xsl:call-template name="rating"/></td>
                 <td valign="top"><xsl:value-of select="child::comments[1]"/></td>
-            </a>
-        </tr>
+		    </xsl:with-param>
+		</xsl:call-template>
     </xsl:template>
 
     <xsl:template match="plays">
-        <html>
-            <xsl:call-template name="head"/>
-            <body>
-                <table border="0">
-                    <tr bgcolor="#{$color1}"><th>Date</th><th>Location</th><th>Name</th><th>Author</th><th>Director</th><th>Adaptation</th><th>Translation</th><th>Actors</th><th>Rating (0-5)</th><th>Comments</th></tr>
-                    <xsl:for-each select="play">
-                        <xsl:call-template name="play"/>
-                    </xsl:for-each>
-                </table>
-            </body>
-        </html>
+		<xsl:call-template name="table">
+		    <xsl:with-param name="contents">
+                <tr bgcolor="#{$color1}"><th>Date</th><th>Location</th><th>Name</th><th>Author</th><th>Director</th><th>Adaptation</th><th>Translation</th><th>Actors</th><th>Rating (0-5)</th><th>Comments</th></tr>
+                <xsl:for-each select="play">
+                    <xsl:call-template name="play"/>
+                </xsl:for-each>
+		    </xsl:with-param>
+		</xsl:call-template>
     </xsl:template>
 
     <xsl:template name="play">
-        <xsl:variable name="color"><xsl:call-template name="color"/></xsl:variable>
-        <tr bgcolor="#{$color}">
-            <a name="{1+last()-position()}">
+        <xsl:call-template name="row">
+		    <xsl:with-param name="contents">
                 <td valign="top"><xsl:call-template name="date"/></td>
                 <td valign="top"><xsl:value-of select="child::location[1]"/></td>
                 <td valign="top"><xsl:value-of select="child::name[1]"/></td>
@@ -213,28 +189,24 @@
                 </td>
                 <td valign="top"><xsl:call-template name="rating"/></td>
                 <td valign="top"><xsl:value-of select="child::comments[1]"/></td>
-            </a>
-        </tr>
+		    </xsl:with-param>
+		</xsl:call-template>
     </xsl:template>
 
     <xsl:template match="trips">
-        <html>
-            <xsl:call-template name="head"/>
-            <body>
-                <table border="0">
-                    <tr bgcolor="#{$color1}"><th>From</th><th>To</th><th>Place</th><th>Pictures</th></tr>
-                    <xsl:for-each select="trip">
-                        <xsl:call-template name="trip"/>
-                    </xsl:for-each>
-                </table>
-            </body>
-        </html>
+		<xsl:call-template name="table">
+		    <xsl:with-param name="contents">
+                <tr bgcolor="#{$color1}"><th>From</th><th>To</th><th>Place</th><th>Pictures</th></tr>
+                <xsl:for-each select="trip">
+                    <xsl:call-template name="trip"/>
+                </xsl:for-each>
+		    </xsl:with-param>
+		</xsl:call-template>
     </xsl:template>
 
     <xsl:template name="trip">
-        <xsl:variable name="color"><xsl:call-template name="color"/></xsl:variable>
-        <tr bgcolor="#{$color}">
-            <a name="{1+last()-position()}">
+        <xsl:call-template name="row">
+		    <xsl:with-param name="contents">
                 <td valign="top"><xsl:value-of select="substring(child::from[1], 1, 4)"/><xsl:text>/</xsl:text><xsl:value-of select="substring(child::from[1], 6, 2)"/><xsl:text>/</xsl:text><xsl:value-of select="substring(child::from[1], 9, 2)"/></td>
                 <td valign="top"><xsl:value-of select="substring(child::to[1], 1, 4)"/><xsl:text>/</xsl:text><xsl:value-of select="substring(child::to[1], 6, 2)"/><xsl:text>/</xsl:text><xsl:value-of select="substring(child::to[1], 9, 2)"/></td>
                 <td valign="top"><xsl:value-of select="child::place[1]"/></td>
@@ -250,21 +222,37 @@
                         </xsl:choose>
                     </xsl:for-each>
                 </td>
+		    </xsl:with-param>
+		</xsl:call-template>
+    </xsl:template>
+
+    <xsl:template name="table">
+    	<xsl:param name="contents"/>
+    	<html>
+	        <head>
+	            <title><xsl:value-of select="@title"/></title>
+	            <link rel="alternate" type="application/rss+xml" title="{@title} Feed" href="{@feed}"/>
+	        </head>
+            <body>
+                <table border="0">
+                	<xsl:copy-of select="$contents"/>
+                </table>
+            </body>
+        </html>
+    </xsl:template>
+
+    <xsl:template name="row">
+    	<xsl:param name="contents"/>
+    	<xsl:variable name="color">
+	        <xsl:choose>
+	            <xsl:when test="position() mod 2 = 0"><xsl:value-of select="$color1"/></xsl:when>
+	            <xsl:otherwise><xsl:value-of select="$color2"/></xsl:otherwise>
+	        </xsl:choose>
+	     </xsl:variable>
+	     <tr bgcolor="#{$color}">
+            <a name="{1+last()-position()}">
+            	<xsl:copy-of select="$contents"/>
             </a>
         </tr>
-    </xsl:template>
-
-    <xsl:template name="head">
-        <head>
-            <title><xsl:value-of select="@title"/></title>
-            <link rel="alternate" type="application/rss+xml" title="{@title} Feed" href="{@feed}"/>
-        </head>
-    </xsl:template>
-
-    <xsl:template name="color">
-        <xsl:choose>
-            <xsl:when test="position() mod 2 = 0"><xsl:value-of select="$color1"/></xsl:when>
-            <xsl:otherwise><xsl:value-of select="$color2"/></xsl:otherwise>
-        </xsl:choose>
     </xsl:template>
 </xsl:stylesheet>
