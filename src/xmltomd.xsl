@@ -48,13 +48,62 @@
     <xsl:template name="concert">
         <xsl:call-template name="anchor"/>
         <xsl:call-template name="date"/>
-
         <xsl:text> | </xsl:text>
         <xsl:call-template name="musicians"/>
         <xsl:text> | </xsl:text>
         <xsl:value-of select="child::location[1]"/>
         <xsl:text> | </xsl:text>
         <xsl:value-of select="child::event[1]"/>
+        <xsl:text> | </xsl:text>
+        <xsl:call-template name="rating"/>
+        <xsl:text> | </xsl:text>
+        <xsl:value-of select="child::comments[1]"/>
+        <xsl:text>&#xa;</xsl:text>
+    </xsl:template>
+
+    <xsl:template match="crashes">
+        <xsl:text># Crashes</xsl:text>
+        <xsl:text>&#xa;</xsl:text>
+        <xsl:text>Date | Manufacturer | Model | Comments</xsl:text>
+        <xsl:text>&#xa;</xsl:text>
+        <xsl:text>--- | --- | --- | ---</xsl:text>
+        <xsl:text>&#xa;</xsl:text>
+        <xsl:for-each select="crash">
+            <xsl:call-template name="crash"/>
+        </xsl:for-each>
+    </xsl:template>
+
+    <xsl:template name="crash">
+		<xsl:call-template name="anchor"/>
+        <xsl:call-template name="date"/>
+        <xsl:text> | </xsl:text>
+        <xsl:value-of select="child::manufacturer[1]"/>
+        <xsl:text> | </xsl:text>
+        <xsl:value-of select="child::model[1]"/>
+        <xsl:text> | </xsl:text>
+        <xsl:value-of select="child::comments[1]"/>
+        <xsl:text>&#xa;</xsl:text>
+    </xsl:template>
+
+    <xsl:template match="exhibitions">
+		<xsl:text># Exhibitions</xsl:text>
+        <xsl:text>&#xa;</xsl:text>
+        <xsl:text>Date | Name | Museum | Rating (0-5) | Comments</xsl:text>
+        <xsl:text>&#xa;</xsl:text>
+        <xsl:text>--- | --- | --- | --- | ---</xsl:text>
+        <xsl:text>&#xa;</xsl:text>
+        <xsl:for-each select="exhibition">
+            <xsl:call-template name="exhibition"/>
+        </xsl:for-each>
+    </xsl:template>
+
+    <xsl:template name="exhibition">
+		<xsl:call-template name="anchor"/>
+        <xsl:call-template name="date"/>
+        <xsl:text> | </xsl:text>
+        <xsl:value-of select="child::name[1]"/>
+        <xsl:text> | </xsl:text>
+        <xsl:value-of select="child::museum[1]"/>
         <xsl:text> | </xsl:text>
         <xsl:call-template name="rating"/>
         <xsl:text> | </xsl:text>
