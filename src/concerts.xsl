@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-    <xsl:template name="musicians-with-html">
+    <xsl:template name="concert-musicians-with-html">
         <xsl:if test="string-length(child::group[1])>0">
             <strong><xsl:value-of select="child::group[1]"/></strong>
             <xsl:if test="count(child::musician)>0">: </xsl:if>

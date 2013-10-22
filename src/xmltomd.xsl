@@ -4,6 +4,7 @@
 
     <xsl:include href="common.xsl"/>
     <xsl:include href="concerts.xsl"/>
+    <xsl:include href="movies.xsl"/>
 
     <xsl:template match="books">
         <xsl:text># Books</xsl:text>
@@ -49,7 +50,7 @@
         <xsl:call-template name="anchor"/>
         <xsl:call-template name="date"/>
         <xsl:text> | </xsl:text>
-        <xsl:call-template name="musicians"/>
+        <xsl:call-template name="concert-musicians"/>
         <xsl:text> | </xsl:text>
         <xsl:value-of select="child::location[1]"/>
         <xsl:text> | </xsl:text>
@@ -111,16 +112,75 @@
         <xsl:text>&#xa;</xsl:text>
     </xsl:template>
 
+    <xsl:template match="movies">
+        <xsl:text># Movies</xsl:text>
+        <xsl:text>&#xa;</xsl:text>
+        <xsl:text>Date | Theater | Director | Title | Alternative Title(s) | Version | Rating (0-5) | Comments</xsl:text>
+        <xsl:text>&#xa;</xsl:text>
+        <xsl:text>--- | --- | --- | --- | --- | --- | --- | ---</xsl:text>
+        <xsl:text>&#xa;</xsl:text>
+        <xsl:for-each select="movie">
+            <xsl:call-template name="movie"/>
+        </xsl:for-each>
+    </xsl:template>
+
+    <xsl:template name="movie">
+		<xsl:call-template name="date"/>
+		<xsl:text> | </xsl:text>
+        <xsl:value-of select="child::theater[1]"/>
+        <xsl:text> | </xsl:text>
+        <xsl:value-of select="child::director[1]"/>
+        <xsl:text> | </xsl:text>
+        <xsl:call-template name="movie-title"/>
+        <xsl:text> | </xsl:text>
+        <xsl:call-template name="movie-language"/>
+        <xsl:text> | </xsl:text>
+        <xsl:call-template name="movie-version"/>
+        <xsl:text> | </xsl:text>
+        <xsl:call-template name="rating"/>
+        <xsl:text> | </xsl:text>
+        <xsl:value-of select="child::comments[1]"/>
+        <xsl:text>&#xa;</xsl:text>
+    </xsl:template>
+
     <xsl:template name="anchor">
         <xsl:text>&lt;a name="</xsl:text>
         <xsl:value-of select="1+last()-position()"/>
         <xsl:text>"&gt;&lt;/a&gt;</xsl:text>
     </xsl:template>
 
-    <xsl:template name="musicians">
-    	<xsl:variable name="musicians-with-html"><xsl:call-template name="musicians-with-html"/></xsl:variable>
-    	<xsl:apply-templates select="$musicians-with-html"/>
+    <xsl:template name="concert-musicians">
+    	<xsl:variable name="concert-musicians-with-html"><xsl:call-template name="concert-musicians-with-html"/></xsl:variable>
+    	<xsl:apply-templates select="$concert-musicians-with-html"/>
     </xsl:template>
+
+    <xsl:template name="movie-title">
+    	<xsl:variable name="movie-title-with-html"><xsl:call-template name="movie-title-with-html"/></xsl:variable>
+    	<xsl:apply-templates select="$movie-title-with-html"/>
+    </xsl:template>
+
+    <xsl:template name="movie-language">
+    	<xsl:variable name="movie-language-with-html"><xsl:call-template name="movie-language-with-html"/></xsl:variable>
+    	<xsl:apply-templates select="$movie-language-with-html"/>
+    </xsl:template>
+
+    <xsl:template name="movie-version">
+    	<xsl:variable name="movie-version-with-html"><xsl:call-template name="movie-version-with-html"/></xsl:variable>
+    	<xsl:apply-templates select="$movie-version-with-html"/>
+    </xsl:template>
+
+    <xsl:template match="a" priority="1">
+		<xsl:text>[</xsl:text>
+		<xsl:value-of select="text()"/>
+		<xsl:text>](</xsl:text>
+		<xsl:value-of select="@href"/>
+		<xsl:if test="@title">
+			<xsl:text> "</xsl:text>
+			<xsl:value-of select="@title"/>
+			<xsl:text>"</xsl:text>
+		</xsl:if>
+		<xsl:text>)</xsl:text>
+	</xsl:template>
 
     <xsl:template match="strong">
   		<xsl:text>**</xsl:text><xsl:value-of select="text()"/><xsl:text>**</xsl:text>

@@ -4,6 +4,7 @@
 
     <xsl:include href="common.xsl"/>
     <xsl:include href="concerts.xsl"/>
+    <xsl:include href="movies.xsl"/>
 
     <xsl:variable name="color1">d2d2d2</xsl:variable>
     <xsl:variable name="color2">f0f0f0</xsl:variable>
@@ -118,42 +119,9 @@
                 <td valign="top"><xsl:call-template name="date"/></td>
                 <td valign="top"><xsl:value-of select="child::theater[1]"/></td>
                 <td valign="top"><xsl:value-of select="child::director[1]"/></td>
-                <td valign="top">
-                    <xsl:choose>
-                        <xsl:when test="count(child::title[string-length(@language)=0])>0">
-                            <xsl:choose>
-                                <xsl:when test="count(child::uri[1])>0">
-                                    <a href="{child::uri[1]}"><xsl:value-of select="child::title[string-length(@language)=0]"/></a>
-                                </xsl:when>
-                                <xsl:otherwise>
-                                    <xsl:value-of select="child::title[string-length(@language)=0]"/>
-                                </xsl:otherwise>
-                            </xsl:choose>
-                        </xsl:when>
-                    </xsl:choose>
-                </td>
-                <td valign="top">
-                    <xsl:for-each select="child::title[string-length(@language)>0]">
-                        <xsl:choose>
-                            <xsl:when test="position()!=1"><xsl:text>, </xsl:text></xsl:when>
-                        </xsl:choose>
-                        <xsl:value-of select="."/>
-                        <xsl:choose>
-                            <xsl:when test="@language='fr'"><xsl:text> (French)</xsl:text></xsl:when>
-                            <xsl:when test="@language='en'"><xsl:text> (English)</xsl:text></xsl:when>
-                            <xsl:when test="@language='jp'"><xsl:text> (Japanese)</xsl:text></xsl:when>
-                            <xsl:otherwise><xsl:text> (</xsl:text><xsl:value-of select="@language"/><xsl:text>)</xsl:text></xsl:otherwise>
-                        </xsl:choose>
-                    </xsl:for-each>
-                </td>
-                <td valign="top">
-                    <xsl:choose>
-                        <xsl:when test="string-length(child::version[1])=0">Original</xsl:when>
-                        <xsl:when test="child::version[1]='fr'">French</xsl:when>
-                        <xsl:when test="child::version[1]='de'">German</xsl:when>
-                        <xsl:otherwise><xsl:value-of select="child::version[1]"/></xsl:otherwise>
-                    </xsl:choose>
-                </td>
+                <td valign="top"><xsl:call-template name="movie-title-with-html"/></td>
+                <td valign="top"><xsl:call-template name="movie-language-with-html"/></td>
+                <td valign="top"><xsl:call-template name="movie-version-with-html"/></td></td>
                 <td valign="top"><xsl:call-template name="rating"/></td>
                 <td valign="top"><xsl:value-of select="child::comments[1]"/></td>
 		    </xsl:with-param>
