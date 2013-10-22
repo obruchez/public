@@ -6,6 +6,7 @@
     <xsl:include href="concerts.xsl"/>
     <xsl:include href="movies.xsl"/>
     <xsl:include href="plays.xsl"/>
+    <xsl:include href="trips.xsl"/>
 
     <xsl:template match="books">
         <xsl:text># Books</xsl:text>
@@ -181,6 +182,30 @@
         <xsl:text>&#xa;</xsl:text>
     </xsl:template>
 
+    <xsl:template match="trips">
+        <xsl:text># Trips</xsl:text>
+        <xsl:text>&#xa;</xsl:text>
+        <xsl:text>From | To | Place | Pictures</xsl:text>
+        <xsl:text>&#xa;</xsl:text>
+        <xsl:text>--- | --- | --- | ---</xsl:text>
+        <xsl:text>&#xa;</xsl:text>
+        <xsl:for-each select="trip">
+            <xsl:call-template name="trip"/>
+        </xsl:for-each>
+    </xsl:template>
+
+    <xsl:template name="trip">
+    	<xsl:call-template name="anchor"/>
+        <xsl:call-template name="trip-from"/>
+        <xsl:text> | </xsl:text>
+        <xsl:call-template name="trip-to"/>
+        <xsl:text> | </xsl:text>
+        <xsl:value-of select="child::place[1]"/>
+        <xsl:text> | </xsl:text>
+        <xsl:call-template name="trip-pictures"/>
+        <xsl:text>&#xa;</xsl:text>
+    </xsl:template>
+
     <xsl:template name="anchor">
         <xsl:text>&lt;a name="</xsl:text>
         <xsl:value-of select="1+last()-position()"/>
@@ -210,6 +235,11 @@
     <xsl:template name="play-actors">
     	<xsl:variable name="play-actors-with-html"><xsl:call-template name="play-actors-with-html"/></xsl:variable>
     	<xsl:apply-templates select="$play-actors-with-html"/>
+    </xsl:template>
+
+    <xsl:template name="trip-pictures">
+    	<xsl:variable name="trip-pictures-with-html"><xsl:call-template name="trip-pictures-with-html"/></xsl:variable>
+    	<xsl:apply-templates select="$trip-pictures-with-html"/>
     </xsl:template>
 
     <xsl:template match="a" priority="1">

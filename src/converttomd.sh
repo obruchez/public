@@ -3,8 +3,7 @@
 SRC_DIR=.
 DST_DIR=..
 
-#declare -a list_types=(books concerts crashes exhibitions movies plays trips)
-declare -a list_types=(books concerts crashes exhibitions movies plays)
+declare -a list_types=(books concerts crashes exhibitions movies plays trips)
 
 for list_type in ${list_types[@]}
 do

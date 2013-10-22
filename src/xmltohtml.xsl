@@ -6,6 +6,7 @@
     <xsl:include href="concerts.xsl"/>
     <xsl:include href="movies.xsl"/>
     <xsl:include href="plays.xsl"/>
+    <xsl:include href="trips.xsl"/>
 
     <xsl:variable name="color1">d2d2d2</xsl:variable>
     <xsl:variable name="color2">f0f0f0</xsl:variable>
@@ -171,21 +172,10 @@
     <xsl:template name="trip">
         <xsl:call-template name="row">
 		    <xsl:with-param name="contents">
-                <td valign="top"><xsl:value-of select="substring(child::from[1], 1, 4)"/><xsl:text>/</xsl:text><xsl:value-of select="substring(child::from[1], 6, 2)"/><xsl:text>/</xsl:text><xsl:value-of select="substring(child::from[1], 9, 2)"/></td>
-                <td valign="top"><xsl:value-of select="substring(child::to[1], 1, 4)"/><xsl:text>/</xsl:text><xsl:value-of select="substring(child::to[1], 6, 2)"/><xsl:text>/</xsl:text><xsl:value-of select="substring(child::to[1], 9, 2)"/></td>
+                <td valign="top"><xsl:call-template name="trip-from"/></td>
+                <td valign="top"><xsl:call-template name="trip-to"/></td>
                 <td valign="top"><xsl:value-of select="child::place[1]"/></td>
-                <td valign="top">
-                    <xsl:for-each select="child::pictures">
-                        <xsl:choose>
-                            <xsl:when test="string-length(.)>0">
-                                <a href="{@url}"><xsl:value-of select="."/></a><br/>
-                            </xsl:when>
-                            <xsl:otherwise>
-                                <a href="{@url}"><xsl:value-of select="parent::*/child::place[1]"/></a><br/>
-                            </xsl:otherwise>
-                        </xsl:choose>
-                    </xsl:for-each>
-                </td>
+                <td valign="top"><xsl:call-template name="trip-pictures-with-html"/></td>
 		    </xsl:with-param>
 		</xsl:call-template>
     </xsl:template>
