@@ -5,6 +5,7 @@
     <xsl:include href="common.xsl"/>
     <xsl:include href="concerts.xsl"/>
     <xsl:include href="movies.xsl"/>
+    <xsl:include href="plays.xsl"/>
 
     <xsl:variable name="color1">d2d2d2</xsl:variable>
     <xsl:variable name="color2">f0f0f0</xsl:variable>
@@ -48,7 +49,7 @@
         <xsl:call-template name="row">
 		    <xsl:with-param name="contents">
                 <td valign="top"><xsl:call-template name="date"/></td>
-                <td valign="top"><xsl:call-template name="musicians-with-html"/></td>
+                <td valign="top"><xsl:call-template name="concert-musicians-with-html"/></td>
                 <td valign="top"><xsl:value-of select="child::location[1]"/></td>
                 <td valign="top"><xsl:value-of select="child::event[1]"/></td>
                 <td valign="top"><xsl:call-template name="rating"/></td>
@@ -121,7 +122,7 @@
                 <td valign="top"><xsl:value-of select="child::director[1]"/></td>
                 <td valign="top"><xsl:call-template name="movie-title-with-html"/></td>
                 <td valign="top"><xsl:call-template name="movie-language-with-html"/></td>
-                <td valign="top"><xsl:call-template name="movie-version-with-html"/></td></td>
+                <td valign="top"><xsl:call-template name="movie-version-with-html"/></td>
                 <td valign="top"><xsl:call-template name="rating"/></td>
                 <td valign="top"><xsl:value-of select="child::comments[1]"/></td>
 		    </xsl:with-param>
@@ -149,12 +150,7 @@
                 <td valign="top"><xsl:value-of select="child::director[1]"/></td>
                 <td valign="top"><xsl:value-of select="child::adaptation[1]"/></td>
                 <td valign="top"><xsl:value-of select="child::translation[1]"/></td>
-                <td valign="top">
-                    <xsl:for-each select="child::actor">
-                        <xsl:value-of select="."/>
-                        <xsl:call-template name="comma-or-and"/>
-                    </xsl:for-each>
-                </td>
+                <td valign="top"><xsl:call-template name="play-actors-with-html"/></td>
                 <td valign="top"><xsl:call-template name="rating"/></td>
                 <td valign="top"><xsl:value-of select="child::comments[1]"/></td>
 		    </xsl:with-param>

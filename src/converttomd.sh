@@ -4,7 +4,7 @@ SRC_DIR=.
 DST_DIR=..
 
 #declare -a list_types=(books concerts crashes exhibitions movies plays trips)
-declare -a list_types=(books concerts crashes exhibitions movies)
+declare -a list_types=(books concerts crashes exhibitions movies plays)
 
 for list_type in ${list_types[@]}
 do

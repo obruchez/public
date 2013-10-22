@@ -5,6 +5,7 @@
     <xsl:include href="common.xsl"/>
     <xsl:include href="concerts.xsl"/>
     <xsl:include href="movies.xsl"/>
+    <xsl:include href="plays.xsl"/>
 
     <xsl:template match="books">
         <xsl:text># Books</xsl:text>
@@ -125,6 +126,7 @@
     </xsl:template>
 
     <xsl:template name="movie">
+    	<xsl:call-template name="anchor"/>
 		<xsl:call-template name="date"/>
 		<xsl:text> | </xsl:text>
         <xsl:value-of select="child::theater[1]"/>
@@ -136,6 +138,42 @@
         <xsl:call-template name="movie-language"/>
         <xsl:text> | </xsl:text>
         <xsl:call-template name="movie-version"/>
+        <xsl:text> | </xsl:text>
+        <xsl:call-template name="rating"/>
+        <xsl:text> | </xsl:text>
+        <xsl:value-of select="child::comments[1]"/>
+        <xsl:text>&#xa;</xsl:text>
+    </xsl:template>
+
+    <xsl:template match="plays">
+		<xsl:text># Plays</xsl:text>
+        <xsl:text>&#xa;</xsl:text>
+        <xsl:text>Date | Location | Name | Author | Director | Adaptation | Translation | Actors | Rating (0-5) | Comments</xsl:text>
+        <xsl:text>&#xa;</xsl:text>
+        <xsl:text>--- | --- | --- | --- | --- | --- | --- | --- | --- | ---</xsl:text>
+        <xsl:text>&#xa;</xsl:text>
+        <xsl:for-each select="play">
+            <xsl:call-template name="play"/>
+        </xsl:for-each>
+    </xsl:template>
+
+    <xsl:template name="play">
+    	<xsl:call-template name="anchor"/>
+        <xsl:call-template name="date"/>
+		<xsl:text> | </xsl:text>
+        <xsl:value-of select="child::location[1]"/>
+        <xsl:text> | </xsl:text>
+        <xsl:value-of select="child::name[1]"/>
+        <xsl:text> | </xsl:text>
+        <xsl:value-of select="child::author[1]"/>
+        <xsl:text> | </xsl:text>
+        <xsl:value-of select="child::director[1]"/>
+        <xsl:text> | </xsl:text>
+        <xsl:value-of select="child::adaptation[1]"/>
+        <xsl:text> | </xsl:text>
+        <xsl:value-of select="child::translation[1]"/>
+        <xsl:text> | </xsl:text>
+        <xsl:call-template name="play-actors"/>
         <xsl:text> | </xsl:text>
         <xsl:call-template name="rating"/>
         <xsl:text> | </xsl:text>
@@ -167,6 +205,11 @@
     <xsl:template name="movie-version">
     	<xsl:variable name="movie-version-with-html"><xsl:call-template name="movie-version-with-html"/></xsl:variable>
     	<xsl:apply-templates select="$movie-version-with-html"/>
+    </xsl:template>
+
+    <xsl:template name="play-actors">
+    	<xsl:variable name="play-actors-with-html"><xsl:call-template name="play-actors-with-html"/></xsl:variable>
+    	<xsl:apply-templates select="$play-actors-with-html"/>
     </xsl:template>
 
     <xsl:template match="a" priority="1">
