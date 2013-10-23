@@ -22,49 +22,7 @@
                 <xsl:text> - </xsl:text>
                 <xsl:value-of select="child::title[1]"/>
             </title>
-            <pubDate>
-                <xsl:value-of select="substring(child::date[1], 9, 2)"/>
-                <xsl:text> </xsl:text>
-                <xsl:if test="substring(child::date[1], 6, 2)='01'">
-                    <xsl:text>Jan</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='02'">
-                    <xsl:text>Feb</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='03'">
-                    <xsl:text>Mar</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='04'">
-                    <xsl:text>Apr</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='05'">
-                    <xsl:text>May</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='06'">
-                    <xsl:text>Jun</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='07'">
-                    <xsl:text>Jul</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='08'">
-                    <xsl:text>Aug</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='09'">
-                    <xsl:text>Sep</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='10'">
-                    <xsl:text>Oct</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='11'">
-                    <xsl:text>Nov</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='12'">
-                    <xsl:text>Dec</xsl:text>
-                </xsl:if>
-                <xsl:text> </xsl:text>
-                <xsl:value-of select="substring(child::date[1], 1, 4)"/>
-                <xsl:text> 00:00:00 +0000</xsl:text>
-            </pubDate>
+            <pubDate><xsl:call-template name="rss-date"/></pubDate>
             <guid><xsl:value-of select="../@link"/>#<xsl:value-of select="1+last()-position()"/></guid>
         </item>
     </xsl:template>
@@ -127,49 +85,7 @@
                     </xsl:otherwise>
                 </xsl:choose>
             </title>
-            <pubDate>
-                <xsl:value-of select="substring(child::date[1], 9, 2)"/>
-                <xsl:text> </xsl:text>
-                <xsl:if test="substring(child::date[1], 6, 2)='01'">
-                    <xsl:text>Jan</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='02'">
-                    <xsl:text>Feb</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='03'">
-                    <xsl:text>Mar</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='04'">
-                    <xsl:text>Apr</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='05'">
-                    <xsl:text>May</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='06'">
-                    <xsl:text>Jun</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='07'">
-                    <xsl:text>Jul</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='08'">
-                    <xsl:text>Aug</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='09'">
-                    <xsl:text>Sep</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='10'">
-                    <xsl:text>Oct</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='11'">
-                    <xsl:text>Nov</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='12'">
-                    <xsl:text>Dec</xsl:text>
-                </xsl:if>
-                <xsl:text> </xsl:text>
-                <xsl:value-of select="substring(child::date[1], 1, 4)"/>
-                <xsl:text> 00:00:00 +0000</xsl:text>
-            </pubDate>
+            <pubDate><xsl:call-template name="rss-date"/></pubDate>
             <guid><xsl:value-of select="../@link"/>#<xsl:value-of select="1+last()-position()"/></guid>
         </item>
     </xsl:template>
@@ -194,49 +110,7 @@
                 <xsl:text> - </xsl:text>
                 <xsl:value-of select="child::model[1]"/>
             </title>
-            <pubDate>
-                <xsl:value-of select="substring(child::date[1], 9, 2)"/>
-                <xsl:text> </xsl:text>
-                <xsl:if test="substring(child::date[1], 6, 2)='01'">
-                    <xsl:text>Jan</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='02'">
-                    <xsl:text>Feb</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='03'">
-                    <xsl:text>Mar</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='04'">
-                    <xsl:text>Apr</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='05'">
-                    <xsl:text>May</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='06'">
-                    <xsl:text>Jun</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='07'">
-                    <xsl:text>Jul</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='08'">
-                    <xsl:text>Aug</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='09'">
-                    <xsl:text>Sep</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='10'">
-                    <xsl:text>Oct</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='11'">
-                    <xsl:text>Nov</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='12'">
-                    <xsl:text>Dec</xsl:text>
-                </xsl:if>
-                <xsl:text> </xsl:text>
-                <xsl:value-of select="substring(child::date[1], 1, 4)"/>
-                <xsl:text> 00:00:00 +0000</xsl:text>
-            </pubDate>
+            <pubDate><xsl:call-template name="rss-date"/></pubDate>
             <guid><xsl:value-of select="../@link"/>#<xsl:value-of select="1+last()-position()"/></guid>
         </item>
     </xsl:template>
@@ -261,49 +135,7 @@
                 <xsl:text> - </xsl:text>
                 <xsl:value-of select="child::name[1]"/>
             </title>
-            <pubDate>
-                <xsl:value-of select="substring(child::date[1], 9, 2)"/>
-                <xsl:text> </xsl:text>
-                <xsl:if test="substring(child::date[1], 6, 2)='01'">
-                    <xsl:text>Jan</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='02'">
-                    <xsl:text>Feb</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='03'">
-                    <xsl:text>Mar</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='04'">
-                    <xsl:text>Apr</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='05'">
-                    <xsl:text>May</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='06'">
-                    <xsl:text>Jun</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='07'">
-                    <xsl:text>Jul</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='08'">
-                    <xsl:text>Aug</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='09'">
-                    <xsl:text>Sep</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='10'">
-                    <xsl:text>Oct</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='11'">
-                    <xsl:text>Nov</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='12'">
-                    <xsl:text>Dec</xsl:text>
-                </xsl:if>
-                <xsl:text> </xsl:text>
-                <xsl:value-of select="substring(child::date[1], 1, 4)"/>
-                <xsl:text> 00:00:00 +0000</xsl:text>
-            </pubDate>
+            <pubDate><xsl:call-template name="rss-date"/></pubDate>
             <guid><xsl:value-of select="../@link"/>#<xsl:value-of select="1+last()-position()"/></guid>
         </item>
     </xsl:template>
@@ -346,49 +178,7 @@
                     </xsl:otherwise>
                 </xsl:choose>
             </title>
-            <pubDate>
-                <xsl:value-of select="substring(child::date[1], 9, 2)"/>
-                <xsl:text> </xsl:text>
-                <xsl:if test="substring(child::date[1], 6, 2)='01'">
-                    <xsl:text>Jan</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='02'">
-                    <xsl:text>Feb</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='03'">
-                    <xsl:text>Mar</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='04'">
-                    <xsl:text>Apr</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='05'">
-                    <xsl:text>May</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='06'">
-                    <xsl:text>Jun</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='07'">
-                    <xsl:text>Jul</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='08'">
-                    <xsl:text>Aug</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='09'">
-                    <xsl:text>Sep</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='10'">
-                    <xsl:text>Oct</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='11'">
-                    <xsl:text>Nov</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='12'">
-                    <xsl:text>Dec</xsl:text>
-                </xsl:if>
-                <xsl:text> </xsl:text>
-                <xsl:value-of select="substring(child::date[1], 1, 4)"/>
-                <xsl:text> 00:00:00 +0000</xsl:text>
-            </pubDate>
+            <pubDate><xsl:call-template name="rss-date"/></pubDate>
             <guid><xsl:value-of select="../@link"/>#<xsl:value-of select="1+last()-position()"/></guid>
         </item>
     </xsl:template>
@@ -414,49 +204,7 @@
                 <xsl:text> - </xsl:text>
                 <xsl:value-of select="child::location[1]"/>
             </title>
-            <pubDate>
-                <xsl:value-of select="substring(child::date[1], 9, 2)"/>
-                <xsl:text> </xsl:text>
-                <xsl:if test="substring(child::date[1], 6, 2)='01'">
-                    <xsl:text>Jan</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='02'">
-                    <xsl:text>Feb</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='03'">
-                    <xsl:text>Mar</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='04'">
-                    <xsl:text>Apr</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='05'">
-                    <xsl:text>May</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='06'">
-                    <xsl:text>Jun</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='07'">
-                    <xsl:text>Jul</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='08'">
-                    <xsl:text>Aug</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='09'">
-                    <xsl:text>Sep</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='10'">
-                    <xsl:text>Oct</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='11'">
-                    <xsl:text>Nov</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::date[1], 6, 2)='12'">
-                    <xsl:text>Dec</xsl:text>
-                </xsl:if>
-                <xsl:text> </xsl:text>
-                <xsl:value-of select="substring(child::date[1], 1, 4)"/>
-                <xsl:text> 00:00:00 +0000</xsl:text>
-            </pubDate>
+            <pubDate><xsl:call-template name="rss-date"/></pubDate>
             <guid><xsl:value-of select="../@link"/>#<xsl:value-of select="1+last()-position()"/></guid>
         </item>
     </xsl:template>
@@ -484,49 +232,62 @@
                 <xsl:value-of select="child::place[1]"/>
             </title>
             <pubDate>
-                <xsl:value-of select="substring(child::from[1], 9, 2)"/>
-                <xsl:text> </xsl:text>
-                <xsl:if test="substring(child::from[1], 6, 2)='01'">
-                    <xsl:text>Jan</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::from[1], 6, 2)='02'">
-                    <xsl:text>Feb</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::from[1], 6, 2)='03'">
-                    <xsl:text>Mar</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::from[1], 6, 2)='04'">
-                    <xsl:text>Apr</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::from[1], 6, 2)='05'">
-                    <xsl:text>May</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::from[1], 6, 2)='06'">
-                    <xsl:text>Jun</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::from[1], 6, 2)='07'">
-                    <xsl:text>Jul</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::from[1], 6, 2)='08'">
-                    <xsl:text>Aug</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::from[1], 6, 2)='09'">
-                    <xsl:text>Sep</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::from[1], 6, 2)='10'">
-                    <xsl:text>Oct</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::from[1], 6, 2)='11'">
-                    <xsl:text>Nov</xsl:text>
-                </xsl:if>
-                <xsl:if test="substring(child::from[1], 6, 2)='12'">
-                    <xsl:text>Dec</xsl:text>
-                </xsl:if>
-                <xsl:text> </xsl:text>
-                <xsl:value-of select="substring(child::from[1], 1, 4)"/>
-                <xsl:text> 00:00:00 +0000</xsl:text>
+                <xsl:call-template name="rss-date-with-param">
+                	<xsl:with-param name="date"><xsl:value-of select="child::from[1]"/></xsl:with-param>
+            	</xsl:call-template>    
             </pubDate>
             <guid><xsl:value-of select="../@link"/>#<xsl:value-of select="1+last()-position()"/></guid>
         </item>
+    </xsl:template>
+
+    <xsl:template name="rss-date">
+        <xsl:call-template name="rss-date-with-param">
+            <xsl:with-param name="date"><xsl:value-of select="child::date[1]"/></xsl:with-param>
+        </xsl:call-template>
+    </xsl:template>
+
+    <xsl:template name="rss-date-with-param">
+        <xsl:param name="date"/>
+        <xsl:value-of select="substring($date, 9, 2)"/>
+        <xsl:text> </xsl:text>
+        <xsl:if test="substring($date, 6, 2)='01'">
+            <xsl:text>Jan</xsl:text>
+        </xsl:if>
+        <xsl:if test="substring($date, 6, 2)='02'">
+            <xsl:text>Feb</xsl:text>
+        </xsl:if>
+        <xsl:if test="substring($date, 6, 2)='03'">
+            <xsl:text>Mar</xsl:text>
+        </xsl:if>
+        <xsl:if test="substring($date, 6, 2)='04'">
+            <xsl:text>Apr</xsl:text>
+        </xsl:if>
+        <xsl:if test="substring($date, 6, 2)='05'">
+            <xsl:text>May</xsl:text>
+        </xsl:if>
+        <xsl:if test="substring($date, 6, 2)='06'">
+            <xsl:text>Jun</xsl:text>
+        </xsl:if>
+        <xsl:if test="substring($date, 6, 2)='07'">
+            <xsl:text>Jul</xsl:text>
+        </xsl:if>
+        <xsl:if test="substring($date, 6, 2)='08'">
+            <xsl:text>Aug</xsl:text>
+        </xsl:if>
+        <xsl:if test="substring($date, 6, 2)='09'">
+            <xsl:text>Sep</xsl:text>
+        </xsl:if>
+        <xsl:if test="substring($date, 6, 2)='10'">
+            <xsl:text>Oct</xsl:text>
+        </xsl:if>
+        <xsl:if test="substring($date, 6, 2)='11'">
+            <xsl:text>Nov</xsl:text>
+        </xsl:if>
+        <xsl:if test="substring($date, 6, 2)='12'">
+            <xsl:text>Dec</xsl:text>
+        </xsl:if>
+        <xsl:text> </xsl:text>
+        <xsl:value-of select="substring($date, 1, 4)"/>
+        <xsl:text> 00:00:00 +0000</xsl:text>
     </xsl:template>
 </xsl:stylesheet>
