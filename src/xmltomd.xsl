@@ -256,7 +256,7 @@
     </xsl:template>
 
     <xsl:template match="br">
-        <xsl:text>  </xsl:text>
+        <xsl:text>&lt;br/&gt;</xsl:text>
     </xsl:template>
 
     <xsl:template match="strong">
