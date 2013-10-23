@@ -15,11 +15,31 @@
         <xsl:value-of select="substring($date, 9, 2)"/>
     </xsl:template>
 
-    <xsl:template name="rating">
+    <xsl:template name="rating-with-html">
         <xsl:if test="string-length(child::rating[1])>0">
-            <xsl:value-of select="child::rating[1]-1"/>
+            <xsl:variable name="rating" select="number(child::rating[1])-1"/>
+            <xsl:call-template name="star"><xsl:with-param name="rating"><xsl:value-of select="$rating"/></xsl:with-param></xsl:call-template>
+            <xsl:call-template name="star"><xsl:with-param name="rating"><xsl:value-of select="$rating - 1"/></xsl:with-param></xsl:call-template>
+            <xsl:call-template name="star"><xsl:with-param name="rating"><xsl:value-of select="$rating - 2"/></xsl:with-param></xsl:call-template>
+            <xsl:call-template name="star"><xsl:with-param name="rating"><xsl:value-of select="$rating - 3"/></xsl:with-param></xsl:call-template>
+            <xsl:call-template name="star"><xsl:with-param name="rating"><xsl:value-of select="$rating - 4"/></xsl:with-param></xsl:call-template>
         </xsl:if>
     </xsl:template>
+
+    <xsl:template name="star">
+        <xsl:param name="rating"/>
+        <xsl:choose>
+            <xsl:when test="$rating &lt; 0.50"><xsl:call-template name="star-empty"/></xsl:when>
+            <xsl:when test="$rating &lt; 0.75"><xsl:call-template name="star-half"/></xsl:when>
+            <xsl:otherwise><xsl:call-template name="star-full"/></xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
+
+    <xsl:template name="star-empty"><img src="/img/star_empty.png" alt="Empty star"/></xsl:template>
+
+    <xsl:template name="star-half"><img src="/img/star_half.png" alt="Half star"/></xsl:template>
+
+    <xsl:template name="star-full"><img src="/img/star_fulll.png" alt="Full star"/></xsl:template>
 
     <xsl:template name="comma-or-and">
         <xsl:choose>

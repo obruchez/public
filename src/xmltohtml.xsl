@@ -31,7 +31,7 @@
                 <td valign="top"><xsl:call-template name="book-title-with-html"/></td>
                 <td valign="top"><xsl:value-of select="child::subtitle[1]"/></td>
                 <td valign="top"><xsl:value-of select="child::publishingyear[1]"/></td>
-                <td valign="top"><xsl:call-template name="rating"/></td>
+                <td valign="top"><xsl:call-template name="rating-with-html"/></td>
             </xsl:with-param>
         </xsl:call-template>
     </xsl:template>
@@ -54,7 +54,7 @@
                 <td valign="top"><xsl:call-template name="concert-musicians-with-html"/></td>
                 <td valign="top"><xsl:value-of select="child::location[1]"/></td>
                 <td valign="top"><xsl:value-of select="child::event[1]"/></td>
-                <td valign="top"><xsl:call-template name="rating"/></td>
+                <td valign="top"><xsl:call-template name="rating-with-html"/></td>
                 <td valign="top"><xsl:value-of select="child::comments[1]"/></td>
             </xsl:with-param>
         </xsl:call-template>
@@ -99,7 +99,7 @@
                 <td valign="top"><xsl:call-template name="date"/></td>
                 <td valign="top"><xsl:value-of select="child::name[1]"/></td>
                 <td valign="top"><xsl:value-of select="child::museum[1]"/></td>
-                <td valign="top"><xsl:call-template name="rating"/></td>
+                <td valign="top"><xsl:call-template name="rating-with-html"/></td>
                 <td valign="top"><xsl:value-of select="child::comments[1]"/></td>
             </xsl:with-param>
         </xsl:call-template>
@@ -125,7 +125,7 @@
                 <td valign="top"><xsl:call-template name="movie-title-with-html"/></td>
                 <td valign="top"><xsl:call-template name="movie-language-with-html"/></td>
                 <td valign="top"><xsl:call-template name="movie-version-with-html"/></td>
-                <td valign="top"><xsl:call-template name="rating"/></td>
+                <td valign="top"><xsl:call-template name="rating-with-html"/></td>
                 <td valign="top"><xsl:value-of select="child::comments[1]"/></td>
             </xsl:with-param>
         </xsl:call-template>
@@ -153,7 +153,7 @@
                 <td valign="top"><xsl:value-of select="child::adaptation[1]"/></td>
                 <td valign="top"><xsl:value-of select="child::translation[1]"/></td>
                 <td valign="top"><xsl:call-template name="play-actors-with-html"/></td>
-                <td valign="top"><xsl:call-template name="rating"/></td>
+                <td valign="top"><xsl:call-template name="rating-with-html"/></td>
                 <td valign="top"><xsl:value-of select="child::comments[1]"/></td>
             </xsl:with-param>
         </xsl:call-template>

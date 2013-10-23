@@ -213,6 +213,11 @@
         <xsl:text>"&gt;&lt;/a&gt;</xsl:text>
     </xsl:template>
 
+    <xsl:template name="rating">
+        <xsl:variable name="rating-with-html"><xsl:call-template name="rating-with-html"/></xsl:variable>
+        <xsl:apply-templates select="$rating-with-html"/>
+    </xsl:template>
+
     <xsl:template name="book-title">
         <xsl:variable name="book-title-with-html"><xsl:call-template name="book-title-with-html"/></xsl:variable>
         <xsl:apply-templates select="$book-title-with-html"/>
@@ -263,6 +268,19 @@
 
     <xsl:template match="br">
         <xsl:text>&lt;br/&gt;</xsl:text>
+    </xsl:template>
+
+    <xsl:template match="img" priority="1">
+        <xsl:text>![</xsl:text>
+        <xsl:value-of select="@alt"/>
+        <xsl:text>](</xsl:text>
+        <xsl:value-of select="@src"/>
+        <xsl:if test="@title">
+            <xsl:text> "</xsl:text>
+            <xsl:value-of select="@title"/>
+            <xsl:text>"</xsl:text>
+        </xsl:if>
+        <xsl:text>)</xsl:text>
     </xsl:template>
 
     <xsl:template match="strong">
