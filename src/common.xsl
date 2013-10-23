@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+    <xsl:variable name="base-url">https://raw.github.com/obruchez/public/master</xsl:variable>
+
+
     <xsl:template name="date">
         <xsl:call-template name="date-with-param">
             <xsl:with-param name="date"><xsl:value-of select="child::date[1]"/></xsl:with-param>
@@ -23,7 +26,7 @@
             <xsl:variable name="rating-second-digit" select="$rating-int mod 10"/>
             <img>
                 <xsl:attribute name="alt"><xsl:value-of select="$rating"/></xsl:attribute>
-                <xsl:attribute name="src"><xsl:value-of select="concat('/img/stars', $rating-first-digit, '_', $rating-second-digit, '.png')"/></xsl:attribute>
+                <xsl:attribute name="src"><xsl:value-of select="concat($base-url, '/img/stars', $rating-first-digit, '_', $rating-second-digit, '.png')"/></xsl:attribute>
             </img>
         </xsl:if>
     </xsl:template>
