@@ -3,47 +3,39 @@
     <xsl:output method="xml" version="1.0" encoding="utf-8" indent="yes"/>
 
     <xsl:template match="books">
-        <rss version="2.0">
-            <channel>
-                <title><xsl:value-of select="@title"/></title>
-                <description><xsl:value-of select="@description"/></description>
-                <link><xsl:value-of select="@link"/></link>
+		<xsl:call-template name="rss">
+            <xsl:with-param name="contents">
                 <xsl:for-each select="book">
                     <xsl:call-template name="book"/>
                 </xsl:for-each>
-            </channel>
-        </rss>
+            </xsl:with-param>
+        </xsl:call-template>
     </xsl:template>
 
     <xsl:template name="book">
-        <item>
-            <title>
+		<xsl:call-template name="item">
+            <xsl:with-param name="contents">
                 <xsl:value-of select="child::author[1]"/>
                 <xsl:text> - </xsl:text>
                 <xsl:value-of select="child::title[1]"/>
-            </title>
-            <pubDate><xsl:call-template name="rss-date"/></pubDate>
-            <guid><xsl:value-of select="../@link"/>#<xsl:value-of select="1+last()-position()"/></guid>
-        </item>
+            </xsl:with-param>
+        </xsl:call-template>
     </xsl:template>
 
     <xsl:template match="concerts">
-        <rss version="2.0">
-            <channel>
-                <title><xsl:value-of select="@title"/></title>
-                <description><xsl:value-of select="@description"/></description>
-                <link><xsl:value-of select="@link"/></link>
+		<xsl:call-template name="rss">
+            <xsl:with-param name="contents">
                 <xsl:for-each select="concert">
                     <xsl:call-template name="concert"/>
                 </xsl:for-each>
-            </channel>
-        </rss>
+            </xsl:with-param>
+        </xsl:call-template>
     </xsl:template>
 
     <xsl:template name="concert">
         <xsl:variable name="locationTokens" select="tokenize(child::location[1],',')"/>
-        <item>
-            <title>
+		<xsl:call-template name="item">
+            <xsl:with-param name="contents">
                 <xsl:choose>
                     <xsl:when test="count(child::group)>0">
                         <xsl:value-of select="child::group[1]"/>
@@ -84,78 +76,63 @@
                         </xsl:choose>
                     </xsl:otherwise>
                 </xsl:choose>
-            </title>
-            <pubDate><xsl:call-template name="rss-date"/></pubDate>
-            <guid><xsl:value-of select="../@link"/>#<xsl:value-of select="1+last()-position()"/></guid>
-        </item>
+            </xsl:with-param>
+        </xsl:call-template>
     </xsl:template>
 
     <xsl:template match="crashes">
-        <rss version="2.0">
-            <channel>
-                <title><xsl:value-of select="@title"/></title>
-                <description><xsl:value-of select="@description"/></description>
-                <link><xsl:value-of select="@link"/></link>
+		<xsl:call-template name="rss">
+            <xsl:with-param name="contents">
                 <xsl:for-each select="crash">
                     <xsl:call-template name="crash"/>
                 </xsl:for-each>
-            </channel>
-        </rss>
+            </xsl:with-param>
+        </xsl:call-template>
     </xsl:template>
 
     <xsl:template name="crash">
-        <item>
-            <title>
+		<xsl:call-template name="item">
+            <xsl:with-param name="contents">
                 <xsl:value-of select="child::manufacturer[1]"/>
                 <xsl:text> - </xsl:text>
                 <xsl:value-of select="child::model[1]"/>
-            </title>
-            <pubDate><xsl:call-template name="rss-date"/></pubDate>
-            <guid><xsl:value-of select="../@link"/>#<xsl:value-of select="1+last()-position()"/></guid>
-        </item>
+            </xsl:with-param>
+        </xsl:call-template>
     </xsl:template>
     
     <xsl:template match="exhibitions">
-        <rss version="2.0">
-            <channel>
-                <title><xsl:value-of select="@title"/></title>
-                <description><xsl:value-of select="@description"/></description>
-                <link><xsl:value-of select="@link"/></link>
+		<xsl:call-template name="rss">
+            <xsl:with-param name="contents">
                 <xsl:for-each select="exhibition">
                     <xsl:call-template name="exhibition"/>
                 </xsl:for-each>
-            </channel>
-        </rss>
+            </xsl:with-param>
+        </xsl:call-template>
     </xsl:template>
 
     <xsl:template name="exhibition">
-        <item>
-            <title>
+		<xsl:call-template name="item">
+            <xsl:with-param name="contents">
                 <xsl:value-of select="child::museum[1]"/>
                 <xsl:text> - </xsl:text>
                 <xsl:value-of select="child::name[1]"/>
-            </title>
-            <pubDate><xsl:call-template name="rss-date"/></pubDate>
-            <guid><xsl:value-of select="../@link"/>#<xsl:value-of select="1+last()-position()"/></guid>
-        </item>
+            </xsl:with-param>
+        </xsl:call-template>
     </xsl:template>
 
     <xsl:template match="movies">
-        <rss version="2.0">
-            <channel>
-                <title><xsl:value-of select="@title"/></title>
-                <description><xsl:value-of select="@description"/></description>
-                <link><xsl:value-of select="@link"/></link>
+		<xsl:call-template name="rss">
+            <xsl:with-param name="contents">
                 <xsl:for-each select="movie">
                     <xsl:call-template name="movie"/>
                 </xsl:for-each>
-            </channel>
-        </rss>
+            </xsl:with-param>
+        </xsl:call-template>
     </xsl:template>
 
     <xsl:template name="movie">
-        <item>
-            <title>
+		<xsl:call-template name="item">
+            <xsl:with-param name="contents">
                 <xsl:choose>
                     <xsl:when test="string-length(child::director[1])>0">
                         <xsl:value-of select="child::director[1]"/>
@@ -177,65 +154,83 @@
                         <xsl:value-of select="child::title[1]"/>
                     </xsl:otherwise>
                 </xsl:choose>
-            </title>
-            <pubDate><xsl:call-template name="rss-date"/></pubDate>
-            <guid><xsl:value-of select="../@link"/>#<xsl:value-of select="1+last()-position()"/></guid>
-        </item>
+            </xsl:with-param>
+        </xsl:call-template>
     </xsl:template>
 
     <xsl:template match="plays">
-        <rss version="2.0">
-            <channel>
-                <title><xsl:value-of select="@title"/></title>
-                <description><xsl:value-of select="@description"/></description>
-                <link><xsl:value-of select="@link"/></link>
+		<xsl:call-template name="rss">
+            <xsl:with-param name="contents">
                 <xsl:for-each select="play">
                     <xsl:call-template name="play"/>
                 </xsl:for-each>
-            </channel>
-        </rss>
+            </xsl:with-param>
+        </xsl:call-template>
     </xsl:template>
 
     <xsl:template name="play">
-        <xsl:variable name="locationTokens" select="tokenize(child::location[1],',')"/>
-        <item>
-            <title>
+		<xsl:call-template name="item">
+            <xsl:with-param name="contents">
                 <xsl:value-of select="child::name[1]"/>
                 <xsl:text> - </xsl:text>
                 <xsl:value-of select="child::location[1]"/>
-            </title>
-            <pubDate><xsl:call-template name="rss-date"/></pubDate>
-            <guid><xsl:value-of select="../@link"/>#<xsl:value-of select="1+last()-position()"/></guid>
-        </item>
+            </xsl:with-param>
+        </xsl:call-template>
     </xsl:template>
 
     <xsl:template match="trips">
-        <rss version="2.0">
-            <channel>
-                <title><xsl:value-of select="@title"/></title>
-                <description><xsl:value-of select="@description"/></description>
-                <link><xsl:value-of select="@link"/></link>
+		<xsl:call-template name="rss">
+            <xsl:with-param name="contents">
                 <xsl:for-each select="trip">
                     <xsl:call-template name="trip"/>
                 </xsl:for-each>
-            </channel>
-        </rss>
+            </xsl:with-param>
+        </xsl:call-template>
     </xsl:template>
 
     <xsl:template name="trip">
-        <item>
-            <title>
+		<xsl:call-template name="item-with-date">
+            <xsl:with-param name="contents">
                 <xsl:value-of select="substring(child::from[1], 1, 4)"/><xsl:text>/</xsl:text><xsl:value-of select="substring(child::from[1], 6, 2)"/><xsl:text>/</xsl:text><xsl:value-of select="substring(child::from[1], 9, 2)"/>
                 <xsl:text>-</xsl:text>
                 <xsl:value-of select="substring(child::to[1], 1, 4)"/><xsl:text>/</xsl:text><xsl:value-of select="substring(child::to[1], 6, 2)"/><xsl:text>/</xsl:text><xsl:value-of select="substring(child::to[1], 9, 2)"/>
                 <xsl:text>: </xsl:text>
                 <xsl:value-of select="child::place[1]"/>
-            </title>
-            <pubDate>
+            </xsl:with-param>
+            <xsl:with-param name="date">
                 <xsl:call-template name="rss-date-with-param">
                 	<xsl:with-param name="date"><xsl:value-of select="child::from[1]"/></xsl:with-param>
-            	</xsl:call-template>    
-            </pubDate>
+            	</xsl:call-template>  
+            </xsl:with-param>
+        </xsl:call-template>
+    </xsl:template>
+
+    <xsl:template name="rss">
+        <xsl:param name="contents"/>
+        <rss version="2.0">
+            <channel>
+                <title><xsl:value-of select="@title"/></title>
+                <description><xsl:value-of select="@description"/></description>
+                <link><xsl:value-of select="@link"/></link>
+                <xsl:copy-of select="$contents"/>
+            </channel>
+        </rss>
+    </xsl:template>
+
+   <xsl:template name="item">
+        <xsl:param name="contents"/>
+        <xsl:call-template name="item-with-date">
+        	<xsl:with-param name="contents"><xsl:copy-of select="$contents"/></xsl:with-param>
+            <xsl:with-param name="date"><xsl:call-template name="rss-date"/></xsl:with-param>
+        </xsl:call-template>
+    </xsl:template>
+
+    <xsl:template name="item-with-date">
+        <xsl:param name="contents"/>
+        <xsl:param name="date"/>
+        <item>
+            <title><xsl:copy-of select="$contents"/></title>
+            <pubDate><xsl:copy-of select="$date"/></pubDate>
             <guid><xsl:value-of select="../@link"/>#<xsl:value-of select="1+last()-position()"/></guid>
         </item>
     </xsl:template>
