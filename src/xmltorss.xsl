@@ -2,6 +2,10 @@
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:output method="xml" version="1.0" encoding="utf-8" indent="yes"/>
 
+	<xsl:include href="common.xsl"/>
+    <xsl:include href="movies.xsl"/>
+    <xsl:include href="trips.xsl"/>
+
     <xsl:template match="books">
 		<xsl:call-template name="rss">
             <xsl:with-param name="contents">
@@ -56,7 +60,7 @@
                 </xsl:choose>
                 <xsl:text> - </xsl:text>
                 <xsl:choose>
-                    <xsl:when test="count($locationTokens)=1 or count($locationTokens)=1">
+                    <xsl:when test="count($locationTokens)=1">
                         <xsl:value-of select="normalize-space($locationTokens[1])"/>
                     </xsl:when>
                     <xsl:otherwise>
@@ -142,18 +146,7 @@
                     </xsl:otherwise>
                 </xsl:choose>
                 <xsl:text> - </xsl:text>
-                <xsl:variable name="version" select="child::version[1]"/>
-                <xsl:choose>
-                    <xsl:when test="string-length($version)>0 and count(child::title[@language=$version])>0">
-                        <xsl:value-of select="child::title[@language=$version]"/>
-                    </xsl:when>
-                    <xsl:when test="count(child::title[string-length(@language)=0])>0">
-                        <xsl:value-of select="child::title[string-length(@language)=0]"/>
-                    </xsl:when>
-                    <xsl:otherwise>
-                        <xsl:value-of select="child::title[1]"/>
-                    </xsl:otherwise>
-                </xsl:choose>
+                <xsl:call-template name="movie-main-title"/>
             </xsl:with-param>
         </xsl:call-template>
     </xsl:template>
@@ -191,9 +184,9 @@
     <xsl:template name="trip">
 		<xsl:call-template name="item-with-date">
             <xsl:with-param name="contents">
-                <xsl:value-of select="substring(child::from[1], 1, 4)"/><xsl:text>/</xsl:text><xsl:value-of select="substring(child::from[1], 6, 2)"/><xsl:text>/</xsl:text><xsl:value-of select="substring(child::from[1], 9, 2)"/>
+                <xsl:call-template name="trip-from"/>
                 <xsl:text>-</xsl:text>
-                <xsl:value-of select="substring(child::to[1], 1, 4)"/><xsl:text>/</xsl:text><xsl:value-of select="substring(child::to[1], 6, 2)"/><xsl:text>/</xsl:text><xsl:value-of select="substring(child::to[1], 9, 2)"/>
+                <xsl:call-template name="trip-to"/>
                 <xsl:text>: </xsl:text>
                 <xsl:value-of select="child::place[1]"/>
             </xsl:with-param>
