@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <trips title="Trips (Olivier Bruchez)" link="http://olivier.bruchez.org/trips.html" feed="http://olivier.bruchez.org/trips.rss">
   <trip>
+    <from>2013.10.17</from>
+    <to>2013.10.21</to>
+    <place>Prague, Czech Republic</place>
+    <pictures url=""/>
+  </trip>
+  <trip>
     <from>2013.07.29</from>
     <to>2013.08.08</to>
     <place>Jandía, Fuerteventura, Canary Islands, Spain</place>
