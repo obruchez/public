@@ -18,11 +18,13 @@
     <xsl:template name="rating-with-html">
         <xsl:if test="string-length(child::rating[1])>0">
             <xsl:variable name="rating" select="number(child::rating[1])-1"/>
-            <xsl:call-template name="star"><xsl:with-param name="rating"><xsl:value-of select="$rating"/></xsl:with-param></xsl:call-template>
-            <xsl:call-template name="star"><xsl:with-param name="rating"><xsl:value-of select="$rating - 1"/></xsl:with-param></xsl:call-template>
-            <xsl:call-template name="star"><xsl:with-param name="rating"><xsl:value-of select="$rating - 2"/></xsl:with-param></xsl:call-template>
-            <xsl:call-template name="star"><xsl:with-param name="rating"><xsl:value-of select="$rating - 3"/></xsl:with-param></xsl:call-template>
-            <xsl:call-template name="star"><xsl:with-param name="rating"><xsl:value-of select="$rating - 4"/></xsl:with-param></xsl:call-template>
+            <div>
+                <xsl:call-template name="star"><xsl:with-param name="rating"><xsl:value-of select="$rating"/></xsl:with-param></xsl:call-template>
+                <xsl:call-template name="star"><xsl:with-param name="rating"><xsl:value-of select="$rating - 1"/></xsl:with-param></xsl:call-template>
+                <xsl:call-template name="star"><xsl:with-param name="rating"><xsl:value-of select="$rating - 2"/></xsl:with-param></xsl:call-template>
+                <xsl:call-template name="star"><xsl:with-param name="rating"><xsl:value-of select="$rating - 3"/></xsl:with-param></xsl:call-template>
+                <xsl:call-template name="star"><xsl:with-param name="rating"><xsl:value-of select="$rating - 4"/></xsl:with-param></xsl:call-template>
+            </div>
         </xsl:if>
     </xsl:template>
 

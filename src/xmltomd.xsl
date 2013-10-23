@@ -270,6 +270,10 @@
         <xsl:text>&lt;br/&gt;</xsl:text>
     </xsl:template>
 
+    <xsl:template match="div">
+        <xsl:text>&lt;div&gt;</xsl:text><xsl:apply-templates select="* | text()"/><xsl:text>&lt;/div&gt;</xsl:text>
+    </xsl:template>
+
     <xsl:template match="img" priority="1">
         <xsl:text>![</xsl:text>
         <xsl:value-of select="@alt"/>
