@@ -319,7 +319,7 @@
 		<author>Eric van der Vlist, Danny Ayers, Erik Bruchez, Joe Fawcett &amp; Alessandro Vernet</author>
 		<publishingyear>2006</publishingyear>
 		<rating>3.5</rating>
-        <url></url>
+        <url>http://books.google.ch/books/about/Professional_Web_2_0_Programming.html?id=hyV-IX8W30QC</url>
 	</book>
     <book>
 		<date>2008.12.17</date>
@@ -328,7 +328,7 @@
 		<author>Yann Arthus-Bertrand</author>
 		<publishingyear>2006</publishingyear>
 		<rating>4.5</rating>
-        <url></url>
+        <url>http://books.google.ch/books/about/365_jours_pour_r%C3%A9fl%C3%A9chir_%C3%A0_notre_Terr.html?id=5P7GAwAACAAJ</url>
 	</book>
 	<book>
 		<date>2008.08.17</date>
@@ -337,7 +337,7 @@
 		<author>Bruce Eckel</author>
 		<publishingyear>2006</publishingyear>
 		<rating>4.75</rating>
-        <url></url>
+        <url>https://en.wikipedia.org/wiki/Thinking_in_Java</url>
 	</book>
 	<book>
 		<date>2008.03.24</date>
@@ -346,7 +346,7 @@
 		<author>Douglas Coupland</author>
 		<publishingyear>2006</publishingyear>
 		<rating>4.75</rating>
-        <url></url>
+        <url>https://en.wikipedia.org/wiki/JPod</url>
 	</book>
 	<book>
 		<date>2008.02.16</date>
@@ -355,7 +355,7 @@
 		<author>Thimothy Ferriss</author>
 		<publishingyear>2007</publishingyear>
 		<rating>4.75</rating>
-        <url></url>
+        <url>https://en.wikipedia.org/wiki/The_4-Hour_Workweek</url>
 	</book>
 	<book>
 		<date>2008.01.28</date>
@@ -364,7 +364,7 @@
 		<author>David Allen</author>
 		<publishingyear>2002</publishingyear>
 		<rating>5.0</rating>
-        <url></url>
+        <url>https://en.wikipedia.org/wiki/Getting_Things_Done</url>
 	</book>
 	<book>
 		<date>2007.07.08</date>
@@ -373,7 +373,7 @@
 		<author>Muriel Barbery</author>
 		<publishingyear>2006</publishingyear>
 		<rating>5.25</rating>
-        <url></url>
+        <url>https://fr.wikipedia.org/wiki/L%27%C3%89l%C3%A9gance_du_h%C3%A9risson</url>
 	</book>
 	<book>
 		<date>2007.05.08</date>
@@ -382,7 +382,7 @@
 		<author>Robert-Vincent Joule &amp; Jean-Léon Beauvois</author>
 		<publishingyear>2002</publishingyear>
 		<rating>4.25</rating>
-        <url></url>
+        <url>https://fr.wikipedia.org/wiki/Petit_trait%C3%A9_de_manipulation_%C3%A0_l%27usage_des_honn%C3%AAtes_gens</url>
 	</book>
 	<book>
 		<date>2007.02.25</date>
@@ -391,7 +391,7 @@
 		<author>Richard Dawkins</author>
 		<publishingyear>2006</publishingyear>
 		<rating>5.0</rating>
-        <url></url>
+        <url>https://en.wikipedia.org/wiki/The_God_Delusion</url>
 	</book>
 	<book>
 		<date>2006.10.10</date>
@@ -400,7 +400,7 @@
 		<author>Boris Vian</author>
 		<publishingyear>1947</publishingyear>
 		<rating>5.5</rating>
-        <url></url>
+        <url>https://fr.wikipedia.org/wiki/L%27%C3%89cume_des_jours</url>
 	</book>
 	<book>
 		<date>2006.08.20</date>
@@ -409,7 +409,7 @@
 		<author>Ray Kurzweil</author>
 		<publishingyear>2005</publishingyear>
 		<rating>5.0</rating>
-        <url></url>
+        <url>https://en.wikipedia.org/wiki/The_Singularity_Is_Near</url>
 	</book>
 	<book>
 		<date>2006.05.14</date>
@@ -418,7 +418,7 @@
 		<author>Dan Brown</author>
 		<publishingyear>2003</publishingyear>
 		<rating>4.5</rating>
-        <url></url>
+        <url>https://en.wikipedia.org/wiki/The_Da_Vinci_Code</url>
 	</book>
 	<book>
 		<date>2005.08.16</date>
@@ -427,7 +427,7 @@
 		<author>Laurent Gaudé</author>
 		<publishingyear>2004</publishingyear>
 		<rating>4.5</rating>
-        <url></url>
+        <url>https://fr.wikipedia.org/wiki/Le_Soleil_des_Scorta</url>
 	</book>
 	<book>
 		<date>2005.06.10</date>
@@ -436,7 +436,7 @@
 		<author>Milan Kundera</author>
 		<publishingyear>2003</publishingyear>
 		<rating>5.0</rating>
-        <url></url>
+        <url>https://fr.wikipedia.org/wiki/L%27Ignorance</url>
 	</book>
 	<book>
 		<date>2005.05.22</date>
@@ -445,7 +445,7 @@
 		<author>George Cole</author>
 		<publishingyear>2005</publishingyear>
 		<rating>5.25</rating>
-        <url></url>
+        <url>http://books.google.ch/books/about/The_Last_Miles.html?id=ZcnGp0740TMC</url>
 	</book>
     <book>
         <date>2004.09.19</date>
@@ -454,7 +454,7 @@
         <author>Ray Kurzweil</author>
         <publishingyear>1999</publishingyear>
         <rating/>
-        <url></url>
+        <url>https://en.wikipedia.org/wiki/The_Age_of_Spiritual_Machines</url>
     </book>
     <book>
         <date>2004.01.24</date>
@@ -463,7 +463,7 @@
         <author>Franz Kafka</author>
         <publishingyear>1933</publishingyear>
         <rating/>
-        <url></url>
+        <url>https://fr.wikipedia.org/wiki/Le_Proc%C3%A8s</url>
     </book>
     <book>
         <date>2002.05.04</date>
@@ -472,7 +472,7 @@
         <author>Paul Tingen</author>
         <publishingyear>2001</publishingyear>
         <rating/>
-        <url></url>
+        <url>http://books.google.ch/books/about/Miles_Beyond.html?id=LA_2EZtLQ5AC</url>
     </book>
     <book>
         <date>2001.09.26</date>
@@ -481,7 +481,7 @@
         <author>Franz Kafka</author>
         <publishingyear>1938</publishingyear>
         <rating/>
-        <url></url>
+        <url>https://fr.wikipedia.org/wiki/Le_Ch%C3%A2teau</url>
     </book>
     <book>
         <date>1999.??.??</date>
@@ -490,7 +490,7 @@
         <author>Ian Carr</author>
         <publishingyear>1991</publishingyear>
         <rating/>
-        <url></url>
+        <url>http://books.google.ch/books/about/Keith_Jarrett.html?id=HhWLjNdg3uUC</url>
     </book>
     <book>
         <date>1998.??.??</date>
@@ -499,7 +499,7 @@
         <author>Miles Davis &amp; Quincy Troupe</author>
         <publishingyear>1991</publishingyear>
         <rating/>
-        <url></url>
+        <url>http://books.google.ch/books/about/Miles.html?id=puBfGwAACAAJ</url>
     </book>
     <book>
         <date>1996.09.21</date>
@@ -508,7 +508,7 @@
         <author>Michel Butor</author>
         <publishingyear>1957</publishingyear>
         <rating/>
-        <url></url>
+        <url>https://fr.wikipedia.org/wiki/La_Modification</url>
     </book>
     <book>
         <date>1996.07.08</date>
@@ -517,7 +517,7 @@
         <author>Henri Michaux</author>
         <publishingyear>1938</publishingyear>
         <rating/>
-        <url></url>
+        <url>https://fr.wikipedia.org/wiki/Plume_(Michaux)</url>
     </book>
     <book>
         <date>1996.07.04</date>
@@ -526,7 +526,7 @@
         <author>Daniel Pennac</author>
         <publishingyear>1992</publishingyear>
         <rating/>
-        <url></url>
+        <url>https://fr.wikipedia.org/wiki/Comme_un_roman</url>
     </book>
     <book>
         <date>1996.07.01</date>
@@ -535,7 +535,7 @@
         <author>Milan Kundera</author>
         <publishingyear>1984</publishingyear>
         <rating/>
-        <url></url>
+        <url>https://fr.wikipedia.org/wiki/L%27Insoutenable_L%C3%A9g%C3%A8ret%C3%A9_de_l%27%C3%AAtre</url>
     </book>
     <book>
         <date>199?.??.??</date>
@@ -544,7 +544,7 @@
         <author>Arthur C. Clarke</author>
         <publishingyear>1982</publishingyear>
         <rating/>
-        <url></url>
+        <url>https://fr.wikipedia.org/wiki/2010_:_Odyss%C3%A9e_deux</url>
     </book>
     <book>
         <date>199?.??.??</date>
@@ -553,7 +553,7 @@
         <author>Arthur C. Clarke</author>
         <publishingyear>1968</publishingyear>
         <rating/>
-        <url></url>
+        <url>https://fr.wikipedia.org/wiki/2001_:_l%27Odyss%C3%A9e_de_l%27espace_(roman)</url>
     </book>
 	<!--
 	Kundera, Kafka, Sartre, etc. + livre lu dans les années '90 parlant de l'ABS, etc.

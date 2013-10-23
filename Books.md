@@ -37,30 +37,30 @@ Date | Author | Title | Subtitle | Year | Rating | Comments
 <a name="30"></a>2009/04/10 | Régis Jauffret | [Asiles De Fous](https://fr.wikipedia.org/wiki/Asiles_de_fous) |  | 2005 | ![3.5](/img/stars3_5.png) | 
 <a name="29"></a>2009/03/27 | Eric-Emmanuel Schmitt | [Ulysse From Bagdad](https://fr.wikipedia.org/wiki/Ulysse_from_Bagdad) |  | 2008 | ![4](/img/stars4_0.png) | 
 <a name="28"></a>2009/03/08 | Boris Vian | [L'Automne À Pékin](https://fr.wikipedia.org/wiki/L%27Automne_%C3%A0_P%C3%A9kin) |  | 1947 | ![4.25](/img/stars4_5.png) | 
-<a name="27"></a>2008/12/29 | Eric van der Vlist, Danny Ayers, Erik Bruchez, Joe Fawcett & Alessandro Vernet | Professional Web 2.0 Programming |  | 2006 | ![2.5](/img/stars2_5.png) | 
-<a name="26"></a>2008/12/17 | Yann Arthus-Bertrand | 365 Jours Pour Réfléchir À Notre Terre |  | 2006 | ![3.5](/img/stars3_5.png) | 
-<a name="25"></a>2008/08/17 | Bruce Eckel | Thinking In Java |  | 2006 | ![3.75](/img/stars4_0.png) | 
-<a name="24"></a>2008/03/24 | Douglas Coupland | JPod |  | 2006 | ![3.75](/img/stars4_0.png) | 
-<a name="23"></a>2008/02/16 | Thimothy Ferriss | The 4-Hour Workweek | Escape 9-5, Live Anywhere, And Join The New Rich | 2007 | ![3.75](/img/stars4_0.png) | 
-<a name="22"></a>2008/01/28 | David Allen | Getting Things Done | The Art Of Stress-Free Productivity | 2002 | ![4](/img/stars4_0.png) | 
-<a name="21"></a>2007/07/08 | Muriel Barbery | L'Élégance Du Hérisson |  | 2006 | ![4.25](/img/stars4_5.png) | 
-<a name="20"></a>2007/05/08 | Robert-Vincent Joule & Jean-Léon Beauvois | Petit Traité De Manipulation À L'Usage Des Honnêtes Gens |  | 2002 | ![3.25](/img/stars3_5.png) | 
-<a name="19"></a>2007/02/25 | Richard Dawkins | The God Delusion |  | 2006 | ![4](/img/stars4_0.png) | 
-<a name="18"></a>2006/10/10 | Boris Vian | L'Écume Des Jours |  | 1947 | ![4.5](/img/stars4_5.png) | 
-<a name="17"></a>2006/08/20 | Ray Kurzweil | The Singularity Is Near | When Humans Transcend Biology | 2005 | ![4](/img/stars4_0.png) | 
-<a name="16"></a>2006/05/14 | Dan Brown | The Da Vinci Code |  | 2003 | ![3.5](/img/stars3_5.png) | 
-<a name="15"></a>2005/08/16 | Laurent Gaudé | Le Soleil des Scorta |  | 2004 | ![3.5](/img/stars3_5.png) | 
-<a name="14"></a>2005/06/10 | Milan Kundera | L'Ignorance |  | 2003 | ![4](/img/stars4_0.png) | 
-<a name="13"></a>2005/05/22 | George Cole | The Last Miles | The Music of Miles Davis 1980-1991 | 2005 | ![4.25](/img/stars4_5.png) | 
-<a name="12"></a>2004/09/19 | Ray Kurzweil | The Age of Spiritual Machines |  | 1999 |  | 
-<a name="11"></a>2004/01/24 | Franz Kafka | Le Procès |  | 1933 |  | 
-<a name="10"></a>2002/05/04 | Paul Tingen | Miles Beyond | The Electric Explorations of Miles Davis 1967-1991 | 2001 |  | 
-<a name="9"></a>2001/09/26 | Franz Kafka | Le Château |  | 1938 |  | 
-<a name="8"></a>1999/??/?? | Ian Carr | Keith Jarrett: The Man And His Music |  | 1991 |  | 
-<a name="7"></a>1998/??/?? | Miles Davis & Quincy Troupe | Miles: L'autobiographie |  | 1991 |  | 
-<a name="6"></a>1996/09/21 | Michel Butor | La Modification |  | 1957 |  | 
-<a name="5"></a>1996/07/08 | Henri Michaux | Plume |  | 1938 |  | 
-<a name="4"></a>1996/07/04 | Daniel Pennac | Comme un roman |  | 1992 |  | 
-<a name="3"></a>1996/07/01 | Milan Kundera | L'insoutenable légèreté de l'être |  | 1984 |  | 
-<a name="2"></a>199?/??/?? | Arthur C. Clarke | 2010 : Odyssée deux |  | 1982 |  | 
-<a name="1"></a>199?/??/?? | Arthur C. Clarke | 2001 : L'Odyssée de l'espace |  | 1968 |  | 
+<a name="27"></a>2008/12/29 | Eric van der Vlist, Danny Ayers, Erik Bruchez, Joe Fawcett & Alessandro Vernet | [Professional Web 2.0 Programming](http://books.google.ch/books/about/Professional_Web_2_0_Programming.html?id=hyV-IX8W30QC) |  | 2006 | ![2.5](/img/stars2_5.png) | 
+<a name="26"></a>2008/12/17 | Yann Arthus-Bertrand | [365 Jours Pour Réfléchir À Notre Terre](http://books.google.ch/books/about/365_jours_pour_r%C3%A9fl%C3%A9chir_%C3%A0_notre_Terr.html?id=5P7GAwAACAAJ) |  | 2006 | ![3.5](/img/stars3_5.png) | 
+<a name="25"></a>2008/08/17 | Bruce Eckel | [Thinking In Java](https://en.wikipedia.org/wiki/Thinking_in_Java) |  | 2006 | ![3.75](/img/stars4_0.png) | 
+<a name="24"></a>2008/03/24 | Douglas Coupland | [JPod](https://en.wikipedia.org/wiki/JPod) |  | 2006 | ![3.75](/img/stars4_0.png) | 
+<a name="23"></a>2008/02/16 | Thimothy Ferriss | [The 4-Hour Workweek](https://en.wikipedia.org/wiki/The_4-Hour_Workweek) | Escape 9-5, Live Anywhere, And Join The New Rich | 2007 | ![3.75](/img/stars4_0.png) | 
+<a name="22"></a>2008/01/28 | David Allen | [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done) | The Art Of Stress-Free Productivity | 2002 | ![4](/img/stars4_0.png) | 
+<a name="21"></a>2007/07/08 | Muriel Barbery | [L'Élégance Du Hérisson](https://fr.wikipedia.org/wiki/L%27%C3%89l%C3%A9gance_du_h%C3%A9risson) |  | 2006 | ![4.25](/img/stars4_5.png) | 
+<a name="20"></a>2007/05/08 | Robert-Vincent Joule & Jean-Léon Beauvois | [Petit Traité De Manipulation À L'Usage Des Honnêtes Gens](https://fr.wikipedia.org/wiki/Petit_trait%C3%A9_de_manipulation_%C3%A0_l%27usage_des_honn%C3%AAtes_gens) |  | 2002 | ![3.25](/img/stars3_5.png) | 
+<a name="19"></a>2007/02/25 | Richard Dawkins | [The God Delusion](https://en.wikipedia.org/wiki/The_God_Delusion) |  | 2006 | ![4](/img/stars4_0.png) | 
+<a name="18"></a>2006/10/10 | Boris Vian | [L'Écume Des Jours](https://fr.wikipedia.org/wiki/L%27%C3%89cume_des_jours) |  | 1947 | ![4.5](/img/stars4_5.png) | 
+<a name="17"></a>2006/08/20 | Ray Kurzweil | [The Singularity Is Near](https://en.wikipedia.org/wiki/The_Singularity_Is_Near) | When Humans Transcend Biology | 2005 | ![4](/img/stars4_0.png) | 
+<a name="16"></a>2006/05/14 | Dan Brown | [The Da Vinci Code](https://en.wikipedia.org/wiki/The_Da_Vinci_Code) |  | 2003 | ![3.5](/img/stars3_5.png) | 
+<a name="15"></a>2005/08/16 | Laurent Gaudé | [Le Soleil des Scorta](https://fr.wikipedia.org/wiki/Le_Soleil_des_Scorta) |  | 2004 | ![3.5](/img/stars3_5.png) | 
+<a name="14"></a>2005/06/10 | Milan Kundera | [L'Ignorance](https://fr.wikipedia.org/wiki/L%27Ignorance) |  | 2003 | ![4](/img/stars4_0.png) | 
+<a name="13"></a>2005/05/22 | George Cole | [The Last Miles](http://books.google.ch/books/about/The_Last_Miles.html?id=ZcnGp0740TMC) | The Music of Miles Davis 1980-1991 | 2005 | ![4.25](/img/stars4_5.png) | 
+<a name="12"></a>2004/09/19 | Ray Kurzweil | [The Age of Spiritual Machines](https://en.wikipedia.org/wiki/The_Age_of_Spiritual_Machines) |  | 1999 |  | 
+<a name="11"></a>2004/01/24 | Franz Kafka | [Le Procès](https://fr.wikipedia.org/wiki/Le_Proc%C3%A8s) |  | 1933 |  | 
+<a name="10"></a>2002/05/04 | Paul Tingen | [Miles Beyond](http://books.google.ch/books/about/Miles_Beyond.html?id=LA_2EZtLQ5AC) | The Electric Explorations of Miles Davis 1967-1991 | 2001 |  | 
+<a name="9"></a>2001/09/26 | Franz Kafka | [Le Château](https://fr.wikipedia.org/wiki/Le_Ch%C3%A2teau) |  | 1938 |  | 
+<a name="8"></a>1999/??/?? | Ian Carr | [Keith Jarrett: The Man And His Music](http://books.google.ch/books/about/Keith_Jarrett.html?id=HhWLjNdg3uUC) |  | 1991 |  | 
+<a name="7"></a>1998/??/?? | Miles Davis & Quincy Troupe | [Miles: L'autobiographie](http://books.google.ch/books/about/Miles.html?id=puBfGwAACAAJ) |  | 1991 |  | 
+<a name="6"></a>1996/09/21 | Michel Butor | [La Modification](https://fr.wikipedia.org/wiki/La_Modification) |  | 1957 |  | 
+<a name="5"></a>1996/07/08 | Henri Michaux | [Plume](https://fr.wikipedia.org/wiki/Plume_(Michaux)) |  | 1938 |  | 
+<a name="4"></a>1996/07/04 | Daniel Pennac | [Comme un roman](https://fr.wikipedia.org/wiki/Comme_un_roman) |  | 1992 |  | 
+<a name="3"></a>1996/07/01 | Milan Kundera | [L'insoutenable légèreté de l'être](https://fr.wikipedia.org/wiki/L%27Insoutenable_L%C3%A9g%C3%A8ret%C3%A9_de_l%27%C3%AAtre) |  | 1984 |  | 
+<a name="2"></a>199?/??/?? | Arthur C. Clarke | [2010 : Odyssée deux](https://fr.wikipedia.org/wiki/2010_:_Odyss%C3%A9e_deux) |  | 1982 |  | 
+<a name="1"></a>199?/??/?? | Arthur C. Clarke | [2001 : L'Odyssée de l'espace](https://fr.wikipedia.org/wiki/2001_:_l%27Odyss%C3%A9e_de_l%27espace_(roman)) |  | 1968 |  | 
