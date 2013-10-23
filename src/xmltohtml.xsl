@@ -15,7 +15,7 @@
     <xsl:template match="books">
         <xsl:call-template name="table">
             <xsl:with-param name="contents">
-                <tr bgcolor="#{$color1}"><th>Date</th><th>Author</th><th>Title</th><th>Subtitle</th><th>Year</th><th>Rating</th></tr>
+                <tr bgcolor="#{$color1}"><th>Date</th><th>Author</th><th>Title</th><th>Subtitle</th><th>Year</th><th>Rating</th><th>Comments</th></tr>
                 <xsl:for-each select="book">
                     <xsl:call-template name="book"/>
                 </xsl:for-each>
@@ -32,6 +32,7 @@
                 <td valign="top"><xsl:value-of select="child::subtitle[1]"/></td>
                 <td valign="top"><xsl:value-of select="child::publishingyear[1]"/></td>
                 <td valign="top"><xsl:call-template name="rating-with-html"/></td>
+                <td valign="top"><xsl:value-of select="child::comments[1]"/></td>
             </xsl:with-param>
         </xsl:call-template>
     </xsl:template>

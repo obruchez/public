@@ -12,9 +12,9 @@
     <xsl:template match="books">
         <xsl:text># Books</xsl:text>
         <xsl:text>&#xa;</xsl:text>
-        <xsl:text>Date | Author | Title | Subtitle | Year | Rating</xsl:text>
+        <xsl:text>Date | Author | Title | Subtitle | Year | Rating | Comments</xsl:text>
         <xsl:text>&#xa;</xsl:text>
-        <xsl:text>--- | --- | --- | --- | --- | ---</xsl:text>
+        <xsl:text>--- | --- | --- | --- | --- | --- | ---</xsl:text>
         <xsl:text>&#xa;</xsl:text>
         <xsl:for-each select="book">
             <xsl:call-template name="book"/>
@@ -34,6 +34,8 @@
         <xsl:value-of select="child::publishingyear[1]"/>
         <xsl:text> | </xsl:text>
         <xsl:call-template name="rating"/>
+        <xsl:text> | </xsl:text>
+        <xsl:value-of select="child::comments[1]"/>
         <xsl:text>&#xa;</xsl:text>
     </xsl:template>
 
