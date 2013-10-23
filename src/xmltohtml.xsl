@@ -3,6 +3,7 @@
     <xsl:output method="html" encoding="utf-8" indent="yes"/>
 
     <xsl:include href="common.xsl"/>
+    <xsl:include href="books.xsl"/>
     <xsl:include href="concerts.xsl"/>
     <xsl:include href="movies.xsl"/>
     <xsl:include href="plays.xsl"/>
@@ -27,7 +28,7 @@
             <xsl:with-param name="contents">
                 <td valign="top"><xsl:call-template name="date"/></td>
                 <td valign="top"><xsl:value-of select="child::author[1]"/></td>
-                <td valign="top"><xsl:value-of select="child::title[1]"/></td>
+                <td valign="top"><xsl:call-template name="book-title-with-html"/></td>
                 <td valign="top"><xsl:value-of select="child::subtitle[1]"/></td>
                 <td valign="top"><xsl:value-of select="child::publishingyear[1]"/></td>
                 <td valign="top"><xsl:call-template name="rating"/></td>

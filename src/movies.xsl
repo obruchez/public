@@ -19,8 +19,8 @@
         <xsl:choose>
             <xsl:when test="count(child::title[string-length(@language)=0])>0">
                 <xsl:choose>
-                    <xsl:when test="count(child::uri[1])>0">
-                        <a href="{child::uri[1]}"><xsl:value-of select="child::title[string-length(@language)=0]"/></a>
+                    <xsl:when test="count(child::url[1])>0">
+                        <a href="{child::url[1]}"><xsl:value-of select="child::title[string-length(@language)=0]"/></a>
                     </xsl:when>
                     <xsl:otherwise>
                         <xsl:value-of select="child::title[string-length(@language)=0]"/>

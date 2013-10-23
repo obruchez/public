@@ -73,6 +73,7 @@
         <author>Douglas Crockford</author>
         <publishingyear>2008</publishingyear>
         <rating>4.25</rating>
+        <url></url>
     </book>
     <book>
         <date>2012.11.28</date>
@@ -80,6 +81,7 @@
         <author>Albert Camus</author>
         <publishingyear>1942</publishingyear>
         <rating>5.25</rating>
+        <url></url>
     </book>
     <book>
         <date>2012.11.05</date>
@@ -88,6 +90,7 @@
         <author>Sam Harris</author>
         <publishingyear>2010</publishingyear>
         <rating>5.25</rating>
+        <url></url>
     </book>
     <book>
         <date>2012.09.19</date>
@@ -96,6 +99,7 @@
         <author>David McRaney</author>
         <publishingyear>2011</publishingyear>
         <rating>5.25</rating>
+        <url></url>
     </book>
 	<book>
 		<date>2012.04.26</date>
@@ -103,6 +107,7 @@
 		<author>Sam Harris</author>
 		<publishingyear>2012</publishingyear>
 		<rating>5.0</rating>
+        <url></url>
 	</book>
 	<book>
 		<date>2012.04.06</date>
@@ -110,6 +115,7 @@
 		<author>Ben Goldacre</author>
 		<publishingyear>2008</publishingyear>
 		<rating>5.25</rating>
+        <url></url>
 	</book>
 	<book>
 		<date>2011.11.14</date>
@@ -117,6 +123,7 @@
 		<author>Derek Sivers</author>
 		<publishingyear>2011</publishingyear>
 		<rating>4.75</rating>
+        <url></url>
 	</book>
     <book>
 		<date>2011.10.20</date>
@@ -124,6 +131,7 @@
 		<author>Sam Harris &amp; Annaka Harris</author>
 		<publishingyear>2011</publishingyear>
 		<rating>4.5</rating>
+        <url></url>
 	</book>
     <book>
 		<date>2011.08.13</date>
@@ -132,6 +140,7 @@
 		<author>Scott Adams</author>
 		<publishingyear>2001</publishingyear>
 		<rating>4.5</rating>
+        <url></url>
 	</book>
 	<book>
 		<date>2011.07.08</date>
@@ -139,6 +148,7 @@
 		<author>Vincent Golay &amp; Mix &amp; Remix</author>
 		<publishingyear>2010</publishingyear>
 		<rating>5.0</rating>
+        <url></url>
 	</book>
     <book>
 		<date>2011.03.20</date>
@@ -146,6 +156,7 @@
 		<author>Martin Odersky, Lex Spoon &amp; Bill Venners</author>
 		<publishingyear>2008</publishingyear>
 		<rating>5.25</rating>
+        <url></url>
 	</book>
     <book>
 		<date>2011.02.01</date>
@@ -154,6 +165,7 @@
 		<author>Michael Fossel, Greta Blackburn &amp; Dave Woynarowski</author>
 		<publishingyear>2010</publishingyear>
 		<rating>4.75</rating>
+        <url></url>
 	</book>
     <book>
 		<date>2010.09.27</date>
@@ -162,6 +174,7 @@
 		<author>Daniel Gilbert</author>
 		<publishingyear>2006</publishingyear>
 		<rating>4.75</rating>
+        <url></url>
 	</book>
 	<book>
 		<date>2010.08.30</date>
@@ -170,6 +183,7 @@
 		<author>Simon Singh &amp; Edzard Ernst</author>
 		<publishingyear>2008</publishingyear>
 		<rating>5.25</rating>
+        <url></url>
 	</book>
     <book>
 		<date>2010.07.01</date>
@@ -178,6 +192,7 @@
 		<author>Dylan Evans</author>
 		<publishingyear>2004</publishingyear>
 		<rating>5.25</rating>
+        <url></url>
 	</book>
     <book>
 		<date>2010.06.03</date>
@@ -186,6 +201,7 @@
 		<author>Danielle Fecteau</author>
 		<publishingyear>2005</publishingyear>
 		<rating>2.5</rating>
+        <url></url>
 	</book>
     <book>
 		<date>2010.04.30</date>
@@ -194,6 +210,7 @@
 		<author>Dave Logan, John King &amp; Halee Fischer-Wright</author>
 		<publishingyear>2008</publishingyear>
 		<rating>4.25</rating>
+        <url></url>
 	</book>
     <book>
 		<date>2010.02.16</date>
@@ -202,6 +219,7 @@
 		<author>Daniel Pennac</author>
 		<publishingyear>1990</publishingyear>
 		<rating>5.0</rating>
+        <url></url>
 	</book>
     <book>
 		<date>2009.08.16</date>
@@ -210,6 +228,7 @@
 		<author>Daniel Pennac</author>
 		<publishingyear>1987</publishingyear>
 		<rating>5.0</rating>
+        <url></url>
 	</book>
     <book>
 		<date>2009.06.27</date>
@@ -218,6 +237,7 @@
 		<author>Ray Kurzweil &amp; Terry Grossman</author>
 		<publishingyear>2009</publishingyear>
 		<rating>5.0</rating>
+        <url></url>
 	</book>
     <book>
 		<date>2009.06.12</date>
@@ -226,6 +246,7 @@
 		<author>Daniel Pennac</author>
 		<publishingyear>1985</publishingyear>
 		<rating>5.0</rating>
+        <url></url>
 	</book>
     <book>
 		<date>2009.05.27</date>
@@ -234,6 +255,7 @@
 		<author>Philippe-Gaston Besson</author>
 		<publishingyear>2000</publishingyear>
 		<rating>4.25</rating>
+        <url></url>
 	</book>
     <book>
 		<date>2009.05.27</date>
@@ -242,6 +264,7 @@
 		<author>Maurice Chappaz</author>
 		<publishingyear>1995</publishingyear>
 		<rating>4.5</rating>
+        <url></url>
 	</book>
     <book>
 		<date>2009.05.18</date>
@@ -250,6 +273,7 @@
 		<author>Ray Kurzweil &amp; Terry Grossman</author>
 		<publishingyear>2004</publishingyear>
 		<rating>5.25</rating>
+        <url></url>
 	</book>
     <book>
 		<date>2009.04.25</date>
@@ -258,6 +282,7 @@
 		<author>Daniel Pennac</author>
 		<publishingyear>2007</publishingyear>
 		<rating>5.0</rating>
+        <url></url>
 	</book>
     <book>
 		<date>2009.04.10</date>
@@ -266,6 +291,7 @@
 		<author>Régis Jauffret</author>
 		<publishingyear>2005</publishingyear>
 		<rating>4.5</rating>
+        <url></url>
 	</book>
 	<book>
 		<date>2009.03.27</date>
@@ -282,6 +308,7 @@
 		<author>Boris Vian</author>
 		<publishingyear>1947</publishingyear>
 		<rating>5.25</rating>
+        <url></url>
 	</book>
     <book>
 		<date>2008.12.29</date>
@@ -290,6 +317,7 @@
 		<author>Eric van der Vlist, Danny Ayers, Erik Bruchez, Joe Fawcett &amp; Alessandro Vernet</author>
 		<publishingyear>2006</publishingyear>
 		<rating>3.5</rating>
+        <url></url>
 	</book>
     <book>
 		<date>2008.12.17</date>
@@ -298,6 +326,7 @@
 		<author>Yann Arthus-Bertrand</author>
 		<publishingyear>2006</publishingyear>
 		<rating>4.5</rating>
+        <url></url>
 	</book>
 	<book>
 		<date>2008.08.17</date>
@@ -306,6 +335,7 @@
 		<author>Bruce Eckel</author>
 		<publishingyear>2006</publishingyear>
 		<rating>4.75</rating>
+        <url></url>
 	</book>
 	<book>
 		<date>2008.03.24</date>
@@ -314,6 +344,7 @@
 		<author>Douglas Coupland</author>
 		<publishingyear>2006</publishingyear>
 		<rating>4.75</rating>
+        <url></url>
 	</book>
 	<book>
 		<date>2008.02.16</date>
@@ -322,6 +353,7 @@
 		<author>Thimothy Ferriss</author>
 		<publishingyear>2007</publishingyear>
 		<rating>4.75</rating>
+        <url></url>
 	</book>
 	<book>
 		<date>2008.01.28</date>
@@ -330,6 +362,7 @@
 		<author>David Allen</author>
 		<publishingyear>2002</publishingyear>
 		<rating>5.0</rating>
+        <url></url>
 	</book>
 	<book>
 		<date>2007.07.08</date>
@@ -338,6 +371,7 @@
 		<author>Muriel Barbery</author>
 		<publishingyear>2006</publishingyear>
 		<rating>5.25</rating>
+        <url></url>
 	</book>
 	<book>
 		<date>2007.05.08</date>
@@ -346,6 +380,7 @@
 		<author>Robert-Vincent Joule &amp; Jean-Léon Beauvois</author>
 		<publishingyear>2002</publishingyear>
 		<rating>4.25</rating>
+        <url></url>
 	</book>
 	<book>
 		<date>2007.02.25</date>
@@ -354,6 +389,7 @@
 		<author>Richard Dawkins</author>
 		<publishingyear>2006</publishingyear>
 		<rating>5.0</rating>
+        <url></url>
 	</book>
 	<book>
 		<date>2006.10.10</date>
@@ -362,6 +398,7 @@
 		<author>Boris Vian</author>
 		<publishingyear>1947</publishingyear>
 		<rating>5.5</rating>
+        <url></url>
 	</book>
 	<book>
 		<date>2006.08.20</date>
@@ -370,6 +407,7 @@
 		<author>Ray Kurzweil</author>
 		<publishingyear>2005</publishingyear>
 		<rating>5.0</rating>
+        <url></url>
 	</book>
 	<book>
 		<date>2006.05.14</date>
@@ -378,6 +416,7 @@
 		<author>Dan Brown</author>
 		<publishingyear>2003</publishingyear>
 		<rating>4.5</rating>
+        <url></url>
 	</book>
 	<book>
 		<date>2005.08.16</date>
@@ -386,6 +425,7 @@
 		<author>Laurent Gaudé</author>
 		<publishingyear>2004</publishingyear>
 		<rating>4.5</rating>
+        <url></url>
 	</book>
 	<book>
 		<date>2005.06.10</date>
@@ -394,6 +434,7 @@
 		<author>Milan Kundera</author>
 		<publishingyear>2003</publishingyear>
 		<rating>5.0</rating>
+        <url></url>
 	</book>
 	<book>
 		<date>2005.05.22</date>
@@ -402,6 +443,7 @@
 		<author>George Cole</author>
 		<publishingyear>2005</publishingyear>
 		<rating>5.25</rating>
+        <url></url>
 	</book>
     <book>
         <date>2004.09.19</date>
@@ -410,6 +452,7 @@
         <author>Ray Kurzweil</author>
         <publishingyear>1999</publishingyear>
         <rating/>
+        <url></url>
     </book>
     <book>
         <date>2004.01.24</date>
@@ -418,6 +461,7 @@
         <author>Franz Kafka</author>
         <publishingyear>1933</publishingyear>
         <rating/>
+        <url></url>
     </book>
     <book>
         <date>2002.05.04</date>
@@ -426,6 +470,7 @@
         <author>Paul Tingen</author>
         <publishingyear>2001</publishingyear>
         <rating/>
+        <url></url>
     </book>
     <book>
         <date>2001.09.26</date>
@@ -434,6 +479,7 @@
         <author>Franz Kafka</author>
         <publishingyear>1938</publishingyear>
         <rating/>
+        <url></url>
     </book>
     <book>
         <date>1999.??.??</date>
@@ -442,6 +488,7 @@
         <author>Ian Carr</author>
         <publishingyear>1991</publishingyear>
         <rating/>
+        <url></url>
     </book>
     <book>
         <date>1998.??.??</date>
@@ -450,6 +497,7 @@
         <author>Miles Davis &amp; Quincy Troupe</author>
         <publishingyear>1991</publishingyear>
         <rating/>
+        <url></url>
     </book>
     <book>
         <date>1996.09.21</date>
@@ -458,6 +506,7 @@
         <author>Michel Butor</author>
         <publishingyear>1957</publishingyear>
         <rating/>
+        <url></url>
     </book>
     <book>
         <date>1996.07.08</date>
@@ -466,6 +515,7 @@
         <author>Henri Michaux</author>
         <publishingyear>1938</publishingyear>
         <rating/>
+        <url></url>
     </book>
     <book>
         <date>1996.07.04</date>
@@ -474,6 +524,7 @@
         <author>Daniel Pennac</author>
         <publishingyear>1992</publishingyear>
         <rating/>
+        <url></url>
     </book>
     <book>
         <date>1996.07.01</date>
@@ -482,6 +533,7 @@
         <author>Milan Kundera</author>
         <publishingyear>1984</publishingyear>
         <rating/>
+        <url></url>
     </book>
     <book>
         <date>199?.??.??</date>
@@ -490,6 +542,7 @@
         <author>Arthur C. Clarke</author>
         <publishingyear>1982</publishingyear>
         <rating/>
+        <url></url>
     </book>
     <book>
         <date>199?.??.??</date>
@@ -498,6 +551,7 @@
         <author>Arthur C. Clarke</author>
         <publishingyear>1968</publishingyear>
         <rating/>
+        <url></url>
     </book>
 	<!--
 	Kundera, Kafka, Sartre, etc. + livre lu dans les années '90 parlant de l'ABS, etc.

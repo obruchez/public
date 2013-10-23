@@ -3,6 +3,7 @@
     <xsl:output method="text" encoding="utf-8" indent="yes"/>
 
     <xsl:include href="common.xsl"/>
+    <xsl:include href="books.xsl"/>
     <xsl:include href="concerts.xsl"/>
     <xsl:include href="movies.xsl"/>
     <xsl:include href="plays.xsl"/>
@@ -26,7 +27,7 @@
         <xsl:text> | </xsl:text>
         <xsl:value-of select="child::author[1]"/>
         <xsl:text> | </xsl:text>
-        <xsl:value-of select="child::title[1]"/>
+        <xsl:call-template name="book-title"/>
         <xsl:text> | </xsl:text>
         <xsl:value-of select="child::subtitle[1]"/>
         <xsl:text> | </xsl:text>
@@ -210,6 +211,11 @@
         <xsl:text>&lt;a name="</xsl:text>
         <xsl:value-of select="1+last()-position()"/>
         <xsl:text>"&gt;&lt;/a&gt;</xsl:text>
+    </xsl:template>
+
+    <xsl:template name="book-title">
+        <xsl:variable name="book-title-with-html"><xsl:call-template name="book-title-with-html"/></xsl:variable>
+        <xsl:apply-templates select="$book-title-with-html"/>
     </xsl:template>
 
     <xsl:template name="concert-musicians">
