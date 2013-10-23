@@ -39,7 +39,7 @@
 
     <xsl:template name="star-half"><img src="/img/star_half.png" alt="Half star"/></xsl:template>
 
-    <xsl:template name="star-full"><img src="/img/star_fulll.png" alt="Full star"/></xsl:template>
+    <xsl:template name="star-full"><img src="/img/star_full.png" alt="Full star"/></xsl:template>
 
     <xsl:template name="comma-or-and">
         <xsl:choose>
