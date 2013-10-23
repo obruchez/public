@@ -17,31 +17,16 @@
 
     <xsl:template name="rating-with-html">
         <xsl:if test="string-length(child::rating[1])>0">
-            <xsl:variable name="rating" select="number(child::rating[1])-1"/>
-            <div>
-                <xsl:call-template name="star"><xsl:with-param name="rating"><xsl:value-of select="$rating"/></xsl:with-param></xsl:call-template>
-                <xsl:call-template name="star"><xsl:with-param name="rating"><xsl:value-of select="$rating - 1"/></xsl:with-param></xsl:call-template>
-                <xsl:call-template name="star"><xsl:with-param name="rating"><xsl:value-of select="$rating - 2"/></xsl:with-param></xsl:call-template>
-                <xsl:call-template name="star"><xsl:with-param name="rating"><xsl:value-of select="$rating - 3"/></xsl:with-param></xsl:call-template>
-                <xsl:call-template name="star"><xsl:with-param name="rating"><xsl:value-of select="$rating - 4"/></xsl:with-param></xsl:call-template>
-            </div>
+            <xsl:variable name="rating" select="number(child::rating[1]) - 1"/>
+            <xsl:variable name="rating-int" select="round($rating * 2) * 5"/>
+            <xsl:variable name="rating-first-digit" select="floor($rating-int div 10)"/>
+            <xsl:variable name="rating-second-digit" select="$rating-int mod 10"/>
+            <img>
+                <xsl:attribute name="alt"><xsl:value-of select="$rating"/></xsl:attribute>
+                <xsl:attribute name="src"><xsl:value-of select="concat('/img/stars', $rating-first-digit, '_', $rating-second-digit, '.png')"/></xsl:attribute>
+            </img>
         </xsl:if>
     </xsl:template>
-
-    <xsl:template name="star">
-        <xsl:param name="rating"/>
-        <xsl:choose>
-            <xsl:when test="$rating &lt; 0.50"><xsl:call-template name="star-empty"/></xsl:when>
-            <xsl:when test="$rating &lt; 0.75"><xsl:call-template name="star-half"/></xsl:when>
-            <xsl:otherwise><xsl:call-template name="star-full"/></xsl:otherwise>
-        </xsl:choose>
-    </xsl:template>
-
-    <xsl:template name="star-empty"><img src="/img/star_empty.png" alt="Empty star"/></xsl:template>
-
-    <xsl:template name="star-half"><img src="/img/star_half.png" alt="Half star"/></xsl:template>
-
-    <xsl:template name="star-full"><img src="/img/star_full.png" alt="Full star"/></xsl:template>
 
     <xsl:template name="comma-or-and">
         <xsl:choose>

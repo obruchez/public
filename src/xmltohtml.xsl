@@ -15,7 +15,7 @@
     <xsl:template match="books">
         <xsl:call-template name="table">
             <xsl:with-param name="contents">
-                <tr bgcolor="#{$color1}"><th>Date</th><th>Author</th><th>Title</th><th>Subtitle</th><th>Year</th><th>Rating (0-5)</th></tr>
+                <tr bgcolor="#{$color1}"><th>Date</th><th>Author</th><th>Title</th><th>Subtitle</th><th>Year</th><th>Rating</th></tr>
                 <xsl:for-each select="book">
                     <xsl:call-template name="book"/>
                 </xsl:for-each>
@@ -39,7 +39,7 @@
     <xsl:template match="concerts">
         <xsl:call-template name="table">
             <xsl:with-param name="contents">
-                <tr bgcolor="#{$color1}"><th>Date</th><th>Musicians</th><th>Location</th><th>Event</th><th>Rating (0-5)</th><th>Comments</th></tr>
+                <tr bgcolor="#{$color1}"><th>Date</th><th>Musicians</th><th>Location</th><th>Event</th><th>Rating</th><th>Comments</th></tr>
                 <xsl:for-each select="concert">
                     <xsl:call-template name="concert"/>
                 </xsl:for-each>
@@ -85,7 +85,7 @@
     <xsl:template match="exhibitions">
         <xsl:call-template name="table">
             <xsl:with-param name="contents">
-                <tr bgcolor="#{$color1}"><th>Date</th><th>Name</th><th>Museum</th><th>Rating (0-5)</th><th>Comments</th></tr>
+                <tr bgcolor="#{$color1}"><th>Date</th><th>Name</th><th>Museum</th><th>Rating</th><th>Comments</th></tr>
                 <xsl:for-each select="exhibition">
                     <xsl:call-template name="exhibition"/>
                 </xsl:for-each>
@@ -108,7 +108,7 @@
     <xsl:template match="movies">
         <xsl:call-template name="table">
             <xsl:with-param name="contents">
-                <tr bgcolor="#{$color1}"><th>Date</th><th>Theater</th><th>Director</th><th width="25%">Title</th><th>Alternative Title(s)</th><th>Version</th><th>Rating (0-5)</th><th width="25%">Comments</th></tr>
+                <tr bgcolor="#{$color1}"><th>Date</th><th>Theater</th><th>Director</th><th width="25%">Title</th><th>Alternative Title(s)</th><th>Version</th><th>Rating</th><th width="25%">Comments</th></tr>
                 <xsl:for-each select="movie">
                     <xsl:call-template name="movie"/>
                 </xsl:for-each>
@@ -134,7 +134,7 @@
     <xsl:template match="plays">
         <xsl:call-template name="table">
             <xsl:with-param name="contents">
-                <tr bgcolor="#{$color1}"><th>Date</th><th>Location</th><th>Name</th><th>Author</th><th>Director</th><th>Adaptation</th><th>Translation</th><th>Actors</th><th>Rating (0-5)</th><th>Comments</th></tr>
+                <tr bgcolor="#{$color1}"><th>Date</th><th>Location</th><th>Name</th><th>Author</th><th>Director</th><th>Adaptation</th><th>Translation</th><th>Actors</th><th>Rating</th><th>Comments</th></tr>
                 <xsl:for-each select="play">
                     <xsl:call-template name="play"/>
                 </xsl:for-each>

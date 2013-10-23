@@ -12,7 +12,7 @@
     <xsl:template match="books">
         <xsl:text># Books</xsl:text>
         <xsl:text>&#xa;</xsl:text>
-        <xsl:text>Date | Author | Title | Subtitle | Year | Rating (0-5)</xsl:text>
+        <xsl:text>Date | Author | Title | Subtitle | Year | Rating</xsl:text>
         <xsl:text>&#xa;</xsl:text>
         <xsl:text>--- | --- | --- | --- | --- | ---</xsl:text>
         <xsl:text>&#xa;</xsl:text>
@@ -40,7 +40,7 @@
     <xsl:template match="concerts">
         <xsl:text># Concerts</xsl:text>
         <xsl:text>&#xa;</xsl:text>
-        <xsl:text>Date | Musicians | Location | Event | Rating (0-5) | Comments</xsl:text>
+        <xsl:text>Date | Musicians | Location | Event | Rating | Comments</xsl:text>
         <xsl:text>&#xa;</xsl:text>
         <xsl:text>--- | --- | --- | --- | --- | ---</xsl:text>
         <xsl:text>&#xa;</xsl:text>
@@ -92,7 +92,7 @@
     <xsl:template match="exhibitions">
         <xsl:text># Exhibitions</xsl:text>
         <xsl:text>&#xa;</xsl:text>
-        <xsl:text>Date | Name | Museum | Rating (0-5) | Comments</xsl:text>
+        <xsl:text>Date | Name | Museum | Rating | Comments</xsl:text>
         <xsl:text>&#xa;</xsl:text>
         <xsl:text>--- | --- | --- | --- | ---</xsl:text>
         <xsl:text>&#xa;</xsl:text>
@@ -118,7 +118,7 @@
     <xsl:template match="movies">
         <xsl:text># Movies</xsl:text>
         <xsl:text>&#xa;</xsl:text>
-        <xsl:text>Date | Theater | Director | Title | Alternative Title(s) | Version | Rating (0-5) | Comments</xsl:text>
+        <xsl:text>Date | Theater | Director | Title | Alternative Title(s) | Version | Rating | Comments</xsl:text>
         <xsl:text>&#xa;</xsl:text>
         <xsl:text>--- | --- | --- | --- | --- | --- | --- | ---</xsl:text>
         <xsl:text>&#xa;</xsl:text>
@@ -150,7 +150,7 @@
     <xsl:template match="plays">
         <xsl:text># Plays</xsl:text>
         <xsl:text>&#xa;</xsl:text>
-        <xsl:text>Date | Location | Name | Author | Director | Adaptation | Translation | Actors | Rating (0-5) | Comments</xsl:text>
+        <xsl:text>Date | Location | Name | Author | Director | Adaptation | Translation | Actors | Rating | Comments</xsl:text>
         <xsl:text>&#xa;</xsl:text>
         <xsl:text>--- | --- | --- | --- | --- | --- | --- | --- | --- | ---</xsl:text>
         <xsl:text>&#xa;</xsl:text>
