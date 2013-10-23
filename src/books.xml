@@ -11,11 +11,11 @@
     <book>
         <date>2013.10.17</date>
         <title>The Selfish Gene</title>
-        <subtitle>30th Anniversary edition</subtitle>
         <author>Richard Dawkins</author>
         <publishingyear>2006</publishingyear>
         <rating>5.5</rating>
         <url>https://en.wikipedia.org/wiki/The_Selfish_Gene</url>
+        <comments>30th Anniversary edition</comments>
     </book>
 	<book>
         <date>2013.08.01</date>
@@ -73,7 +73,7 @@
         <author>Douglas Crockford</author>
         <publishingyear>2008</publishingyear>
         <rating>4.25</rating>
-        <url></url>
+        <url>http://books.google.ch/books/about/JavaScript_The_Good_Parts.html?id=PXa2bby0oQ0C</url>
     </book>
     <book>
         <date>2012.11.28</date>
@@ -81,7 +81,7 @@
         <author>Albert Camus</author>
         <publishingyear>1942</publishingyear>
         <rating>5.25</rating>
-        <url></url>
+        <url>https://fr.wikipedia.org/wiki/L%27%C3%A9tranger</url>
     </book>
     <book>
         <date>2012.11.05</date>
@@ -90,7 +90,7 @@
         <author>Sam Harris</author>
         <publishingyear>2010</publishingyear>
         <rating>5.25</rating>
-        <url></url>
+        <url>https://en.wikipedia.org/wiki/The_Moral_Landscape</url>
     </book>
     <book>
         <date>2012.09.19</date>
@@ -99,7 +99,7 @@
         <author>David McRaney</author>
         <publishingyear>2011</publishingyear>
         <rating>5.25</rating>
-        <url></url>
+        <url>http://books.google.ch/books/about/You_Are_Not_So_Smart.html?id=7qJfuAAACAAJ</url>
     </book>
 	<book>
 		<date>2012.04.26</date>
@@ -107,7 +107,7 @@
 		<author>Sam Harris</author>
 		<publishingyear>2012</publishingyear>
 		<rating>5.0</rating>
-        <url></url>
+        <url>http://books.google.ch/books/about/Free_Will.html?id=iRpkNcRt1IcC</url>
 	</book>
 	<book>
 		<date>2012.04.06</date>
@@ -115,15 +115,16 @@
 		<author>Ben Goldacre</author>
 		<publishingyear>2008</publishingyear>
 		<rating>5.25</rating>
-        <url></url>
+        <url>http://books.google.ch/books/about/Bad_Science.html?id=wICuv0ePMYoC</url>
 	</book>
 	<book>
 		<date>2011.11.14</date>
 		<title>Anything You Want</title>
+        <subtitle>40 Lessons for a New Kind of Entrepreneur</subtitle>
 		<author>Derek Sivers</author>
 		<publishingyear>2011</publishingyear>
 		<rating>4.75</rating>
-        <url></url>
+        <url>http://books.google.ch/books/about/Anything_You_Want.html?id=962NZwEACAAJ</url>
 	</book>
     <book>
 		<date>2011.10.20</date>
@@ -131,7 +132,7 @@
 		<author>Sam Harris &amp; Annaka Harris</author>
 		<publishingyear>2011</publishingyear>
 		<rating>4.5</rating>
-        <url></url>
+        <url>http://books.google.ch/books/about/Lying.html?id=4nMOmwEACAAJ</url>
 	</book>
     <book>
 		<date>2011.08.13</date>
@@ -140,7 +141,7 @@
 		<author>Scott Adams</author>
 		<publishingyear>2001</publishingyear>
 		<rating>4.5</rating>
-        <url></url>
+        <url>https://en.wikipedia.org/wiki/God%27s_Debris</url>
 	</book>
 	<book>
 		<date>2011.07.08</date>
@@ -148,7 +149,7 @@
 		<author>Vincent Golay &amp; Mix &amp; Remix</author>
 		<publishingyear>2010</publishingyear>
 		<rating>5.0</rating>
-        <url></url>
+        <url>http://books.google.ch/books/about/Institutions_politiques_suisses.html?id=wPdyAAAACAAJ</url>
 	</book>
     <book>
 		<date>2011.03.20</date>
@@ -156,7 +157,7 @@
 		<author>Martin Odersky, Lex Spoon &amp; Bill Venners</author>
 		<publishingyear>2008</publishingyear>
 		<rating>5.25</rating>
-        <url></url>
+        <url>http://books.google.ch/books/about/Programming_in_Scala.html?id=MFjNhTjeQKkC</url>
 	</book>
     <book>
 		<date>2011.02.01</date>
@@ -165,7 +166,7 @@
 		<author>Michael Fossel, Greta Blackburn &amp; Dave Woynarowski</author>
 		<publishingyear>2010</publishingyear>
 		<rating>4.75</rating>
-        <url></url>
+        <url>http://books.google.ch/books/about/The_Immortality_Edge.html?id=loTusEZNu7oC</url>
 	</book>
     <book>
 		<date>2010.09.27</date>
@@ -174,7 +175,7 @@
 		<author>Daniel Gilbert</author>
 		<publishingyear>2006</publishingyear>
 		<rating>4.75</rating>
-        <url></url>
+        <url>https://en.wikipedia.org/wiki/Stumbling_on_Happiness</url>
 	</book>
 	<book>
 		<date>2010.08.30</date>
@@ -183,7 +184,7 @@
 		<author>Simon Singh &amp; Edzard Ernst</author>
 		<publishingyear>2008</publishingyear>
 		<rating>5.25</rating>
-        <url></url>
+        <url>https://en.wikipedia.org/wiki/Trick_or_Treatment</url>
 	</book>
     <book>
 		<date>2010.07.01</date>
@@ -192,7 +193,7 @@
 		<author>Dylan Evans</author>
 		<publishingyear>2004</publishingyear>
 		<rating>5.25</rating>
-        <url></url>
+        <url>http://books.google.ch/books/about/Placebo.html?id=GDUuMHQO6nMC</url>
 	</book>
     <book>
 		<date>2010.06.03</date>
@@ -201,7 +202,7 @@
 		<author>Danielle Fecteau</author>
 		<publishingyear>2005</publishingyear>
 		<rating>2.5</rating>
-        <url></url>
+        <url>http://books.google.ch/books/about/L_effet_placebo.html?id=v3unAAAACAAJ</url>
 	</book>
     <book>
 		<date>2010.04.30</date>
@@ -210,7 +211,7 @@
 		<author>Dave Logan, John King &amp; Halee Fischer-Wright</author>
 		<publishingyear>2008</publishingyear>
 		<rating>4.25</rating>
-        <url></url>
+        <url>https://en.wikipedia.org/wiki/Tribal_Leadership</url>
 	</book>
     <book>
 		<date>2010.02.16</date>
@@ -219,7 +220,7 @@
 		<author>Daniel Pennac</author>
 		<publishingyear>1990</publishingyear>
 		<rating>5.0</rating>
-        <url></url>
+        <url>https://fr.wikipedia.org/wiki/La_Petite_Marchande_de_prose</url>
 	</book>
     <book>
 		<date>2009.08.16</date>
@@ -228,7 +229,7 @@
 		<author>Daniel Pennac</author>
 		<publishingyear>1987</publishingyear>
 		<rating>5.0</rating>
-        <url></url>
+        <url>https://fr.wikipedia.org/wiki/La_F%C3%A9e_Carabine</url>
 	</book>
     <book>
 		<date>2009.06.27</date>
@@ -237,7 +238,7 @@
 		<author>Ray Kurzweil &amp; Terry Grossman</author>
 		<publishingyear>2009</publishingyear>
 		<rating>5.0</rating>
-        <url></url>
+        <url>http://books.google.ch/books/about/Transcend.html?id=J0XFdYjYE9AC</url>
 	</book>
     <book>
 		<date>2009.06.12</date>
@@ -246,7 +247,7 @@
 		<author>Daniel Pennac</author>
 		<publishingyear>1985</publishingyear>
 		<rating>5.0</rating>
-        <url></url>
+        <url>https://fr.wikipedia.org/wiki/Au_bonheur_des_ogres</url>
 	</book>
     <book>
 		<date>2009.05.27</date>
@@ -255,7 +256,7 @@
 		<author>Philippe-Gaston Besson</author>
 		<publishingyear>2000</publishingyear>
 		<rating>4.25</rating>
-        <url></url>
+        <url>http://books.google.ch/books/about/Je_suis_fatigu%C3%A9_mais_je_ne_sais_pas_pou.html?id=Br4TAAAACAAJ</url>
 	</book>
     <book>
 		<date>2009.05.27</date>
@@ -264,7 +265,7 @@
 		<author>Maurice Chappaz</author>
 		<publishingyear>1995</publishingyear>
 		<rating>4.5</rating>
-        <url></url>
+        <url>http://books.google.ch/books/about/Le_gar%C3%A7on_qui_croyait_au_paradis.html?id=-5kbAQAAIAAJ</url>
 	</book>
     <book>
 		<date>2009.05.18</date>
@@ -273,7 +274,7 @@
 		<author>Ray Kurzweil &amp; Terry Grossman</author>
 		<publishingyear>2004</publishingyear>
 		<rating>5.25</rating>
-        <url></url>
+        <url>https://en.wikipedia.org/wiki/Fantastic_Voyage:_Live_Long_Enough_to_Live_Forever</url>
 	</book>
     <book>
 		<date>2009.04.25</date>
@@ -282,7 +283,7 @@
 		<author>Daniel Pennac</author>
 		<publishingyear>2007</publishingyear>
 		<rating>5.0</rating>
-        <url></url>
+        <url>https://fr.wikipedia.org/wiki/Chagrin_d%27%C3%A9cole</url>
 	</book>
     <book>
 		<date>2009.04.10</date>
@@ -291,7 +292,7 @@
 		<author>Régis Jauffret</author>
 		<publishingyear>2005</publishingyear>
 		<rating>4.5</rating>
-        <url></url>
+        <url>https://fr.wikipedia.org/wiki/Asiles_de_fous</url>
 	</book>
 	<book>
 		<date>2009.03.27</date>
@@ -300,6 +301,7 @@
 		<author>Eric-Emmanuel Schmitt</author>
 		<publishingyear>2008</publishingyear>
 		<rating>5.0</rating>
+        <url>https://fr.wikipedia.org/wiki/Ulysse_from_Bagdad</url>
 	</book>
 	<book>
 		<date>2009.03.08</date>
@@ -308,7 +310,7 @@
 		<author>Boris Vian</author>
 		<publishingyear>1947</publishingyear>
 		<rating>5.25</rating>
-        <url></url>
+        <url>https://fr.wikipedia.org/wiki/L%27Automne_%C3%A0_P%C3%A9kin</url>
 	</book>
     <book>
 		<date>2008.12.29</date>

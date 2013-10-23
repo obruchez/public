@@ -2,65 +2,65 @@
 Date | Author | Title | Subtitle | Year | Rating | Comments
 --- | --- | --- | --- | --- | --- | ---
 <a name="63"></a>2013/10/21 | Amélie Nothomb | [Métaphysique des tubes](https://fr.wikipedia.org/wiki/M%C3%A9taphysique_des_tubes) |  | 2000 | ![3.75](/img/stars4_0.png) | 
-<a name="62"></a>2013/10/17 | Richard Dawkins | [The Selfish Gene](https://en.wikipedia.org/wiki/The_Selfish_Gene) | 30th Anniversary edition | 2006 | ![4.5](/img/stars4_5.png) | 
+<a name="62"></a>2013/10/17 | Richard Dawkins | [The Selfish Gene](https://en.wikipedia.org/wiki/The_Selfish_Gene) |  | 2006 | ![4.5](/img/stars4_5.png) | 30th Anniversary edition
 <a name="61"></a>2013/08/01 | Lawrence M. Krauss | [A Universe from Nothing](https://en.wikipedia.org/wiki/A_Universe_from_Nothing) |  | 2012 | ![3.75](/img/stars4_0.png) | 
 <a name="60"></a>2013/06/07 | Ernest Hemingway | [Le Vieil Homme et la Mer](https://fr.wikipedia.org/wiki/Le_Vieil_Homme_et_la_Mer) |  | 1952 | ![4](/img/stars4_0.png) | French translation of "The Old Man and the Sea" by Jean Dutourd.
 <a name="59"></a>2013/05/08 | Albert Camus | [Le Mythe de Sisyphe](https://fr.wikipedia.org/wiki/Le_Mythe_de_Sisyphe) |  | 1942 | ![3.75](/img/stars4_0.png) | 
 <a name="58"></a>2013/03/07 | Amélie Nothomb | [Le Voyage d'hiver](https://fr.wikipedia.org/wiki/Le_Voyage_d'hiver) |  | 2009 | ![3.5](/img/stars3_5.png) | 
 <a name="57"></a>2013/02/19 | Bertrand Russell | [What I Believe](http://en.wikipedia.org/wiki/What_I_Believe) |  | 1925 | ![3.75](/img/stars4_0.png) | 
 <a name="56"></a>2013/02/04 | Ray Kurzweil | [How to Create a Mind](http://en.wikipedia.org/wiki/How_to_Create_a_Mind) | The Secret of Human Thought Revealed | 2012 | ![4](/img/stars4_0.png) | 
-<a name="55"></a>2012/12/06 | Douglas Crockford | [JavaScript: The Good Parts]() |  | 2008 | ![3.25](/img/stars3_5.png) | 
-<a name="54"></a>2012/11/28 | Albert Camus | [L'Étranger]() |  | 1942 | ![4.25](/img/stars4_5.png) | 
-<a name="53"></a>2012/11/05 | Sam Harris | [The Moral Landscape]() | How Science Can Determine Human Values | 2010 | ![4.25](/img/stars4_5.png) | 
-<a name="52"></a>2012/09/19 | David McRaney | [You Are Not So Smart]() | Why You Have Too Many Friends on Facebook, Why Your Memory Is Mostly Fiction, and 46 Other Ways You're Deluding Yourself | 2011 | ![4.25](/img/stars4_5.png) | 
-<a name="51"></a>2012/04/26 | Sam Harris | [Free Will]() |  | 2012 | ![4](/img/stars4_0.png) | 
-<a name="50"></a>2012/04/06 | Ben Goldacre | [Bad Science]() |  | 2008 | ![4.25](/img/stars4_5.png) | 
-<a name="49"></a>2011/11/14 | Derek Sivers | [Anything You Want]() |  | 2011 | ![3.75](/img/stars4_0.png) | 
-<a name="48"></a>2011/10/20 | Sam Harris & Annaka Harris | [Lying]() |  | 2011 | ![3.5](/img/stars3_5.png) | 
-<a name="47"></a>2011/08/13 | Scott Adams | [God's Debris]() | A Thought Experiment | 2001 | ![3.5](/img/stars3_5.png) | 
-<a name="46"></a>2011/07/08 | Vincent Golay & Mix & Remix | [Institutions politiques suisses]() |  | 2010 | ![4](/img/stars4_0.png) | 
-<a name="45"></a>2011/03/20 | Martin Odersky, Lex Spoon & Bill Venners | [Programming in Scala]() |  | 2008 | ![4.25](/img/stars4_5.png) | 
-<a name="44"></a>2011/02/01 | Michael Fossel, Greta Blackburn & Dave Woynarowski | [The Immortality Edge]() | Realize the Secrets of Your Telomeres for a Longer, Healthier Life | 2010 | ![3.75](/img/stars4_0.png) | 
-<a name="43"></a>2010/09/27 | Daniel Gilbert | [Stumbling on Happiness]() |  | 2006 | ![3.75](/img/stars4_0.png) | 
-<a name="42"></a>2010/08/30 | Simon Singh & Edzard Ernst | [Trick or Treatment?]() | Alternative Medicine on Trial | 2008 | ![4.25](/img/stars4_5.png) | 
-<a name="41"></a>2010/07/01 | Dylan Evans | [Placebo]() | Mind over Matter in Modern Medicine | 2004 | ![4.25](/img/stars4_5.png) | 
-<a name="40"></a>2010/06/03 | Danielle Fecteau | [L'effet placebo]() | Le pouvoir de guérir | 2005 | ![1.5](/img/stars1_5.png) | 
-<a name="39"></a>2010/04/30 | Dave Logan, John King & Halee Fischer-Wright | [Tribal Leadership]() | Leveraging Natural Groups to Build a Thriving Organization | 2008 | ![3.25](/img/stars3_5.png) | 
-<a name="38"></a>2010/02/16 | Daniel Pennac | [La Petite Marchande de prose]() |  | 1990 | ![4](/img/stars4_0.png) | 
-<a name="37"></a>2009/08/16 | Daniel Pennac | [La fée carabine]() |  | 1987 | ![4](/img/stars4_0.png) | 
-<a name="36"></a>2009/06/27 | Ray Kurzweil & Terry Grossman | [Transcend]() | Nine Steps to Living Well Forever | 2009 | ![4](/img/stars4_0.png) | 
-<a name="35"></a>2009/06/12 | Daniel Pennac | [Au bonheur des ogres]() |  | 1985 | ![4](/img/stars4_0.png) | 
-<a name="34"></a>2009/05/27 | Philippe-Gaston Besson | [Je suis fatigué mais je ne sais pas pourquoi...!]() | La fatigue chronique, fléau des temps modernes | 2000 | ![3.25](/img/stars3_5.png) | 
-<a name="33"></a>2009/05/27 | Maurice Chappaz | [Le garçon qui croyait au paradis]() |  | 1995 | ![3.5](/img/stars3_5.png) | 
-<a name="32"></a>2009/05/18 | Ray Kurzweil & Terry Grossman | [Fantastic Voyage]() | Live Long Enough To Live Forever | 2004 | ![4.25](/img/stars4_5.png) | 
-<a name="31"></a>2009/04/25 | Daniel Pennac | [Chagrin D'École]() |  | 2007 | ![4](/img/stars4_0.png) | 
-<a name="30"></a>2009/04/10 | Régis Jauffret | [Asiles De Fous]() |  | 2005 | ![3.5](/img/stars3_5.png) | 
-<a name="29"></a>2009/03/27 | Eric-Emmanuel Schmitt | Ulysse From Bagdad |  | 2008 | ![4](/img/stars4_0.png) | 
-<a name="28"></a>2009/03/08 | Boris Vian | [L'Automne À Pékin]() |  | 1947 | ![4.25](/img/stars4_5.png) | 
-<a name="27"></a>2008/12/29 | Eric van der Vlist, Danny Ayers, Erik Bruchez, Joe Fawcett & Alessandro Vernet | [Professional Web 2.0 Programming]() |  | 2006 | ![2.5](/img/stars2_5.png) | 
-<a name="26"></a>2008/12/17 | Yann Arthus-Bertrand | [365 Jours Pour Réfléchir À Notre Terre]() |  | 2006 | ![3.5](/img/stars3_5.png) | 
-<a name="25"></a>2008/08/17 | Bruce Eckel | [Thinking In Java]() |  | 2006 | ![3.75](/img/stars4_0.png) | 
-<a name="24"></a>2008/03/24 | Douglas Coupland | [JPod]() |  | 2006 | ![3.75](/img/stars4_0.png) | 
-<a name="23"></a>2008/02/16 | Thimothy Ferriss | [The 4-Hour Workweek]() | Escape 9-5, Live Anywhere, And Join The New Rich | 2007 | ![3.75](/img/stars4_0.png) | 
-<a name="22"></a>2008/01/28 | David Allen | [Getting Things Done]() | The Art Of Stress-Free Productivity | 2002 | ![4](/img/stars4_0.png) | 
-<a name="21"></a>2007/07/08 | Muriel Barbery | [L'Élégance Du Hérisson]() |  | 2006 | ![4.25](/img/stars4_5.png) | 
-<a name="20"></a>2007/05/08 | Robert-Vincent Joule & Jean-Léon Beauvois | [Petit Traité De Manipulation À L'Usage Des Honnêtes Gens]() |  | 2002 | ![3.25](/img/stars3_5.png) | 
-<a name="19"></a>2007/02/25 | Richard Dawkins | [The God Delusion]() |  | 2006 | ![4](/img/stars4_0.png) | 
-<a name="18"></a>2006/10/10 | Boris Vian | [L'Écume Des Jours]() |  | 1947 | ![4.5](/img/stars4_5.png) | 
-<a name="17"></a>2006/08/20 | Ray Kurzweil | [The Singularity Is Near]() | When Humans Transcend Biology | 2005 | ![4](/img/stars4_0.png) | 
-<a name="16"></a>2006/05/14 | Dan Brown | [The Da Vinci Code]() |  | 2003 | ![3.5](/img/stars3_5.png) | 
-<a name="15"></a>2005/08/16 | Laurent Gaudé | [Le Soleil des Scorta]() |  | 2004 | ![3.5](/img/stars3_5.png) | 
-<a name="14"></a>2005/06/10 | Milan Kundera | [L'Ignorance]() |  | 2003 | ![4](/img/stars4_0.png) | 
-<a name="13"></a>2005/05/22 | George Cole | [The Last Miles]() | The Music of Miles Davis 1980-1991 | 2005 | ![4.25](/img/stars4_5.png) | 
-<a name="12"></a>2004/09/19 | Ray Kurzweil | [The Age of Spiritual Machines]() |  | 1999 |  | 
-<a name="11"></a>2004/01/24 | Franz Kafka | [Le Procès]() |  | 1933 |  | 
-<a name="10"></a>2002/05/04 | Paul Tingen | [Miles Beyond]() | The Electric Explorations of Miles Davis 1967-1991 | 2001 |  | 
-<a name="9"></a>2001/09/26 | Franz Kafka | [Le Château]() |  | 1938 |  | 
-<a name="8"></a>1999/??/?? | Ian Carr | [Keith Jarrett: The Man And His Music]() |  | 1991 |  | 
-<a name="7"></a>1998/??/?? | Miles Davis & Quincy Troupe | [Miles: L'autobiographie]() |  | 1991 |  | 
-<a name="6"></a>1996/09/21 | Michel Butor | [La Modification]() |  | 1957 |  | 
-<a name="5"></a>1996/07/08 | Henri Michaux | [Plume]() |  | 1938 |  | 
-<a name="4"></a>1996/07/04 | Daniel Pennac | [Comme un roman]() |  | 1992 |  | 
-<a name="3"></a>1996/07/01 | Milan Kundera | [L'insoutenable légèreté de l'être]() |  | 1984 |  | 
-<a name="2"></a>199?/??/?? | Arthur C. Clarke | [2010 : Odyssée deux]() |  | 1982 |  | 
-<a name="1"></a>199?/??/?? | Arthur C. Clarke | [2001 : L'Odyssée de l'espace]() |  | 1968 |  | 
+<a name="55"></a>2012/12/06 | Douglas Crockford | [JavaScript: The Good Parts](http://books.google.ch/books/about/JavaScript_The_Good_Parts.html?id=PXa2bby0oQ0C) |  | 2008 | ![3.25](/img/stars3_5.png) | 
+<a name="54"></a>2012/11/28 | Albert Camus | [L'Étranger](https://fr.wikipedia.org/wiki/L%27%C3%A9tranger) |  | 1942 | ![4.25](/img/stars4_5.png) | 
+<a name="53"></a>2012/11/05 | Sam Harris | [The Moral Landscape](https://en.wikipedia.org/wiki/The_Moral_Landscape) | How Science Can Determine Human Values | 2010 | ![4.25](/img/stars4_5.png) | 
+<a name="52"></a>2012/09/19 | David McRaney | [You Are Not So Smart](http://books.google.ch/books/about/You_Are_Not_So_Smart.html?id=7qJfuAAACAAJ) | Why You Have Too Many Friends on Facebook, Why Your Memory Is Mostly Fiction, and 46 Other Ways You're Deluding Yourself | 2011 | ![4.25](/img/stars4_5.png) | 
+<a name="51"></a>2012/04/26 | Sam Harris | [Free Will](http://books.google.ch/books/about/Free_Will.html?id=iRpkNcRt1IcC) |  | 2012 | ![4](/img/stars4_0.png) | 
+<a name="50"></a>2012/04/06 | Ben Goldacre | [Bad Science](http://books.google.ch/books/about/Bad_Science.html?id=wICuv0ePMYoC) |  | 2008 | ![4.25](/img/stars4_5.png) | 
+<a name="49"></a>2011/11/14 | Derek Sivers | [Anything You Want](http://books.google.ch/books/about/Anything_You_Want.html?id=962NZwEACAAJ) | 40 Lessons for a New Kind of Entrepreneur | 2011 | ![3.75](/img/stars4_0.png) | 
+<a name="48"></a>2011/10/20 | Sam Harris & Annaka Harris | [Lying](http://books.google.ch/books/about/Lying.html?id=4nMOmwEACAAJ) |  | 2011 | ![3.5](/img/stars3_5.png) | 
+<a name="47"></a>2011/08/13 | Scott Adams | [God's Debris](https://en.wikipedia.org/wiki/God%27s_Debris) | A Thought Experiment | 2001 | ![3.5](/img/stars3_5.png) | 
+<a name="46"></a>2011/07/08 | Vincent Golay & Mix & Remix | [Institutions politiques suisses](http://books.google.ch/books/about/Institutions_politiques_suisses.html?id=wPdyAAAACAAJ) |  | 2010 | ![4](/img/stars4_0.png) | 
+<a name="45"></a>2011/03/20 | Martin Odersky, Lex Spoon & Bill Venners | [Programming in Scala](http://books.google.ch/books/about/Programming_in_Scala.html?id=MFjNhTjeQKkC) |  | 2008 | ![4.25](/img/stars4_5.png) | 
+<a name="44"></a>2011/02/01 | Michael Fossel, Greta Blackburn & Dave Woynarowski | [The Immortality Edge](http://books.google.ch/books/about/The_Immortality_Edge.html?id=loTusEZNu7oC) | Realize the Secrets of Your Telomeres for a Longer, Healthier Life | 2010 | ![3.75](/img/stars4_0.png) | 
+<a name="43"></a>2010/09/27 | Daniel Gilbert | [Stumbling on Happiness](https://en.wikipedia.org/wiki/Stumbling_on_Happiness) |  | 2006 | ![3.75](/img/stars4_0.png) | 
+<a name="42"></a>2010/08/30 | Simon Singh & Edzard Ernst | [Trick or Treatment?](https://en.wikipedia.org/wiki/Trick_or_Treatment) | Alternative Medicine on Trial | 2008 | ![4.25](/img/stars4_5.png) | 
+<a name="41"></a>2010/07/01 | Dylan Evans | [Placebo](http://books.google.ch/books/about/Placebo.html?id=GDUuMHQO6nMC) | Mind over Matter in Modern Medicine | 2004 | ![4.25](/img/stars4_5.png) | 
+<a name="40"></a>2010/06/03 | Danielle Fecteau | [L'effet placebo](http://books.google.ch/books/about/L_effet_placebo.html?id=v3unAAAACAAJ) | Le pouvoir de guérir | 2005 | ![1.5](/img/stars1_5.png) | 
+<a name="39"></a>2010/04/30 | Dave Logan, John King & Halee Fischer-Wright | [Tribal Leadership](https://en.wikipedia.org/wiki/Tribal_Leadership) | Leveraging Natural Groups to Build a Thriving Organization | 2008 | ![3.25](/img/stars3_5.png) | 
+<a name="38"></a>2010/02/16 | Daniel Pennac | [La Petite Marchande de prose](https://fr.wikipedia.org/wiki/La_Petite_Marchande_de_prose) |  | 1990 | ![4](/img/stars4_0.png) | 
+<a name="37"></a>2009/08/16 | Daniel Pennac | [La fée carabine](https://fr.wikipedia.org/wiki/La_F%C3%A9e_Carabine) |  | 1987 | ![4](/img/stars4_0.png) | 
+<a name="36"></a>2009/06/27 | Ray Kurzweil & Terry Grossman | [Transcend](http://books.google.ch/books/about/Transcend.html?id=J0XFdYjYE9AC) | Nine Steps to Living Well Forever | 2009 | ![4](/img/stars4_0.png) | 
+<a name="35"></a>2009/06/12 | Daniel Pennac | [Au bonheur des ogres](https://fr.wikipedia.org/wiki/Au_bonheur_des_ogres) |  | 1985 | ![4](/img/stars4_0.png) | 
+<a name="34"></a>2009/05/27 | Philippe-Gaston Besson | [Je suis fatigué mais je ne sais pas pourquoi...!](http://books.google.ch/books/about/Je_suis_fatigu%C3%A9_mais_je_ne_sais_pas_pou.html?id=Br4TAAAACAAJ) | La fatigue chronique, fléau des temps modernes | 2000 | ![3.25](/img/stars3_5.png) | 
+<a name="33"></a>2009/05/27 | Maurice Chappaz | [Le garçon qui croyait au paradis](http://books.google.ch/books/about/Le_gar%C3%A7on_qui_croyait_au_paradis.html?id=-5kbAQAAIAAJ) |  | 1995 | ![3.5](/img/stars3_5.png) | 
+<a name="32"></a>2009/05/18 | Ray Kurzweil & Terry Grossman | [Fantastic Voyage](https://en.wikipedia.org/wiki/Fantastic_Voyage:_Live_Long_Enough_to_Live_Forever) | Live Long Enough To Live Forever | 2004 | ![4.25](/img/stars4_5.png) | 
+<a name="31"></a>2009/04/25 | Daniel Pennac | [Chagrin D'École](https://fr.wikipedia.org/wiki/Chagrin_d%27%C3%A9cole) |  | 2007 | ![4](/img/stars4_0.png) | 
+<a name="30"></a>2009/04/10 | Régis Jauffret | [Asiles De Fous](https://fr.wikipedia.org/wiki/Asiles_de_fous) |  | 2005 | ![3.5](/img/stars3_5.png) | 
+<a name="29"></a>2009/03/27 | Eric-Emmanuel Schmitt | [Ulysse From Bagdad](https://fr.wikipedia.org/wiki/Ulysse_from_Bagdad) |  | 2008 | ![4](/img/stars4_0.png) | 
+<a name="28"></a>2009/03/08 | Boris Vian | [L'Automne À Pékin](https://fr.wikipedia.org/wiki/L%27Automne_%C3%A0_P%C3%A9kin) |  | 1947 | ![4.25](/img/stars4_5.png) | 
+<a name="27"></a>2008/12/29 | Eric van der Vlist, Danny Ayers, Erik Bruchez, Joe Fawcett & Alessandro Vernet | Professional Web 2.0 Programming |  | 2006 | ![2.5](/img/stars2_5.png) | 
+<a name="26"></a>2008/12/17 | Yann Arthus-Bertrand | 365 Jours Pour Réfléchir À Notre Terre |  | 2006 | ![3.5](/img/stars3_5.png) | 
+<a name="25"></a>2008/08/17 | Bruce Eckel | Thinking In Java |  | 2006 | ![3.75](/img/stars4_0.png) | 
+<a name="24"></a>2008/03/24 | Douglas Coupland | JPod |  | 2006 | ![3.75](/img/stars4_0.png) | 
+<a name="23"></a>2008/02/16 | Thimothy Ferriss | The 4-Hour Workweek | Escape 9-5, Live Anywhere, And Join The New Rich | 2007 | ![3.75](/img/stars4_0.png) | 
+<a name="22"></a>2008/01/28 | David Allen | Getting Things Done | The Art Of Stress-Free Productivity | 2002 | ![4](/img/stars4_0.png) | 
+<a name="21"></a>2007/07/08 | Muriel Barbery | L'Élégance Du Hérisson |  | 2006 | ![4.25](/img/stars4_5.png) | 
+<a name="20"></a>2007/05/08 | Robert-Vincent Joule & Jean-Léon Beauvois | Petit Traité De Manipulation À L'Usage Des Honnêtes Gens |  | 2002 | ![3.25](/img/stars3_5.png) | 
+<a name="19"></a>2007/02/25 | Richard Dawkins | The God Delusion |  | 2006 | ![4](/img/stars4_0.png) | 
+<a name="18"></a>2006/10/10 | Boris Vian | L'Écume Des Jours |  | 1947 | ![4.5](/img/stars4_5.png) | 
+<a name="17"></a>2006/08/20 | Ray Kurzweil | The Singularity Is Near | When Humans Transcend Biology | 2005 | ![4](/img/stars4_0.png) | 
+<a name="16"></a>2006/05/14 | Dan Brown | The Da Vinci Code |  | 2003 | ![3.5](/img/stars3_5.png) | 
+<a name="15"></a>2005/08/16 | Laurent Gaudé | Le Soleil des Scorta |  | 2004 | ![3.5](/img/stars3_5.png) | 
+<a name="14"></a>2005/06/10 | Milan Kundera | L'Ignorance |  | 2003 | ![4](/img/stars4_0.png) | 
+<a name="13"></a>2005/05/22 | George Cole | The Last Miles | The Music of Miles Davis 1980-1991 | 2005 | ![4.25](/img/stars4_5.png) | 
+<a name="12"></a>2004/09/19 | Ray Kurzweil | The Age of Spiritual Machines |  | 1999 |  | 
+<a name="11"></a>2004/01/24 | Franz Kafka | Le Procès |  | 1933 |  | 
+<a name="10"></a>2002/05/04 | Paul Tingen | Miles Beyond | The Electric Explorations of Miles Davis 1967-1991 | 2001 |  | 
+<a name="9"></a>2001/09/26 | Franz Kafka | Le Château |  | 1938 |  | 
+<a name="8"></a>1999/??/?? | Ian Carr | Keith Jarrett: The Man And His Music |  | 1991 |  | 
+<a name="7"></a>1998/??/?? | Miles Davis & Quincy Troupe | Miles: L'autobiographie |  | 1991 |  | 
+<a name="6"></a>1996/09/21 | Michel Butor | La Modification |  | 1957 |  | 
+<a name="5"></a>1996/07/08 | Henri Michaux | Plume |  | 1938 |  | 
+<a name="4"></a>1996/07/04 | Daniel Pennac | Comme un roman |  | 1992 |  | 
+<a name="3"></a>1996/07/01 | Milan Kundera | L'insoutenable légèreté de l'être |  | 1984 |  | 
+<a name="2"></a>199?/??/?? | Arthur C. Clarke | 2010 : Odyssée deux |  | 1982 |  | 
+<a name="1"></a>199?/??/?? | Arthur C. Clarke | 2001 : L'Odyssée de l'espace |  | 1968 |  | 
