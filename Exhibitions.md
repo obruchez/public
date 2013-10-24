@@ -1,6 +1,7 @@
 # Exhibitions
 Date | Name | Museum | Rating | Comments
 --- | --- | --- | --- | ---
+<a name="11"></a>2013/10/20 | Permanent exhibition | National Gallery, Veletržní Palace, Prague, Czech Republic | ![4.25](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 
 <a name="10"></a>2013/10/06 | Miró : poésie et lumière | Fondation de l’Hermitage, Lausanne, Switzerland | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="9"></a>2013/08/31 | Modigliani et l’Ecole de Paris | Fondation Pierre Gianadda, Martigny, Switzerland | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="8"></a>2013/05/21 | In the Light of Amarna 100 Years of the Nefertiti Discovery | Neues Museum, Berlin, Germany | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
