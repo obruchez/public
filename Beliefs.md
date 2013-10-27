@@ -51,11 +51,9 @@ J'adhère ici principalement aux idées de Bertrand Russel (voir son essai ["Wha
  * droit des homosexuels
  * droit des femmes
  * démocratie, systèmes politiques
- * ...
 
- ##### A faire
+##### A faire
 
-  * enlever "Je crois" avant chaque croyance (but initial : écrire mon "credo")
-  * catégoriser les croyances
-  * écrire un introduction
-  
+ * enlever "Je crois" avant chaque croyance (but initial : écrire mon "credo")
+ * catégoriser les croyances
+ * écrire un introduction
