@@ -32,7 +32,7 @@ La [philosophie](https://fr.wikipedia.org/wiki/Philosophie) a également un rôl
 
 J'ai une définition très large de ce qu'est l'[art](https://fr.wikipedia.org/wiki/Art)&nbsp;: moyen d'explorer ce qu'est le réel ou ce qu'il n'est justement pas, porteur d'un message clair ou, au contraire, ambigu, voire vide de sens, moyen d'atteindre la beauté ou d'évoquer en nous les sentiments les plus négatifs, rendant notre quotidien plus facile à vivre ou hantant nos nuits, ce qui me semble certain, c'est que, comme la philosophie a un rôle complémentaire, spéculatif, par rapport à la science, l'art a un rôle également complémentaire par rapport à la pensée rationnelle. Pour moi, l'art joue le rôle de défouloir&nbsp;: il est le (seul) lieu où l'irrationnel peut encore s'exprimer librement, sans que cela ne porte à conséquence. En ce sens, l'art est absolument essentiel. [Comme Steven Pinker](http://www.newrepublic.com/article/114127/science-not-enemy-humanities), je pense que la science peut aussi influencer positivement l'art. D'ailleurs, à terme, l'intelligence artificielle mènera forcément à ce que l'on pourrait appeler ["l'art artificiel"](https://en.wiktionary.org/wiki/artificial_art). La limite entre art et science deviendra alors difficile à définir.
 
-##### Je crois que le but de tout système moral devrait être d'augmenter le bien-être et diminuer la souffrance des êtres conscients. Ni plus ni moins.
+##### Je crois que le but de tout système moral devrait être d'augmenter le bien-être et diminuer la souffrance des êtres conscients.
 
 J'adhère ici principalement aux idées de Bertrand Russel (voir son essai ["What I Believe"](https://en.wikipedia.org/wiki/What_I_Believe#Russell.27s_essay) et le concept de good life, prônant compassion et raison) et de Sam Harris (voir son livre ["The Moral Landscape"](https://en.wikipedia.org/wiki/The_Moral_Landscape), mais aussi son ["Moral Landscape Challenge"](http://www.samharris.org/blog/item/the-moral-landscape-challenge1), qui résume bien sa position). Ces idées sont également [résumées succinctement par Daniel Miessler&nbsp;dans son profil](http://danielmiessler.com/about/#morality). Ma position par rapport à la morale est une position [utilitariste](https://fr.wikipedia.org/wiki/Utilitarisme) et donc [conséquentialiste](https://fr.wikipedia.org/wiki/Cons%C3%A9quentialisme). Les principes de base de cette position (augmenter le bien-être, diminuer la souffrance) sont relativement simples à énoncer, mais ils peuvent être complexes à appliquer dans la pratique. La détermination du bien-être d'un individu est un sujet déjà épineux. Parle-t-on du bien-être "instantané" ou à long terme ? Une personne est-elle capable de déterminer aisément son propre bien-être ? Si on en croit le livre ["Stumbling on Happiness"](https://en.wikipedia.org/wiki/Stumbling_on_Happiness) de Daniel Gilbert, c'est loin d'être le cas. Et si le cas d'un seul individu est déjà problématique, celui d'un groupe d'individus l'est encore plus. Comment concilier le bien-être de deux individus ? De mille individus ? De sept milliards d'individus ? Ce sont des questions difficiles. Ce qui est certain, toutefois, c'est que bien-être et souffrance prennent leur racine dans le cerveau et que, par conséquent, seule une approche rationnelle et scientifiques peuvent éclairer la morale. De là, je rejette tout système moral [déontologique](https://fr.wikipedia.org/wiki/%C3%89thique_d%C3%A9ontologique) et, en particulier, religieux (donc basé sur des divinités inexistantes et des superstitions).
 
@@ -48,8 +48,8 @@ J'adhère ici principalement aux idées de Bertrand Russel (voir son essai ["Wha
  * avortement
  * torture
  * armée/guerre
- * droit des homosexuels
- * droit des femmes
+ * droits des homosexuels
+ * droits des femmes
  * démocratie, systèmes politiques
 
 ##### A faire
