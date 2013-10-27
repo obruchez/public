@@ -117,6 +117,28 @@
         <xsl:text>&#xa;</xsl:text>
     </xsl:template>
 
+    <xsl:template match="hikes">
+        <xsl:text># Hikes</xsl:text>
+        <xsl:text>&#xa;</xsl:text>
+        <xsl:text>Date | Place | Pictures</xsl:text>
+        <xsl:text>&#xa;</xsl:text>
+        <xsl:text>--- | --- | ---</xsl:text>
+        <xsl:text>&#xa;</xsl:text>
+        <xsl:for-each select="hike">
+            <xsl:call-template name="hike"/>
+        </xsl:for-each>
+    </xsl:template>
+
+    <xsl:template name="hike">
+        <xsl:call-template name="anchor"/>
+        <xsl:call-template name="date"/>
+        <xsl:text> | </xsl:text>
+        <xsl:value-of select="child::place[1]"/>
+        <xsl:text> | </xsl:text>
+        <xsl:call-template name="pictures"/>
+        <xsl:text>&#xa;</xsl:text>
+    </xsl:template>
+
     <xsl:template match="movies">
         <xsl:text># Movies</xsl:text>
         <xsl:text>&#xa;</xsl:text>
@@ -205,7 +227,7 @@
         <xsl:text> | </xsl:text>
         <xsl:value-of select="child::place[1]"/>
         <xsl:text> | </xsl:text>
-        <xsl:call-template name="trip-pictures"/>
+        <xsl:call-template name="pictures"/>
         <xsl:text>&#xa;</xsl:text>
     </xsl:template>
 
@@ -215,10 +237,7 @@
         <xsl:text>"&gt;&lt;/a&gt;</xsl:text>
     </xsl:template>
 
-    <xsl:template name="rating">
-        <xsl:variable name="rating-with-html"><xsl:call-template name="rating-with-html"/></xsl:variable>
-        <xsl:apply-templates select="$rating-with-html"/>
-    </xsl:template>
+    <!-- Imported templates, with HTML converted to Markdown -->
 
     <xsl:template name="book-title">
         <xsl:variable name="book-title-with-html"><xsl:call-template name="book-title-with-html"/></xsl:variable>
@@ -245,15 +264,22 @@
         <xsl:apply-templates select="$movie-version-with-html"/>
     </xsl:template>
 
+    <xsl:template name="pictures">
+        <xsl:variable name="pictures-with-html"><xsl:call-template name="pictures-with-html"/></xsl:variable>
+        <xsl:apply-templates select="$pictures-with-html"/>
+    </xsl:template>
+
     <xsl:template name="play-actors">
         <xsl:variable name="play-actors-with-html"><xsl:call-template name="play-actors-with-html"/></xsl:variable>
         <xsl:apply-templates select="$play-actors-with-html"/>
     </xsl:template>
 
-    <xsl:template name="trip-pictures">
-        <xsl:variable name="trip-pictures-with-html"><xsl:call-template name="trip-pictures-with-html"/></xsl:variable>
-        <xsl:apply-templates select="$trip-pictures-with-html"/>
+    <xsl:template name="rating">
+        <xsl:variable name="rating-with-html"><xsl:call-template name="rating-with-html"/></xsl:variable>
+        <xsl:apply-templates select="$rating-with-html"/>
     </xsl:template>
+
+    <!-- HTML elements to Markdown -->
 
     <xsl:template match="a" priority="1">
         <xsl:text>[</xsl:text>

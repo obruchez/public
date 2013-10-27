@@ -177,7 +177,7 @@
                 <td valign="top"><xsl:call-template name="trip-from"/></td>
                 <td valign="top"><xsl:call-template name="trip-to"/></td>
                 <td valign="top"><xsl:value-of select="child::place[1]"/></td>
-                <td valign="top"><xsl:call-template name="trip-pictures-with-html"/></td>
+                <td valign="top"><xsl:call-template name="pictures-with-html"/></td>
             </xsl:with-param>
         </xsl:call-template>
     </xsl:template>

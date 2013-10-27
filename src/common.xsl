@@ -18,6 +18,19 @@
         <xsl:value-of select="substring($date, 9, 2)"/>
     </xsl:template>
 
+    <xsl:template name="pictures-with-html">
+        <xsl:for-each select="child::pictures">
+            <xsl:choose>
+                <xsl:when test="string-length(.)>0">
+                    <a href="{@url}"><xsl:value-of select="."/></a><br/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <a href="{@url}"><xsl:value-of select="parent::*/child::place[1]"/></a><br/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:for-each>
+    </xsl:template> 
+
     <xsl:template name="rating-with-html">
         <xsl:if test="string-length(child::rating[1])>0">
             <xsl:variable name="rating" select="number(child::rating[1]) - 1"/>
