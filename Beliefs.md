@@ -56,4 +56,4 @@ J'adhère ici principalement aux idées de Bertrand Russel (voir son essai ["Wha
 
  * enlever "Je crois" avant chaque croyance (but initial : écrire mon "credo")
  * catégoriser les croyances
- * écrire un introduction
+ * écrire une introduction
