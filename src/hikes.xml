@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <hikes title="Hikes (Olivier Bruchez)" link="http://olivier.bruchez.org/hikes.html" feed="http://olivier.bruchez.org/hikes.rss">
   <hike>
+    <date>2013.10.26</date>
+    <place>Col des Avouillons, Switzerland</place>
+    <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157637028732275/"/>
+  </hike>
+  <hike>
     <date>2013.09.22</date>
     <place>Sovereu / Col du Sarshlau / Ecuries du Crêt, Switzerland</place>
     <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157636242618063"/>

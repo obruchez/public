@@ -1,6 +1,7 @@
 # Hikes
 Date | Place | Pictures
 --- | --- | ---
+<a name="5"></a>2013/10/26 | Col des Avouillons, Switzerland | [Col des Avouillons, Switzerland](https://secure.flickr.com/photos/bruchez/sets/72157637028732275/)<br/>
 <a name="4"></a>2013/09/22 | Sovereu / Col du Sarshlau / Ecuries du Crêt, Switzerland | [Sovereu / Col du Sarshlau / Ecuries du Crêt, Switzerland](https://secure.flickr.com/photos/bruchez/sets/72157636242618063)<br/>
 <a name="3"></a>2013/08/31 | Louvie / Col du Bec d'Aigle / Sovereu, Switzerland | [Louvie / Col du Bec d'Aigle / Sovereu, Switzerland](https://secure.flickr.com/photos/bruchez/sets/72157636240711996/)<br/>
 <a name="2"></a>2013/08/10 | Cabane FXB Panossière, Switzerland | [Cabane FXB Panossière, Switzerland](https://secure.flickr.com/photos/bruchez/sets/72157636194244833/)<br/>
