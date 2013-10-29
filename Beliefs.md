@@ -36,12 +36,19 @@ J'ai une définition très large de ce qu'est l'[art](https://fr.wikipedia.org/w
 
 J'adhère ici principalement aux idées de Bertrand Russel (voir son essai ["What I Believe"](https://en.wikipedia.org/wiki/What_I_Believe#Russell.27s_essay) et le concept de good life, prônant compassion et raison) et de Sam Harris (voir son livre ["The Moral Landscape"](https://en.wikipedia.org/wiki/The_Moral_Landscape), mais aussi son ["Moral Landscape Challenge"](http://www.samharris.org/blog/item/the-moral-landscape-challenge1), qui résume bien sa position). Ces idées sont également [résumées succinctement par Daniel Miessler&nbsp;dans son profil](http://danielmiessler.com/about/#morality). Ma position par rapport à la morale est une position [utilitariste](https://fr.wikipedia.org/wiki/Utilitarisme) et donc [conséquentialiste](https://fr.wikipedia.org/wiki/Cons%C3%A9quentialisme). Les principes de base de cette position (augmenter le bien-être, diminuer la souffrance) sont relativement simples à énoncer, mais ils peuvent être complexes à appliquer dans la pratique. La détermination du bien-être d'un individu est un sujet déjà épineux. Parle-t-on du bien-être "instantané" ou à long terme ? Une personne est-elle capable de déterminer aisément son propre bien-être ? Si on en croit le livre ["Stumbling on Happiness"](https://en.wikipedia.org/wiki/Stumbling_on_Happiness) de Daniel Gilbert, c'est loin d'être le cas. Et si le cas d'un seul individu est déjà problématique, celui d'un groupe d'individus l'est encore plus. Comment concilier le bien-être de deux individus ? De mille individus ? De sept milliards d'individus ? Ce sont des questions difficiles. Ce qui est certain, toutefois, c'est que bien-être et souffrance prennent leur racine dans le cerveau et que, par conséquent, seule une approche rationnelle et scientifiques peuvent éclairer la morale. De là, je rejette tout système moral [déontologique](https://fr.wikipedia.org/wiki/%C3%89thique_d%C3%A9ontologique) et, en particulier, religieux (donc basé sur des divinités inexistantes et des superstitions).
 
-##### Croyances/thèmes à ajouter
+##### Je crois que la vie des êtres humains, en particulier, et des animaux disposant d'un système nerveux, en général, doit être préservée autant que faire se peut.
+
+J'utilise ici le terme ["animal"](https://fr.wikipedia.org/wiki/Animal) dans le sens biologique du terme, le règne animal comprenant donc les êtres humains. La notion de [système nerveux](https://fr.wikipedia.org/wiki/Syst%C3%A8me_nerveux) est importante, car, jusqu'à preuve du contraire, elle est une condition nécessaire, en tout cas dans la nature, à l'existence de la [conscience](https://fr.wikipedia.org/wiki/Conscience_(biologie\)), qui est un critère déterminant : sans conscience, il n'y a ni bien-être ni souffrance - c'est le cas par exemple chez les [végétaux](https://fr.wikipedia.org/wiki/V%C3%A9g%C3%A9tal) ou chez les animaux sans système nerveux ([éponges](https://fr.wikipedia.org/wiki/Porifera), etc.). Je rejoins ensuite l'approche d'[Albert Camus](https://fr.wikipedia.org/wiki/Albert_Camus), présentée dans ["Le Mythe de Sisyphe"](https://fr.wikipedia.org/wiki/Le_Mythe_de_Sisyphe). Dans un monde [absurde](https://fr.wikipedia.org/wiki/Absurde#Philosophie) (sans dieu, sans âme, sans vie éternelle, sans libre arbitre, où les choses n'ont pas de sens intrinsèque, où les gènes survivent mais les individus meurent, etc.), il y a trois voies possibles : le suicide (physique), le suicide philosophique (i.e. la religion) et la révolte.
 
  * végétarisme
+ * "The Importance of the Afterlife. Seriously." (http://opinionator.blogs.nytimes.com/2013/09/21/the-importance-of-the-afterlife-seriously/?_r=0)
+ * valeur d'une vie ne peut pas être réduite à son utilité (sinon justifie peine de mort, euthanasie à tout va, etc.)
+
+##### Croyances/thèmes à ajouter
+
  * méditation
- * médecines alternatives
  * sens/signification des choses, "but de la vie", nihilisme
+ * médecines alternatives
  * théorie de l'évolution
  * prison, réhabilitation, système judiciaire
  * peine de mort
