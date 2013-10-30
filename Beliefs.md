@@ -38,11 +38,11 @@ J'adhère ici principalement aux idées de Bertrand Russel (voir son essai ["Wha
 
 ##### Je crois que la vie des êtres humains, en particulier, et des animaux disposant d'un système nerveux, en général, doit être préservée autant que faire se peut.
 
-J'utilise ici le terme ["animal"](https://fr.wikipedia.org/wiki/Animal) dans le sens biologique du terme, le règne animal comprenant donc les êtres humains. La notion de [système nerveux](https://fr.wikipedia.org/wiki/Syst%C3%A8me_nerveux) est importante, car, jusqu'à preuve du contraire, elle est une condition nécessaire, en tout cas dans la nature, à l'existence de la [conscience](https://fr.wikipedia.org/wiki/Conscience_(biologie\)), qui est un critère déterminant : sans conscience, il n'y a ni bien-être ni souffrance - c'est le cas par exemple chez les [végétaux](https://fr.wikipedia.org/wiki/V%C3%A9g%C3%A9tal) ou chez les animaux sans système nerveux ([éponges](https://fr.wikipedia.org/wiki/Porifera), etc.). Je rejoins ensuite l'approche d'[Albert Camus](https://fr.wikipedia.org/wiki/Albert_Camus), présentée dans ["Le Mythe de Sisyphe"](https://fr.wikipedia.org/wiki/Le_Mythe_de_Sisyphe). Dans un monde [absurde](https://fr.wikipedia.org/wiki/Absurde#Philosophie) (sans dieu, sans âme, sans vie éternelle, sans libre arbitre, où les choses n'ont pas de sens intrinsèque, où les gènes survivent mais les individus meurent, etc.), il y a trois voies possibles : le suicide (physique), le suicide philosophique (i.e. la religion) et la révolte.
+Note : j'utilise ici le terme ["animal"](https://fr.wikipedia.org/wiki/Animal) dans son sens biologique, le règne animal comprenant donc les êtres humains. Mon raisonnement prend pour point de départ l'approche d'[Albert Camus](https://fr.wikipedia.org/wiki/Albert_Camus), présentée dans ["Le Mythe de Sisyphe"](https://fr.wikipedia.org/wiki/Le_Mythe_de_Sisyphe). Dans un monde [absurde](https://fr.wikipedia.org/wiki/Absurde#Philosophie) (sans dieu, sans âme, sans vie éternelle, sans libre arbitre, où les choses n'ont pas de sens intrinsèque, où les gènes survivent mais les individus meurent, etc.), il y a trois voies possibles : le suicide (physique), le suicide philosophique (i.e. la religion) et la révolte. Comme Camus, j'opte pour la révolte. Ce rejet du suicide revient à déclarer que la vie a une valeur, qu'elle vaut la peine d'être vécue. Mais une fois cette "révolte" déclarée, où placer la frontière entre les vies qui ont une valeur et celles qui n'en ont pas ou qui n'en ont qu'indirectement ? La notion selon laquelle il est difficile de donner un sens à sa vie sans en accorder à celle des autres me semble fondamentale (voir ["The Importance of the Afterlife. Seriously."](http://opinionator.blogs.nytimes.com/2013/09/21/the-importance-of-the-afterlife-seriously). Mais je n'arrive pas à concevoir qu'on puisse limiter ce raisonnement aux êtres humains seuls. Il doit y avoir un critère plus général. L'utilité effective ou potentielle d'un individu pour la société ? Je ne crois pas. Cela justifierait l'euthanasie à tout-va (des personnes mentalement handicapées, etc.). Non, il y a un autre critère déterminant, plus "élégant" selon moi : la [conscience](https://fr.wikipedia.org/wiki/Conscience_(biologie\)). Or, jusqu'à preuve du contraire, l'existence d'un [système nerveux](https://fr.wikipedia.org/wiki/Syst%C3%A8me_nerveux) est une condition nécessaire, en tout cas dans la nature, à l'existence de la conscience, sans laquelle il ne peut y avoir ni bien-être ni souffrance. Il découle de cette approche que je n'accorde pas de valeur particulière à la vie des [végétaux](https://fr.wikipedia.org/wiki/V%C3%A9g%C3%A9tal) ou des animaux sans système nerveux ([éponges](https://fr.wikipedia.org/wiki/Porifera), etc.), en dehors de l'impact que ces vies peuvent avoir sur celles des animaux sentients dont nous faisons partie.
 
- * végétarisme
- * "The Importance of the Afterlife. Seriously." (http://opinionator.blogs.nytimes.com/2013/09/21/the-importance-of-the-afterlife-seriously/?_r=0)
- * valeur d'une vie ne peut pas être réduite à son utilité (sinon justifie peine de mort, euthanasie à tout va, etc.)
+##### Je crois qu'il est immoral de tuer des animaux pour les manger ou, plus généralement, de les exploiter pour notre plaisir.
+
+Cette position est en quelque sorte un corollaire de ma position sur la valeur de la vie humaine et de celle des animaux disposant d'un système nerveux. Les questions morales ne peuvent s'arrêter aux êtres humains seuls et doivent s'appliquer à tous les êtres doués de conscience. De là découle le fait que je suis [végétarien](https://fr.wikipedia.org/wiki/V%C3%A9g%C3%A9tarisme) et que je réfléchis régulièrement à des moyens de diminuer ma consommation de produits animaux (lait, oeufs, etc.).
 
 ##### Croyances/thèmes à ajouter
 
@@ -52,11 +52,10 @@ J'utilise ici le terme ["animal"](https://fr.wikipedia.org/wiki/Animal) dans le 
  * théorie de l'évolution
  * prison, réhabilitation, système judiciaire
  * peine de mort
- * avortement
  * torture
  * armée/guerre
- * droits des homosexuels
- * droits des femmes
+ * droits des homosexuels (mariage, adoption, etc.)
+ * droits des femmes (avortement, prostitution, etc.)
  * démocratie, systèmes politiques
 
 ##### A faire
