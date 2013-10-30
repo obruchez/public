@@ -57,9 +57,11 @@ Cette position est en quelque sorte un corollaire de ma position sur la valeur d
  * droits des homosexuels (mariage, adoption, etc.)
  * droits des femmes (avortement, prostitution, etc.)
  * démocratie, systèmes politiques
+ * voir aussi ["What do philosophers believe?"](http://philpapers.org/archive/BOUWDP)
 
 ##### A faire
 
  * enlever "Je crois" avant chaque croyance (but initial : écrire mon "credo")
  * catégoriser les croyances
  * écrire une introduction
+ * "sortir" dieu + âme + conscience de la croyance en une réalité matérielle objective ?
