@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <concerts title="Concerts (Olivier Bruchez)" link="http://olivier.bruchez.org/concerts.html" feed="http://olivier.bruchez.org/concerts.rss">
+  <concert>
+    <date>2013.10.31</date>
+    <location>Casino de Montbenon, Lausanne, Switzerland</location>
+    <event>JazzOnze+ Festival Lausanne</event>
+    <musician inst="guitar" leader="true">John Scofield</musician>
+    <musician inst="guitar, samples">Avi Bortnick</musician>
+    <musician inst="bass">Andy Hess</musician>
+    <musician inst="drums">Louis Cato</musician>
+    <rating>5.25</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2013.10.31</date>
+    <location>Casino de Montbenon, Lausanne, Switzerland</location>
+    <event>JazzOnze+ Festival Lausanne</event>
+    <musician inst="trombone" leader="true">Samuel Blaser</musician>
+    <musician inst="guitar">Marc Ducret</musician>
+    <musician inst="drums">Peter Bruun</musician>
+    <rating>4.25</rating>
+    <comments/>
+  </concert>
  <concert>
     <date>2013.07.26</date>
     <location>Grande Scène, Nyon, Switzerland</location>
