@@ -179,7 +179,7 @@ Date | Musicians | Location | Event | Rating | Comments
 <a name="21"></a>1999/07/12 | **Pat Metheny**,  Larry Grenadier, and Bill Stewart | Auditorium Stravinski, Montreux, Switzerland | Montreux Jazz Festival |  | 
 <a name="20"></a>1999/07/12 | **David Sanborn**, Ricky Peterson, Dean Brown, Don Alias, Tom Barney, and Sonny Emory | Auditorium Stravinski, Montreux, Switzerland | Montreux Jazz Festival |  | 
 <a name="19"></a>1999/07/02 | **Charles Lloyd**, John Abercrombie, Billy Hart, and Jeffrey Littleton | Auditorium Stravinski, Montreux, Switzerland | Montreux Jazz Festival |  | 
-<a name="18"></a>1999/07/02 | **Tthe Alphorn Academy of Switzerland and Jozsef Molnar**: Jozsef Molnar | Auditorium Stravinski, Montreux, Switzerland | Montreux Jazz Festival |  | 
+<a name="18"></a>1999/07/02 | **The Alphorn Academy of Switzerland and Jozsef Molnar**: Jozsef Molnar | Auditorium Stravinski, Montreux, Switzerland | Montreux Jazz Festival |  | 
 <a name="17"></a>1999/03/19 | **Kenny Garrett**, Benjamin Henock , Shedrick Mitchell, and Nat Reeves | Chapiteau, Cully, Switzerland | Cully Jazz Festival |  | Benjamin Henock replaced Chris Dave, who wasn't there.
 <a name="16"></a>1999/03/19 | **Stefano di Battista**, Flavio Boltro, Rosario Bonaccorso, Benjamin Henock, and Eric Legnini | Chapiteau, Cully, Switzerland | Cully Jazz Festival |  | 
 <a name="15"></a>1998/08/23 | **Prince**, Morris Hayes, Kirk Johnson, Marva King, Mike Scott, and Rhonda Smith | Hallenstadion, Zürich, Switzerland |  |  | 
