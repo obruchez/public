@@ -169,10 +169,10 @@ Date | Musicians | Location | Event | Rating | Comments
 <a name="31"></a>2001/07/15 | **Donnie Mc Clurkin**, Dana Davis, Kevin Bond, Andrea Mellini, Duwane Starling, Sherry McGhee, TC Bereal, Terrence Herd, Armand Davis, and Desabata Robinson | Auditorium Stravinski, Montreux, Switzerland | Montreux Jazz Festival |  | 
 <a name="30"></a>2000/11/22 | **Thierry Lang & Paolo Fresu**: Thierry Lang, Paolo Fresu, Heiri Känzig, and Marcel Papaux | Théâtre de Valère, Sion, Switzerland |  |  | 
 <a name="29"></a>2000/07/20 | **Brad Mehldau** | Auditorium Stravinski, Montreux, Switzerland | Montreux Jazz Festival |  | 
-<a name="28"></a>2000/07/20 | **John Lewis ** | Auditorium Stravinski, Montreux, Switzerland | Montreux Jazz Festival |  | 
+<a name="28"></a>2000/07/20 | **John Lewis** | Auditorium Stravinski, Montreux, Switzerland | Montreux Jazz Festival |  | 
 <a name="27"></a>2000/07/20 | **Michael Brecker & Pat Metheny**: Michael Brecker, Pat Metheny, Larry Goldings, and Bill Stewart | Auditorium Stravinski, Montreux, Switzerland | Montreux Jazz Festival |  | 
 <a name="26"></a>2000/07/17 | **Keith Jarrett**, Gary Peacock, and Jack DeJohnette | Auditorium Stravinski, Montreux, Switzerland | Montreux Jazz Festival |  | 
-<a name="25"></a>2000/03/28 | ** Erik Truffaz & Malcom Braff**: Erik Truffaz and Malcom Braff | Next Step (?), Cully, Switzerland | Cully Jazz Festival |  | 
+<a name="25"></a>2000/03/28 | **Erik Truffaz & Malcom Braff**: Erik Truffaz and Malcom Braff | Next Step (?), Cully, Switzerland | Cully Jazz Festival |  | 
 <a name="24"></a>2000/02/11 | **Brad Mehldau**, Larry Grenadier, and Jorge Rossy | Théâtre Municipal, Lausanne, Switzerland |  |  | 
 <a name="23"></a>2000/02/11 | **Thierry Lang**, Heiri Känzig, and Marcel Papaux | Théâtre Municipal, Lausanne, Switzerland |  |  | 
 <a name="22"></a>1999/07/12 | **Herbie Hancock**, Eddie Henderson, Cyro Baptista, Eli Degebri, Ira Coleman, Terri Lyne Carrington, and Giorgia | Auditorium Stravinski, Montreux, Switzerland | Montreux Jazz Festival |  | 
