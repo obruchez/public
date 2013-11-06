@@ -1,8 +1,10 @@
 # Principes de vie
 
+Ceci est un premier jet (un peu "bateau"), datant de 2011 ou plus tôt.
+
 ##### Agir
 
-Savoir moins hésiter. Prendre plus de risques. Être plus dynamique. S’impliquer.
+Savoir moins hésiter. Prendre plus de risques. Être plus dynamique. M’impliquer.
 
 ##### Apprendre
 
@@ -30,7 +32,7 @@ Accepter de ne pas avoir le contrôle sur tout. Savoir pardonner. Accepter les e
 
 ##### Présent
 
-Vivre le moment présent. Apprécier ce qui est. Savoir écouter. Cesser de se faire du souci concernant le futur ou de trop penser au passé.
+Vivre le moment présent. Apprécier ce qui est. Savoir écouter. Cesser de me faire du souci concernant le futur ou de trop penser au passé.
 
 ##### Raison
 
