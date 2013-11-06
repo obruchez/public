@@ -9,6 +9,37 @@
   -->
 
   <play>
+    <date>2013.11.06</date>
+    <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
+    <name>Le triomphe de l’amour</name>    
+    <author>Pierre Carlet de Chamblain de Marivaux</author>
+    <director>Galin Stoev</director>
+    <actor>Julien Alembik</actor>
+    <actor>Laurent Caron</actor>
+    <actor>François Clavier</actor>
+    <actor>Yann Lheureux</actor>
+    <actor>Nicolas Maury</actor>
+    <actor>Pierre Moure</actor>
+    <actor>Airy Routier</actor>
+    <!--
+Assistante à la scénographie : 
+Delphine Brouard
+
+Assistant à la mise en scène :
+Jules Audry
+
+Costumes :
+Bjanka Adžić Ursulov
+
+Musique originale :
+Sacha Carlson
+
+Lumière :
+Elsa Revol
+    -->
+    <rating>5.0</rating>
+  </play>  
+  <play>
     <date>2013.08.10</date>
     <location>Café du Mont-Fort, Sarreyer, Switzerland</location>
     <name>Le Défi</name>
