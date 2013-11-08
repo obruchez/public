@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <concerts title="Concerts (Olivier Bruchez)" link="http://olivier.bruchez.org/concerts.html" feed="http://olivier.bruchez.org/concerts.rss">
   <concert>
+    <date>2013.11.09</date>
+    <location>Théâtre de Vevey, Vevey, Switzerland</location>
+    <musician inst="piano" leader="true">Brad Mehldau</musician>
+    <rating>5.0</rating>
+    <comments/>
+  </concert>
+  <concert>
     <date>2013.10.31</date>
     <location>Casino de Montbenon, Lausanne, Switzerland</location>
     <event>JazzOnze+ Festival Lausanne</event>
