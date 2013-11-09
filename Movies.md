@@ -635,7 +635,7 @@ Date | Theater | Director | Title | Alternative Title(s) | Version | Rating | Co
 <a name="9"></a>1997/05/16 |  |  | Star Wars : Episode VI - Le Retour Du Jedi |  | French |  | 
 <a name="8"></a>1997/05/02 |  |  | Star Wars : Episode V - L'Empire Contre-Attaque |  | French |  | 
 <a name="7"></a>1997/03/21 |  |  | La Guerre Des Etoiles |  | French |  | 
-<a name="6"></a>1994/??/?? | St-Maurice | Milos Forman | [One Flew Over the Cuckoo's Nest](http://www.imdb.com/title/tt0073486/) | Vol au-dessus d'un nid de coucou (French) | Original |  | Probably seen in 1994, maybe in 1993 or 1995, in French and in German (?).
+<a name="6"></a>1994/??/?? | St-Maurice | Milos Forman | [One Flew Over the Cuckoo's Nest](http://www.imdb.com/title/tt0073486/) | Vol au-dessus d'un nid de coucou (French) | French |  | Probably seen in 1994, maybe in 1993 or 1995, in French and in German (?).
 <a name="5"></a>1991/??/?? | Cinéma de Verbier, Verbier | Milos Forman | [Amadeus](http://www.imdb.com/title/tt0086879/) |  | Original |  | 
 <a name="4"></a>1988/??/?? | Martigny | Jean-Jacques Annaud | [L'Ours](http://www.imdb.com/title/tt0095800/) |  | Original |  | Probably seen in late 1988 or early 1989.
 <a name="3"></a>1988/??/?? | Martigny | Robert Zemeckis | [Who Framed Roger Rabbit](http://www.imdb.com/title/tt0096438/) | Qui veut la peau de Roger Rabbit? (French) | French |  | Probably seen in late 1988 or early 1989.
