@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://olivier.bruchez.org/movies.html" feed="http://olivier.bruchez.org/movies.rss">
   <movie>
+    <date>2013.11.09</date>
+    <theater>Cinémathèque, Lausanne</theater>
+    <director>Milos Forman</director>
+    <title>One Flew Over the Cuckoo's Nest</title>
+    <url>http://www.imdb.com/title/tt0073486/</url>
+    <rating>5.25</rating>
+  </movie>
+  <movie>
     <date>2013.10.05</date>
     <theater>Galeries, Lausanne</theater>
     <director>Woody Allen</director>
@@ -4119,6 +4127,15 @@
     <date>1997.03.21</date>
     <title>La Guerre Des Etoiles</title>
     <version>fr</version>
+  </movie>
+  <movie>
+    <date>1994.??.??</date>
+    <theater>St-Maurice</theater>
+    <director>Milos Forman</director>
+    <title>One Flew Over the Cuckoo's Nest</title>
+    <title language="fr">Vol au-dessus d'un nid de coucou</title>
+    <url>http://www.imdb.com/title/tt0073486/</url>
+    <comments>Probably seen in 1994, maybe in 1993 or 1995, in French and in German (?).</comments>
   </movie>
   <movie>
     <date>1991.??.??</date>
