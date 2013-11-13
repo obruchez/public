@@ -1,4 +1,4 @@
-# Lists / lifelogging
+## Lists / lifelogging
 
  * [Books](Books.md)
  * [Concerts](Concerts.md)
@@ -10,13 +10,13 @@
  * [Trips](Trips.md)
  * Votes
 
-# Résumé / CV
+## Résumé / CV
 
  * [HTML](http://olivier.bruchez.org/ResumeOlivierBruchez.html)
  * [PDF](http://olivier.bruchez.org/ResumeOlivierBruchez.pdf)
  * [Word](http://olivier.bruchez.org/ResumeOlivierBruchez.doc)
 
-# Introspection
+## Introspection
 
  * About
  * [Beliefs](Beliefs.md) (in French)
