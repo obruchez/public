@@ -2,7 +2,7 @@
 
 ## [Votation populaire du 24 novembre 2013](http://www.bk.admin.ch/themen/pore/va/20131124/index.html?lang=fr)
 
-1. Acceptez-vous l’initiative populaire "1:12 – Pour des salaires équitables" ?
+### Acceptez-vous l’initiative populaire "1:12 – Pour des salaires équitables" ?
 
 ?. Résultat : ?.
 
@@ -16,48 +16,48 @@ Quelques idées en vrac que j'avais postées sur Facebook :
 - un patron a d'autre moyens que le salaire pour devenir riche, par exemple en ayant des parts importantes dans une société qui réussit
 - un salaire élevé, en soi, n'est pas si choquant, s'il est imposé "correctement"
 
-2. Acceptez-vous l’initiative populaire "Initiative pour les familles: déductions fiscales aussi pour les parents qui gardent eux-mêmes leurs enfants" ?
+### Acceptez-vous l’initiative populaire "Initiative pour les familles: déductions fiscales aussi pour les parents qui gardent eux-mêmes leurs enfants" ?
 
 Non. Résultat : ?.
 
-3. Acceptez-vous la modification du 22 mars 2013 de la loi fédérale concernant la redevance pour l’utilisation des routes nationales (Loi sur la vignette autoroutière, LVA) ?
+### Acceptez-vous la modification du 22 mars 2013 de la loi fédérale concernant la redevance pour l’utilisation des routes nationales (Loi sur la vignette autoroutière, LVA) ?
 
 Oui. Résultat : ?.
 
 ## [Votation fédérale du 22 septembre 2013](http://www.bk.admin.ch/themen/pore/va/20130922/index.html?lang=fr)
 
-1. Acceptez-vous l'initiative populaire "Oui a l‘abrogation du service militaire obligatoire"? 
+### Acceptez-vous l'initiative populaire "Oui a l‘abrogation du service militaire obligatoire"? 
 
 Oui. Résultat : non (73.2%).
 
-2. Acceptez-vous la loi fédérale du 28 septembre 2012 sur la lutte contre les maladies transmissibles de l‘homme (Loi sur les épidémies, LEp) ?
+### Acceptez-vous la loi fédérale du 28 septembre 2012 sur la lutte contre les maladies transmissibles de l‘homme (Loi sur les épidémies, LEp) ?
 
 Oui. Résultat : oui (60.0%).
 
-3. Acceptez-vous la modification du 14 décembre 2012 de la loi fédérale sur le travail dans l‘industrie, l‘artisanat et le commerce (Loi sur le travail, LTr) ?
+### Acceptez-vous la modification du 14 décembre 2012 de la loi fédérale sur le travail dans l‘industrie, l‘artisanat et le commerce (Loi sur le travail, LTr) ?
 
 Oui. Résultat : oui (55.8%).
 
 ## [Votation fédérale du 9 juin 2013](http://www.bk.admin.ch/themen/pore/va/20130609/index.html?lang=fr)
 
-1. Acceptez-vous l'initiative populaire "Election du Conseil fédéral par le peuple" ?
+### Acceptez-vous l'initiative populaire "Election du Conseil fédéral par le peuple" ?
 
 Non. Résultat : non (76.3%).
 
-2. Acceptez-vous la modification du 28 septembre 2012 de la loi sur l'asile (LAsi)(Modifications urgentes de la loi sur l'asile) ?
+### Acceptez-vous la modification du 28 septembre 2012 de la loi sur l'asile (LAsi)(Modifications urgentes de la loi sur l'asile) ?
 
 ?. Résultat : oui (78.4%).
 
 ## [Votation fédérale du 3 mars 2013](http://www.bk.admin.ch/themen/pore/va/03032013/index.html?lang=fr)
 
-1. Acceptez-vous l'arrêté fédéral du 15 juin 2012 sur la politique familiale ?
+### Acceptez-vous l'arrêté fédéral du 15 juin 2012 sur la politique familiale ?
 
 Oui. Résultat : oui (54.3%).
 
-2. Acceptez-vous l'initiative populaire "contre les rémunérations abusives" ?
+### Acceptez-vous l'initiative populaire "contre les rémunérations abusives" ?
 
 Non. Résultat : oui (68.0%).
 
-3. Acceptez-vous la modification du 15 juin 2012 de la loi fédérale sur l'aménagement du territoire ? (loi sur l'aménagement du territoire, LAT)
+### Acceptez-vous la modification du 15 juin 2012 de la loi fédérale sur l'aménagement du territoire ? (loi sur l'aménagement du territoire, LAT)
 
 Oui. Résultat : oui (62.9%).
