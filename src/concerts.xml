@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <concerts title="Concerts (Olivier Bruchez)" link="http://olivier.bruchez.org/concerts.html" feed="http://olivier.bruchez.org/concerts.rss">
+  <!--
+  - Fribourg : y suis allé deux fois, une fois avec Aline (assis, dehors), une fois seul (assis sur l'herbe, crois avoir vu PMC) - vu trio de Brad Mehldau (seul) et E.S.T. ou Brad (avec Aline)
+  - check programme Bout du monde novembre-décembre 2006 ???
+  - concerts RSR (Thierry Lang / Didier Lockwood, etc.)
+  - 2004/xx/xx EST ???
+  - 2002/02/11 : Brad Mehldau + Thierry Lang, Lausanne (? -> bad date)
+  - 1998/07/08 THE KENNY WAYNE SHEPHERD BAND (http://www.montreuxsounds.com/detail2006.php?fiche=2013) (vu ou pas ?)
+  -->
   <concert>
     <date>2013.11.09</date>
     <location>Théâtre de Vevey, Vevey, Switzerland</location>
@@ -1306,6 +1314,47 @@
     <comments/>
   </concert>
   <concert>
+    <date>2006.05.24</date>
+    <location>Le Bout du Monde, Vevey, Switzerland</location>
+    <group></group>
+    <musician inst="piano">Malcom Braff</musician>
+    <musician inst="bass">Patrice Moret</musician>
+    <musician inst="drums">Pascal ?</musician>
+    <comments>Pascal ? was replacing Marcel Papaux.</comments>
+  </concert> 
+  <concert>
+    <date>2006.05.17</date>
+    <location>Le Bout du Monde, Vevey, Switzerland</location>
+    <group></group>
+    <musician inst="piano">Malcom Braff</musician>
+    <musician inst="bass">Patrice Moret</musician>
+    <musician inst="drums">Dominic Egli</musician>
+    <comments>Two sets.</comments>
+  </concert> 
+  <concert>
+    <date>2006.05.10</date>
+    <location>Le Bout du Monde, Vevey, Switzerland</location>
+    <group>Mats-Up</group>
+    <musician inst="trumpet">Matthias Spillmann</musician>
+    <musician inst="trombone">Andreas Tschoppi</musician>
+    <musician inst="saxophone">Domenic Landolf</musician>
+    <musician inst="saxophone">Thomas Lüthi</musician>
+    <musician inst="piano">Léo Tardin</musician>
+    <musician inst="bass">Patrice Moret</musician>
+    <musician inst="drums">Dominic Egli</musician>
+    <comments>Two sets. No jam session. Andreas Tschoppi was replacing Bernhard Bamert.</comments>
+  </concert> 
+  <concert>
+    <date>2006.04.26</date>
+    <location>Le Bout du Monde, Vevey, Switzerland</location>
+    <group></group>
+    <musician inst="saxophone">Samuel Huguenin</musician>
+    <musician inst="bass">Julien Neuman</musician>
+    <musician inst="drums">? Frey</musician>
+    <musician inst="piano">Julien Galant</musician>
+    <comments>Julien Galant only played during the second set.</comments>
+  </concert> 
+  <concert>
     <date>2006.04.19</date>
     <location>Le Bout du Monde, Vevey, Switzerland</location>
     <group></group>
@@ -1371,38 +1420,9 @@
     <comments/>
   </concert> -->
   
-  <!-- 2001-2006?
-	
-	Fribourg : y suis allé deux fois, une fois avec Aline (assis, dehors), une fois seul (assis sur l'herbe, crois avoir vu PMC) - vu trio de Brad Mehldau (seul) et E.S.T. ou Brad (avec Aline)
-	
-	Bout du monde :
-- 26 avril 2006 : Samuel huguenin, Julien Neuman et ? Frey (batterie)
-/ seconde partie ; Julien Galant en plus au piano (pas de jam)
-http://www.leboutdumonde.ch/Pages/jw_mai_RVB.jpg
-- 10 mai 2006 : Mats-Up / seconde partie = pas de jam; matthias
-spillmann, andreas tschoppi (à la place de bernhard bamert), domenic
-landolf, thomas l¨thi, léo tardin, patrice moret et dominic egli
-- 17 mai 2006 : Malcom Braff, Patrice Moret et Dominic Egli (2 parties)
-- 24 mai 2006 : Malcom Braff, Patrice Moret et Pascal ? (remplaçant Papaux)
-+ check programme (novembre-décembre 2006 ???)
-
-Entre 2001/07/22 (Keith Jarrett) et 2006/04/08 (Sylvie Courvoisier)
-+ do not put leader in bold if band is specified
-+ concerts RSR (Thierry Lang / Didier Lockwood, etc.)
-
-1998/07/08 THE KENNY WAYNE SHEPHERD BAND
-http://www.montreuxsounds.com/detail2006.php?fiche=2013
-(vu ou pas ?)
-
-2006
-- 28 mars : Manuel Mengis « Gruppe 6 » / John Scofield plays the music of Ray Charles, Cully
-- 30 mars : Chris Potter « Underground » / Art Ensemble of Chicago, Cully
-
-2005
-- 7 avril : (Reto Weber’s Squeeze Band) Reto Weber, Nino G, Samuel Kuehni et Thomas Sauter / Marcus Miller, Cully
-
-- 2004/xx/xx EST ???
-- 2002/02/11 : Brad Mehldau + Thierry Lang, Lausanne (? -> bad date)
+  <!--
+- 28 mars 2006 : Manuel Mengis « Gruppe 6 » / John Scofield plays the music of Ray Charles, Cully
+- 30 mars 2006 : Chris Potter « Underground » / Art Ensemble of Chicago, Cully
   -->
 
   <concert>
@@ -1503,14 +1523,36 @@ http://www.montreuxsounds.com/detail2006.php?fiche=2013
     <comments></comments>
   </concert>
   <concert>
+    <date>2005.04.07</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <musician inst="bass, bass clarinet, saxophone" leader="true">Marcus Miller</musician>
+    <musician inst="guitar">Dean Brown</musician>
+    <musician inst="saxophone">Keith Anderson</musician>
+    <musician inst="trumpet">Michael "Patches" Stewart</musician>
+    <musician inst="drums">Poogie Bell</musician>
+    <musician inst="beat box">Nino G</musician>
+    <comments/>
+  </concert> 
+  <concert>
+    <date>2005.04.07</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <group>Reto Weber’s Squeeze Band</group>
+    <musician inst="percussions" leader="true">Reto Weber</musician>
+    <musician inst="beat box">Nino G</musician>
+    <musician inst="bass">Samuel Kuehni</musician>
+    <musician inst="guitar">Tomas Sauter</musician>
+    <comments/>
+  </concert> 
+  <concert>
     <date>2005.05.04</date>
     <location>Kaufleuten, Zürich, Switzerland</location>
-    <musician inst="bass" leader="true">Marcus Miller</musician>
+    <musician inst="bass, bass clarinet, saxophone" leader="true">Marcus Miller</musician>
     <musician inst="guitar">Dean Brown</musician>
-    <musician inst="sax">Roger Byam (?)</musician>
-    <musician inst="keyboards">Leroy Taylor (?)</musician>
-    <musician inst="drums">Poogie Bell</musician>
+    <musician inst="saxophone">Keith Anderson (?)</musician>
     <musician inst="trumpet">Michael "Patches" Stewart</musician>
+    <musician inst="drums">Poogie Bell</musician>
     <musician inst="bass">Big Doug Epting (?)</musician>
     <comments></comments>
   </concert>
