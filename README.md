@@ -8,7 +8,7 @@
  * [Movies](Movies.md)
  * [Plays](Plays.md)
  * [Trips](Trips.md)
- * Votes
+ * [Votes](Votes.md) (in French)
 
 ## Résumé / CV
 
