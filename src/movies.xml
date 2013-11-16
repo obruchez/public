@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://olivier.bruchez.org/movies.html" feed="http://olivier.bruchez.org/movies.rss">
   <movie>
+    <date>2013.11.16</date>
+    <theater>Pathé Flon, Lausanne</theater>
+    <director>Alfonso Cuarón</director>
+    <title>Gravity</title>
+    <url>http://www.imdb.com/title/tt1454468/</url>
+    <rating>5.25</rating>
+    <comments>3D version.</comments>
+  </movie> 
+  <movie>
     <date>2013.11.09</date>
     <theater>Cinémathèque, Lausanne</theater>
     <director>Milos Forman</director>
