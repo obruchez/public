@@ -8,13 +8,13 @@ Oui. Résultat : ?.
 
 Une initiative que j'accepte sans grande conviction, tant les arguments à gauche et à droite semblent faibles.
 
-Quelques idées en vrac que j'avais postées sur Facebook (certaines en réponse à [plusieurs commentaires](https://www.facebook.com/obruchez/posts/10151660384117056)) :
+Quelques idées en vrac que j'avais postées sur Facebook (certaines en réponse à [des commentaires qui permettronts de mieux comprendre le contexte](https://www.facebook.com/obruchez/posts/10151660384117056)) :
 
 - La Suisse est un pays déjà bien égalitaire (confirmé par l'article du Temps du 28 octobre 2013, "Le grand écart salarial concerne 1300 sociétés").
 - La Suisse a déjà "montré l'exemple" avec l'initiative Minder. C'est un pas en avant positif.
 - On parle également déjà d'elle (aux US et ailleurs) avec l'initiative "pour un revenu de base inconditionnel" qui a obtenu 100'000 signatures (une idée qui me paraît particulièrement prometteuse, même si elle est proposée peut-être un peu trop tôt).
 - L'initiative 1:12 représente un risque, mais s'il y a bien un pays dans le monde qui peut prendre ce risque, c'est la Suisse. Ne serait-il pas temps en 2013 de regarder au-delà des frontières de notre petit pays ?
-- L'exemple de l'artiste qui, seul, pourrait gagner beaucoup d'argent sans que cela ne pose un problème de société, me paraît intéressant. Devenir riche "seul" est-il moins "grave" que devenir riche "sur le dos de ses employés" ? Peut-on réellement devenir riche seul ? Ne pourrait-on pas dépasser cette diabolisation du patron "à la française" ?
+- L'exemple de l'artiste qui, seul, pourrait gagner beaucoup d'argent sans que cela ne pose un problème de société me paraît intéressant. Devenir riche "seul" est-il moins "grave" que devenir riche "sur le dos de ses employés" ? Peut-on réellement devenir riche seul ? Ne pourrait-on pas dépasser cette diabolisation du patron "à la française" ?
 - Un patron a d'autre moyens que le salaire pour s'enrichir, par exemple en ayant des parts importantes dans une société qui réussit.
 - Un salaire élevé, en soi, n'est pas si choquant, s'il est imposé "correctement".
 
