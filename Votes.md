@@ -33,6 +33,8 @@ Notes prises en regardant le [débat Infrarouge du 30 octobre 2013](http://www.i
 - Étude de l'université de St-Gall très orientée. Même la droite hésite à la citer.
 - Salaires historiquement tabous en Suisse. La question devient de plus en plus publique, grâce à ce genre d'initiatives.
 
+Réponses à des arguments contre l'inititative : [Spécial indécis – réponses à quelques mauvais arguments contre l’initiative 1:12](http://www.benoitgaillard.ch/?p=291).
+
 ### Acceptez-vous l’initiative populaire "Initiative pour les familles: déductions fiscales aussi pour les parents qui gardent eux-mêmes leurs enfants" ?
 
 Non. Résultat : ?.
