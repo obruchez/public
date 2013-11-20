@@ -9,6 +9,26 @@
   -->
 
   <play>
+    <date>2013.11.20</date>
+    <location>Théâtre Kléber-Méleau, Renens, Switzerland</location>
+    <name>La dame de la mer</name>
+    <author>Henrik Ibsen</author>
+    <director>Omar Porras</director>
+    <translation>Marco Sabbatini</translation>
+    <actor>Sophie Botte</actor>
+    <actor>Olivia Dalric</actor>
+    <actor>Paul Jeanson</actor>
+    <actor>Serge Martin</actor>
+    <actor>Jeanne Pasquier</actor>
+    <actor>François Praud</actor>
+    <actor>Philippe Cantor</actor>
+    <actor>Didier Puntos</actor>
+    <!--
+Par le Teatro Malandro – mise en scène Omar Porras – avec Sophie Botte, Olivia Dalric, Paul Jeanson, Serge Martin, Jeanne Pasquier, François Praud, Philippe Cantor en alternance avec Benoît Capt, et Didier Puntos (pianiste) – texte français, adaptation Marco Sabbatini – assistant à la mise en scène Jacint Margarit – scénographie Amélie Kiritzé-Topor – costumes Coralie Sanvoisin assistée de Magali Angelini et Irène Schlatter – maquillages et coiffures Véronique Nguyen assistée de Julie Duriaux – lumières Mathias Roche – son Emmanuel Nappey – musique Didier Puntos – accessoires Laurent Boulanger– régie générale Simon George assisté de Chingo Bensong et de l'équipe technique du Théâtre de Carouge-Atelier de Genève.
+    -->
+    <rating>5.5</rating>
+  </play>
+  <play>
     <date>2013.11.06</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Le triomphe de l’amour</name>    
