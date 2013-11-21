@@ -1,8 +1,9 @@
 # Books
 Date | Author | Title | Subtitle | Year | Rating | Comments
 --- | --- | --- | --- | --- | --- | ---
+<a name="64"></a>2013/11/21 | François Rabelais | [Pantagruel](https://fr.wikipedia.org/wiki/Pantagruel) |  | 1532 | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | Middle French version, so quite a difficult read. Difficult to rate.
 <a name="63"></a>2013/10/21 | Amélie Nothomb | [Métaphysique des tubes](https://fr.wikipedia.org/wiki/M%C3%A9taphysique_des_tubes) |  | 2000 | ![3.75](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
-<a name="62"></a>2013/10/17 | Richard Dawkins | [The Selfish Gene](https://en.wikipedia.org/wiki/The_Selfish_Gene) |  | 2006 | ![4.5](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 30th Anniversary edition
+<a name="62"></a>2013/10/17 | Richard Dawkins | [The Selfish Gene](https://en.wikipedia.org/wiki/The_Selfish_Gene) |  | 2006 | ![4.5](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 30th Anniversary edition.
 <a name="61"></a>2013/08/01 | Lawrence M. Krauss | [A Universe from Nothing](https://en.wikipedia.org/wiki/A_Universe_from_Nothing) |  | 2012 | ![3.75](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="60"></a>2013/06/07 | Ernest Hemingway | [Le Vieil Homme et la Mer](https://fr.wikipedia.org/wiki/Le_Vieil_Homme_et_la_Mer) |  | 1952 | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | French translation of "The Old Man and the Sea" by Jean Dutourd.
 <a name="59"></a>2013/05/08 | Albert Camus | [Le Mythe de Sisyphe](https://fr.wikipedia.org/wiki/Le_Mythe_de_Sisyphe) |  | 1942 | ![3.75](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 

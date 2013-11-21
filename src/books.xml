@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books title="Olivier Bruchez's Last Books" description="The last books I read" link="http://olivier.bruchez.org/books.html" feed="http://olivier.bruchez.org/books.rss">
     <book>
+        <date>2013.11.21</date>
+        <title>Pantagruel</title>
+        <author>François Rabelais</author>
+        <publishingyear>1532</publishingyear>
+        <rating>5.0</rating>
+        <url>https://fr.wikipedia.org/wiki/Pantagruel</url>
+        <comments>Middle French version, so quite a difficult read. Difficult to rate.</comments>
+    </book>
+    <book>
         <date>2013.10.21</date>
         <title>Métaphysique des tubes</title>
         <author>Amélie Nothomb</author>
@@ -15,7 +24,7 @@
         <publishingyear>2006</publishingyear>
         <rating>5.5</rating>
         <url>https://en.wikipedia.org/wiki/The_Selfish_Gene</url>
-        <comments>30th Anniversary edition</comments>
+        <comments>30th Anniversary edition.</comments>
     </book>
 	<book>
         <date>2013.08.01</date>
