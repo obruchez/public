@@ -4,7 +4,7 @@
 
 ### Acceptez-vous l’initiative populaire "1:12 – Pour des salaires équitables" ?
 
-Oui. Résultat : Non.
+Oui. Résultat : Non (65.3%).
 
 Une initiative que j'accepte sans grande conviction, tant les arguments à gauche et à droite semblent faibles.
 
@@ -37,7 +37,7 @@ Réponses à des arguments contre l'inititative : [Spécial indécis – répons
 
 ### Acceptez-vous l’initiative populaire "Initiative pour les familles: déductions fiscales aussi pour les parents qui gardent eux-mêmes leurs enfants" ?
 
-Non. Résultat : Non.
+Non. Résultat : Non (58.5%).
 
 - Prendre en compte les coûts indirects engendrés par la garde d'un enfant par un parent semble raisonnable. Il n'y a pas de raisons de ne prendre en compte que les coûts directs (mamans de jour, crèches, etc.).
 - C'est un argument faible, mais il s'agit d'une initiative de l'UDC, parti très conservateur, historiquement très peu constructif dans ses propositions. Plus pratiquement, cette initiative semble encourager un modèle de famille "traditionnelle", ce qui est à la fois en décalage avec la réalité d'aujourd'hui et semble favoriser une inégalité homme-femme.
@@ -45,7 +45,7 @@ Non. Résultat : Non.
 
 ### Acceptez-vous la modification du 22 mars 2013 de la loi fédérale concernant la redevance pour l’utilisation des routes nationales (Loi sur la vignette autoroutière, LVA) ?
 
-Oui. Résultat : Non.
+Oui. Résultat : Non (60.5%).
 
 - Le prix de la vignette est passé de 30 CHF (1985) à 40 CHF (1995). Il n'a pas évolué depuis. Une augmentation semble donc naturelle. Il aurait été souhaitable que ce prix augmente progressivement, chaque année, mais cela n'a malheureusement pas été la voie choisie. Ce n'est toutefois pas une bonne raison pour refuser une augmentation relativement importante.
 - Une augmentation de 40 CHF à 100 CHF est importante, mais le nouveau prix semble très raisonnable par rapport aux coûts totaux liés à un véhicule, ainsi que par rapport aux prix dans les pays voisins.
