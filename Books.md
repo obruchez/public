@@ -1,6 +1,7 @@
 # Books
 Date | Author | Title | Subtitle | Year | Rating | Comments
 --- | --- | --- | --- | --- | --- | ---
+<a name="65"></a>2013/12/06 | Gilbert Bruchez, Philippe Curdy & François Baillifard | [Pierres à cupules et autres pierres gravées: Verbier, Bagnes et Entremont](http://books.google.ch/books/about/Pierres_%C3%A0_cupules_et_autres_pierres_gra.html?id=y2h-KQEACAAJ) |  | 2009 | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="64"></a>2013/11/21 | François Rabelais | [Pantagruel](https://fr.wikipedia.org/wiki/Pantagruel) |  | 1532 | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | Middle French version, so quite a difficult read. Difficult to rate.
 <a name="63"></a>2013/10/21 | Amélie Nothomb | [Métaphysique des tubes](https://fr.wikipedia.org/wiki/M%C3%A9taphysique_des_tubes) |  | 2000 | ![3.75](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="62"></a>2013/10/17 | Richard Dawkins | [The Selfish Gene](https://en.wikipedia.org/wiki/The_Selfish_Gene) |  | 2006 | ![4.5](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 30th Anniversary edition.
