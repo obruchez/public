@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://olivier.bruchez.org/movies.html" feed="http://olivier.bruchez.org/movies.rss">
   <movie>
+    <date>2013.12.07</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Roman Polanski</director>
+    <title>La Vénus à la fourrure</title>
+    <url>http://www.imdb.com/title/tt2406252/</url>
+    <rating>4.5</rating>
+  </movie>
+  <movie>
     <date>2013.11.16</date>
     <theater>Pathé Flon, Lausanne</theater>
     <director>Alfonso Cuarón</director>
