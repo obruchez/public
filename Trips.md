@@ -13,7 +13,7 @@ From | To | Place | Pictures
 <a name="58"></a>2011/09/18 | 2011/09/19 | Colmar, France / Rust, Germany | [Colmar, France / Rust, Germany](http://www.flickr.com/photos/bruchez/sets/72157628721043781/)<br/>
 <a name="57"></a>2011/07/30 | 2011/08/13 | Ireland | [Part I](https://secure.flickr.com/photos/bruchez/sets/72157627620157346/)<br/>[Part II](https://secure.flickr.com/photos/bruchez/sets/72157627695003636/)<br/>[Part III](https://secure.flickr.com/photos/bruchez/sets/72157627742552586/)<br/>[Part IV](https://secure.flickr.com/photos/bruchez/sets/72157627634407281/)<br/>
 <a name="56"></a>2011/07/23 | 2011/07/24 | Colmar, France / Rust, Germany | [Colmar, France / Rust, Germany](https://secure.flickr.com/photos/bruchez/sets/72157627486405827/)<br/>
-<a name="55"></a>2011/07/02 | 2011/07/13 | San Francisco / Lake Tahoe, USA | 
+<a name="55"></a>2011/07/02 | 2011/07/13 | San Francisco / Lake Tahoe, USA | [San Francisco / Lake Tahoe, USA](https://secure.flickr.com/photos/bruchez/sets/72157638630507146/)<br/>
 <a name="54"></a>2011/04/22 | 2011/04/25 | Tyrol, Austria | [Tyrol, Austria](http://www.flickr.com/photos/bruchez/sets/72157626726359608/)<br/>
 <a name="53"></a>2011/02/26 | 2011/03/06 | Kuramathi, Maldives | [Kuramathi, Maldives](http://www.flickr.com/photos/bruchez/sets/72157626107576299/)<br/>
 <a name="52"></a>2010/12/03 | 2010/12/05 | Basel, Switzerland | [Basel, Switzerland](http://www.flickr.com/photos/bruchez/sets/72157626699738272/)<br/>
