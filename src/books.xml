@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books title="Olivier Bruchez's Last Books" description="The last books I read" link="http://olivier.bruchez.org/books.html" feed="http://olivier.bruchez.org/books.rss">
     <book>
+        <date>2013.12.16</date>
+        <title>Scala in Depth</title>
+        <author>Joshua D. Suereth</author>
+        <publishingyear>2012</publishingyear>
+        <rating>4.5</rating>
+        <url>http://books.google.ch/books/about/Scala_in_Depth.html?id=4VCfSgAACAAJ</url>
+    </book>
+    <book>
         <date>2013.12.06</date>
         <title>Pierres à cupules et autres pierres gravées: Verbier, Bagnes et Entremont</title>
         <author>Gilbert Bruchez, Philippe Curdy &amp; François Baillifard</author>
