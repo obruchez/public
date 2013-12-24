@@ -4,7 +4,7 @@
   - Fribourg : y suis allé deux fois, une fois avec Aline (assis, dehors), une fois seul (assis sur l'herbe, crois avoir vu PMC) - vu trio de Brad Mehldau (seul) et E.S.T. ou Brad (avec Aline)
   - check programme Bout du monde novembre-décembre 2006 ???
   - concerts RSR (Thierry Lang / Didier Lockwood, etc.)
-  - 2004/xx/xx EST ???
+  - 2004/xx/xx EST ??? (vus en tout cas une ou deux fois)
   - 2002/02/11 : Brad Mehldau + Thierry Lang, Lausanne (? -> bad date)
   - 1998/07/08 THE KENNY WAYNE SHEPHERD BAND (http://www.montreuxsounds.com/detail2006.php?fiche=2013) (vu ou pas ?)
   -->
@@ -1384,6 +1384,52 @@
     <comments/>
   </concert>
   <concert>
+    <date>2006.03.30</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <group>Art Ensemble of Chicago</group>
+    <musician inst="drums, percussions">Famoudou Don Moye</musician>
+    <musician inst="saxophone">Roscoe Mitchell</musician>
+    <musician inst="saxophone">Joseph Jarman</musician>
+    <musician inst="double bass">Jaribu Shahid</musician>
+    <musician inst="trumpet">Corey Wilkes</musician>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2006.03.30</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <musician inst="saxophone" leader="true">Chris Potter</musician>
+    <musician inst="guitar">Adam Rogers</musician>
+    <musician inst="keyboards">Craig Taborn</musician>
+    <musician inst="drums">Nate Smith</musician>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2006.03.28</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <musician inst="electric guitar" leader="true">John Scofield</musician>
+    <musician inst="voice">Dean Bowman</musician>
+    <musician inst="organ, keyboards">Gary Versace</musician>
+    <musician inst="bass">John Benitze</musician>
+    <musician inst="drums">Steve Hass</musician>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2006.03.28</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <group>Gruppe 6</group>
+    <musician inst="trumpet" leader="true">Manuel Mengis</musician>
+    <musician inst="alto saxophone">Achim Escher</musician>
+    <musician inst="tenor saxophone, bass clarinet">Roland von Flüe</musician>
+    <musician inst="guitar">Flo Stoffner</musician>
+    <musician inst="bass">Marcel Stalder</musician>
+    <musician inst="drums">Marcel Papaux</musician>
+    <comments/>
+  </concert> 
+  <concert>
     <date>2006.03.22</date>
     <location>Le Bout du Monde, Vevey, Switzerland</location>
     <musician inst="piano">Malcom Braff</musician>
@@ -1409,22 +1455,6 @@
     <musician inst="drums">Samuel Rohrer</musician>
     <comments>Followed by a jam with two pianists (one after the other), one electric guitarist, and one drummer.</comments>
   </concert> 
-
-  <!-- <concert>
-    <date></date>
-    <location></location>
-    <event></event>
-    <group></group>
-    <musician inst="" leader="true"></musician>
-    <musician inst=""></musician>
-    <comments/>
-  </concert> -->
-  
-  <!--
-- 28 mars 2006 : Manuel Mengis « Gruppe 6 » / John Scofield plays the music of Ray Charles, Cully
-- 30 mars 2006 : Chris Potter « Underground » / Art Ensemble of Chicago, Cully
-  -->
-
   <concert>
     <date>2005.07.19</date>
     <location>Grand Théâtre de Fourvière, Lyon, France</location>
