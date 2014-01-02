@@ -19,5 +19,5 @@
 ## Introspection
 
  * About
- * [Beliefs](Beliefs.md) (in French)
+ * [Beliefs / worldview](Beliefs.md) (in French)
  * [Life principles](Life principles.md) (in French)

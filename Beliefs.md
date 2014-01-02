@@ -1,4 +1,4 @@
-# Croyances
+# Croyances / vision du monde
 
 ##### Je crois qu'il existe une réalité matérielle objective, unique, dans laquelle nous existons et avons nos expériences subjectives.
 
