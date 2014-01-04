@@ -1,6 +1,20 @@
 # Votations
 
-## [Votation populaire du 24 novembre 2013](http://www.bk.admin.ch/themen/pore/va/20131124/index.html?lang=fr)
+## [Votation fédérale du 9 février 2014](http://www.bk.admin.ch/themen/pore/va/20140209/index.html?lang=fr)
+
+### Acceptez-vous l'arrêté fédéral du 20 juin 2013 portant règlement du financement et de l'aménagement de l'infrastructure ferroviaire?
+
+Oui. Résultat : ? (? %).
+
+### Acceptez-vous l'initiative populaire «Financer l'avortement est une affaire privée - Alléger l'assurance-maladie en radiant les coûts de l'interruption de grossesse de l'assurance de base»?
+
+Non. Résultat : ? (? %).
+
+### Acceptez-vous l'initiative populaire «Contre l'immigration de masse»?
+
+Non. Résultat : ? (? %).
+
+## [Votation fédérale du 24 novembre 2013](http://www.bk.admin.ch/themen/pore/va/20131124/index.html?lang=fr)
 
 ### Acceptez-vous l’initiative populaire "1:12 – Pour des salaires équitables" ?
 
