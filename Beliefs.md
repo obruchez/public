@@ -68,4 +68,4 @@ Cela inclut en particulier l'[homéopathie](https://fr.wikipedia.org/wiki/Hom%C3
  * catégoriser les croyances
  * écrire une introduction
  * "sortir" dieu + âme + conscience de la croyance en une réalité matérielle objective ?
- * investiguer le concept de [dualisme des propriétés](https://en.wikipedia.org/wiki/Property_dualism) (vs ["substance dualism"](https://en.wikipedia.org/wiki/Dualism_(philosophy_of_mind)#Substance_dualism))
+ * investiguer le concept de [dualisme des propriétés](https://en.wikipedia.org/wiki/Property_dualism) (vs ["substance dualism"](https://en.wikipedia.org/wiki/Dualism_(philosophy_of_mind\)#Substance_dualism))
