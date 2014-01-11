@@ -1,6 +1,7 @@
 # Movies
 Date | Theater | Director | Title | Alternative Title(s) | Version | Rating | Comments
 --- | --- | --- | --- | --- | --- | --- | ---
+<a name="643"></a>2014/01/10 | Galeries, Lausanne | Cédric Klapisch | [Casse-tête chinois](http://www.imdb.com/title/tt1937118/) |  | Original | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="642"></a>2013/12/07 | Galeries, Lausanne | Roman Polanski | [La Vénus à la fourrure](http://www.imdb.com/title/tt2406252/) |  | Original | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="641"></a>2013/11/16 | Pathé Flon, Lausanne | Alfonso Cuarón | [Gravity](http://www.imdb.com/title/tt1454468/) |  | Original | ![4.25](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 3D version.
 <a name="640"></a>2013/11/09 | Cinémathèque, Lausanne | Milos Forman | [One Flew Over the Cuckoo's Nest](http://www.imdb.com/title/tt0073486/) |  | Original | ![4.25](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 
