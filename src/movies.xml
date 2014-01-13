@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://olivier.bruchez.org/movies.html" feed="http://olivier.bruchez.org/movies.rss">
   <movie>
+    <date>2014.01.12</date>
+    <theater home="true"/>
+    <director>Hayao Miyazaki</director>
+    <title>Gake no ue no Ponyo</title>
+    <title language="en">Ponyo</title>
+    <url>http://www.imdb.com/title/tt0876563/</url>
+    <rating>4.5</rating>
+  </movie>
+
+  <movie>
     <date>2014.01.11</date>
     <theater home="true"/>
     <director>Hayao Miyazaki</director>
