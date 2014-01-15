@@ -51,7 +51,7 @@ Cela inclut en particulier l'[homéopathie](https://fr.wikipedia.org/wiki/Hom%C3
 ##### Croyances/thèmes à ajouter
 
  * méditation
- * sens/signification des choses, "but de la vie", nihilisme
+ * sens/signification des choses, "but de la vie", nihilisme + absurdism/existentialism (voir articles Wikipedia)
  * théorie de l'évolution
  * prison, réhabilitation, système judiciaire
  * peine de mort
