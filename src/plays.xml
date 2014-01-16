@@ -9,6 +9,23 @@
   -->
 
   <play>
+    <date>2014.01.15</date>
+    <location>Théâtre Kléber-Méleau, Renens, Switzerland</location>
+    <name>Un mari ideal</name>
+    <author>Oscar Wilde</author>
+    <director>Pierre Bauer</director>
+    <actor>Mélanie Olivia Bauer</actor>
+    <actor>Josette Chanel</actor>
+    <actor>Georges Grbic</actor>
+    <actor>Yves Jenny</actor>
+    <actor>Natacha Koutchoumov</actor>
+    <actor>Virginie Meisterhans</actor>
+    <actor>Nicolas Rinuy</actor>
+    <actor>Christian Robert-Charrue</actor>
+    <rating>5.0</rating>
+  </play>
+
+  <play>
     <date>2013.11.20</date>
     <location>Théâtre Kléber-Méleau, Renens, Switzerland</location>
     <name>La dame de la mer</name>
