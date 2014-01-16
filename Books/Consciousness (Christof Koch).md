@@ -11,7 +11,6 @@
 * Some scholars deny that consciousness has any causal role. They accept the reality of consciousness but argue that subjective feelings have no function—they are froth on the ocean of existence, without consequence to the world. The technical term is epiphenomenal. (p. 31)
 * Defining what, exactly, constitutes jazz is notoriously difficult. Hence the saying, “Man, if you gotta ask, you’re never gonna know.” The same holds true for consciousness. (p. 32)
 * Consider a related but simpler problem: explaining to a person blind from birth what color is. Defining the percept of red is impossible without referring to other red objects. (p. 32)
-* A habitual misperception is that science first rigorously defines the phenomena it studies, then uncovers the principles that govern them. (p. 33)
 * A habitual misperception is that science first rigorously defines the phenomena it studies, then uncovers the principles that govern them. Historically, progress in science is made without precise, axiomatic formulations. (p. 33)
 * A commonsense definition equates consciousness with our inner, mental life. Consciousness begins when we wake up in the morning and continues throughout the day until we fall into a dreamless sleep. Consciousness is present when we dream but is exiled during deep sleep, anesthesia, and coma. And it is permanently gone in death. (p. 33)
 * A behavioral definition of consciousness is a checklist of actions or behaviors that would certify as conscious any organism that could do one or more of them. (p. 33)
