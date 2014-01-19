@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://olivier.bruchez.org/movies.html" feed="http://olivier.bruchez.org/movies.rss">
   <movie>
+    <date>2014.01.18</date>
+    <theater>Casino, Martigny</theater>
+    <director>Ben Stiller</director>
+    <title>La vie rêvée de Walter Mitty</title>
+    <title language="en">The Secret Life of Walter Mitty</title>
+    <version>fr</version>
+    <url>http://www.imdb.com/title/tt0359950/</url>
+    <rating>4.5</rating>
+  </movie>
+  <movie>
     <date>2014.01.12</date>
     <theater home="true"/>
     <director>Hayao Miyazaki</director>
@@ -9,7 +19,6 @@
     <url>http://www.imdb.com/title/tt0876563/</url>
     <rating>4.5</rating>
   </movie>
-
   <movie>
     <date>2014.01.11</date>
     <theater home="true"/>
