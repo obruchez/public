@@ -12,9 +12,9 @@
 
 ## Résumé / CV
 
- * [HTML](http://olivier.bruchez.org/ResumeOlivierBruchez.html)
- * [PDF](http://olivier.bruchez.org/ResumeOlivierBruchez.pdf)
- * [Word](http://olivier.bruchez.org/ResumeOlivierBruchez.doc)
+ * [HTML](ResumeOlivierBruchez.html)
+ * [PDF](ResumeOlivierBruchez.pdf)
+ * [Word](ResumeOlivierBruchez.doc)
 
 ## Introspection
 
