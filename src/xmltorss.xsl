@@ -124,6 +124,24 @@
         </xsl:call-template>
     </xsl:template>
 
+    <xsl:template match="hikes">
+        <xsl:call-template name="rss">
+            <xsl:with-param name="contents">
+                <xsl:for-each select="hike">
+                    <xsl:call-template name="hike"/>
+                </xsl:for-each>
+            </xsl:with-param>
+        </xsl:call-template>
+    </xsl:template>
+
+    <xsl:template name="hike">
+        <xsl:call-template name="item">
+            <xsl:with-param name="contents">
+                <xsl:value-of select="child::place[1]"/>
+            </xsl:with-param>
+        </xsl:call-template>
+    </xsl:template>
+
     <xsl:template match="movies">
 		<xsl:call-template name="rss">
             <xsl:with-param name="contents">
