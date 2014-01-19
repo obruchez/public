@@ -12,9 +12,9 @@
 
 ## Résumé / CV
 
- * [HTML](ResumeOlivierBruchez.html)
- * [PDF](ResumeOlivierBruchez.pdf)
- * [Word](ResumeOlivierBruchez.doc)
+ * [HTML](https://rawgithub.com/obruchez/public/master/ResumeOlivierBruchez.html)
+ * [PDF](https://github.com/obruchez/public/raw/master/ResumeOlivierBruchez.pdf)
+ * [Word](https://github.com/obruchez/public/raw/master/ResumeOlivierBruchez.doc)
 
 ## Introspection
 
