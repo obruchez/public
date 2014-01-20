@@ -36,3 +36,12 @@ I think that my quest to get a definition of "free will" from DSP is part of tha
 [https://twitter.com/avernet/status/423975050933321729](https://twitter.com/avernet/status/423975050933321729)<br>
 
 "I do believe that what happens is either A necessary or B can be influenced by quantum randomness. A is pure determinism, and B adds uncaused quantum randomness, a randomness which cannot be influenced or predicted. In the last couple of years I switch to thinking that B, instead of A, better corresponds to reality. Q: What would have happened if everything was exactly the same? A: What happened ± some randomness add to the mix. I don't think I ever considered that question as a kid. And I don't remember ever finding the answer shocking or "abhorrent", as Koch said. Instead I find the question uninteresting. We're really interested in either what happened (facts/history) or what would have happened if something had been different. Am I missing something? What are you finding so shocking in that answer? Why is it even worth pondering?"
+
+## @obruchez (2014-01-14)
+
+[https://twitter.com/obruchez/status/423181108490948609](https://twitter.com/obruchez/status/423181108490948609)<br>
+[https://twitter.com/obruchez/status/423181167794221056](https://twitter.com/obruchez/status/423181167794221056)<br>
+[https://twitter.com/obruchez/status/423181230092214272](https://twitter.com/obruchez/status/423181230092214272)<br>
+[https://twitter.com/obruchez/status/423181292121776128](https://twitter.com/obruchez/status/423181292121776128)<br>
+
+"Exactly. However discussing semantics is only interesting to a point. What about the ontology of free will and determinism? Do we at least agree about the fact that when something happens at time t anywhere in the universe, it is necessary and nothing else could have happened? If so, has it always been obvious to you (including when you were a child)? If not, was it a shock when you realized that it applied to your brain as well? Do you even remember when you realized it?"
