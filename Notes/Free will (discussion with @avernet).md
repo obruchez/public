@@ -133,11 +133,6 @@ https://twitter.com/avernet/status/420332819668164608
 
 "And here is an answer about the part of your post on #freewill. Artfully changing the subject: https://medium.com/p/bb7273610bd4"
 
-## @avernet (2014-01-06)
-
-Artfully changing the subject<br>
-https://medium.com/p/bb7273610bd4
-
 ## @obruchez (2013-12-30)
 
 https://twitter.com/obruchez/status/417778812231749632
