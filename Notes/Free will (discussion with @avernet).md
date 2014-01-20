@@ -77,7 +77,7 @@ https://twitter.com/obruchez/status/422816689588166656<br>
 
 https://twitter.com/avernet/status/422816256232652800<br>
 
-"For example the judicial system or modern psychology, but also just plain Wiktionary, as I mentioned in https://medium.com/p/bb7273610bd4."
+"For example the judicial system or modern psychology, but also just plain Wiktionary, as I mentioned in https://medium.com/p/bb7273610bd4 ."
 
 ## @obruchez (2014-01-13)
 
@@ -122,8 +122,8 @@ https://twitter.com/avernet/status/422603924709711872
 
 ## @obruchez (2014-01-11)
 
-https://twitter.com/obruchez/status/422022323319746561
-https://twitter.com/obruchez/status/422022357335568385
+https://twitter.com/obruchez/status/422022323319746561<br>
+https://twitter.com/obruchez/status/422022357335568385<br>
 
 "Christof Koch is a compatibilist when it comes to free will but to me he has the same point of view as @SamHarrisOrg and @DanielMiessler. Christof Koch is also an atheist but still insists on calling something "God". What a strange intellectual position..."
 
@@ -133,3 +133,31 @@ https://twitter.com/avernet/status/420332819668164608
 
 "And here is an answer about the part of your post on #freewill. Artfully changing the subject: https://medium.com/p/bb7273610bd4"
 
+## @avernet (2014-01-06)
+
+Artfully changing the subject<br>
+https://medium.com/p/bb7273610bd4
+
+## @obruchez (2013-12-30)
+
+https://twitter.com/obruchez/status/417778812231749632
+
+"Ce que je crois http://bruchez.blogspot.ch/2013/12/ce-que-je-crois.html #philosophy"
+
+## @avernet (2013-12-19)
+
+https://twitter.com/avernet/status/413576757011173376
+
+"And, finally, here is an answer to your answer on #freewill. https://medium.com/p/c68a13b1f1c3"
+
+## @obruchez (2013-11-24)
+
+https://twitter.com/obruchez/status/404567199500615681
+
+"And here's my answer: http://bruchez.blogspot.ch/2013/11/choosing-definition-of-free-will.html (I can't really comment on Medium, so the introduction now makes less sense...)"
+
+## @avernet (2013-11-24)
+
+https://twitter.com/avernet/status/404495076383928320
+
+"I just re-published my last post "Defining free will" on Medium, as a test. https://medium.com/p/684963db1f94"
