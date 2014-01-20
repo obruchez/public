@@ -14,3 +14,5 @@
 * [The Selfish Gene (Richard Dawkins)](The Selfish Gene (Richard Dawkins\).md)
 * [What I Believe (Bertrand Russell)](What I Believe (Bertrand Russell\).md)
 * [You Are Not So Smart (David McRaney)](You Are Not So Smart (David McRaney\).md)
+
+Files generated using [obruchez/kindle-clippings-to-markdown](https://github.com/obruchez/kindle-clippings-to-markdown).
