@@ -12,14 +12,14 @@ I think that my quest to get a definition of "free will" from DSP is part of tha
 
 ## @obruchez (2014-01-19)
 
-[https://twitter.com/obruchez/status/424939158851682304](https://twitter.com/obruchez/status/424939158851682304)
-[https://twitter.com/obruchez/status/424939195191132160](https://twitter.com/obruchez/status/424939195191132160)
-[https://twitter.com/obruchez/status/424939234617610240](https://twitter.com/obruchez/status/424939234617610240)
-[https://twitter.com/obruchez/status/424939267278655488](https://twitter.com/obruchez/status/424939267278655488)
-[https://twitter.com/obruchez/status/424939300141015040](https://twitter.com/obruchez/status/424939300141015040)
-[https://twitter.com/obruchez/status/424939334911799296](https://twitter.com/obruchez/status/424939334911799296)
-[https://twitter.com/obruchez/status/424939363818934272](https://twitter.com/obruchez/status/424939363818934272)
-[https://twitter.com/obruchez/status/424939397704712192](https://twitter.com/obruchez/status/424939397704712192)
-[https://twitter.com/obruchez/status/424939440612470784](https://twitter.com/obruchez/status/424939440612470784)
+[https://twitter.com/obruchez/status/424939158851682304](https://twitter.com/obruchez/status/424939158851682304)<br>
+[https://twitter.com/obruchez/status/424939195191132160](https://twitter.com/obruchez/status/424939195191132160)<br>
+[https://twitter.com/obruchez/status/424939234617610240](https://twitter.com/obruchez/status/424939234617610240)<br>
+[https://twitter.com/obruchez/status/424939267278655488](https://twitter.com/obruchez/status/424939267278655488)<br>
+[https://twitter.com/obruchez/status/424939300141015040](https://twitter.com/obruchez/status/424939300141015040)<br>
+[https://twitter.com/obruchez/status/424939334911799296](https://twitter.com/obruchez/status/424939334911799296)<br>
+[https://twitter.com/obruchez/status/424939363818934272](https://twitter.com/obruchez/status/424939363818934272)<br>
+[https://twitter.com/obruchez/status/424939397704712192](https://twitter.com/obruchez/status/424939397704712192)<br>
+[https://twitter.com/obruchez/status/424939440612470784](https://twitter.com/obruchez/status/424939440612470784)<br>
 
 "We both agree that quantum randomness, just like necessity, doesn't give us any "freedom", right? So I fail to see how Koch can somehow be comforted by the fact that "pure determinism" would be false. Myself, I believe that we indeed live in a purely deterministic world and that quantum randomness is not intrinsic randomness, but randomness over time, which is the only empirically testable randomness anyway. But that's just the icing on the cake. :) Also, I'm not saying I'm currently "shocked" by the determinism of the world, just that I had a "Determinism Shock" (DS), probably when I was 17. Before that, I implicitly had the intuition that we had absolute/libertarian free will, which is the intuition I still think most people on earth have (which is natural without any knowledge of physics). Koch seemed to also have had a DS. You don't seem to have had a DS, which to me is interesting, because it might explain why we feel so differently about this matter, why I find this whole process of defining/re-defining "free will" (i.e. semantics) so boring/vain."
