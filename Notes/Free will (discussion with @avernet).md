@@ -45,3 +45,67 @@ I think that my quest to get a definition of "free will" from DSP is part of tha
 [https://twitter.com/obruchez/status/423181292121776128](https://twitter.com/obruchez/status/423181292121776128)<br>
 
 "Exactly. However discussing semantics is only interesting to a point. What about the ontology of free will and determinism? Do we at least agree about the fact that when something happens at time t anywhere in the universe, it is necessary and nothing else could have happened? If so, has it always been obvious to you (including when you were a child)? If not, was it a shock when you realized that it applied to your brain as well? Do you even remember when you realized it?"
+
+## @avernet (2014-01-14)
+
+[https://twitter.com/avernet/status/423158168638611456](https://twitter.com/avernet/status/423158168638611456)<br>
+[https://twitter.com/avernet/status/423158708613283841](https://twitter.com/avernet/status/423158708613283841)<br>
+
+1) "Yes, words are ambiguous. But giving common words a completely different meaning is IMHO bad philosophy."
+2) "Or define it better and come up with words that better reflect that definition (e.g. "hard free will" and "practical free will")."
+
+## @obruchez (2014-01-14)
+
+[https://twitter.com/obruchez/status/423156339758473216](https://twitter.com/obruchez/status/423156339758473216)<br>
+[https://twitter.com/obruchez/status/423156394573840384](https://twitter.com/obruchez/status/423156394573840384)<br>
+
+"1) Languages/words are ambiguous. We should accept that fact and move on. Choosing one definition over another is pointless. 2) Isn't the fact that free will has been debated for thousands of years a clue that we should stop using it as a concept?"
+
+## @avernet (2014-01-14)
+
+[https://twitter.com/avernet/status/423153842419535872](https://twitter.com/avernet/status/423153842419535872)<br>
+
+"Not my point. I'm arguing looking at how they use certain words, and prefer not to give the same words a different meaning."
+
+## @obruchez (2014-01-13)
+
+[https://twitter.com/obruchez/status/422816689588166656](https://twitter.com/obruchez/status/422816689588166656)<br>
+
+"Are lawyers, legal experts, politicians, etc. really the right persons to ask about philosophical issues?"
+
+## @avernet (2014-01-13)
+
+[https://twitter.com/avernet/status/422816256232652800](https://twitter.com/avernet/status/422816256232652800)<br>
+
+"For example the judicial system or modern psychology, but also just plain Wiktionary, as I mentioned in https://medium.com/p/bb7273610bd4 ."
+
+## @obruchez (2014-01-13)
+
+[https://twitter.com/obruchez/status/422815103566610432](https://twitter.com/obruchez/status/422815103566610432)<br>
+
+"By whom?"
+
+## @avernet (2014-01-13)
+
+[https://twitter.com/avernet/status/422814925983993856](https://twitter.com/avernet/status/422814925983993856)<br>
+
+"I'd argue the meaning a compatibilist gives to "freedom", "choice", "decision" is closer to how they're used in everyday life."
+
+## @obruchez (2014-01-13)
+
+[https://twitter.com/obruchez/status/422792044860284928](https://twitter.com/obruchez/status/422792044860284928)<br>
+
+"Isn't that what compatibilists do? :)"
+
+## @avernet (2014-01-13)
+
+[https://twitter.com/avernet/status/422783921944666112](https://twitter.com/avernet/status/422783921944666112)<br>
+[https://twitter.com/avernet/status/422785391859490816](https://twitter.com/avernet/status/422785391859490816)<br>
+
+"Yes, it's most semantics. But semantics matter, especially in philosophy, as bad semantics often leads to incorrect conclusions. Eg. hard determinists feel compelled to redefine what "freedom" means, and consequently also need redefine "choice", "decision", …"
+
+## @obruchez (2014-01-13)
+
+[https://twitter.com/obruchez/status/422630123200720896](https://twitter.com/obruchez/status/422630123200720896)<br>
+
+"But, yes, as I must admit I still don't understand your point of view, maybe another blog post would be helpful. :)"
