@@ -7,7 +7,7 @@
 * [God's Debris (Scott Adams)](God's Debris (Scott Adams\).md)
 * [How to Create a Mind (Ray Kurzweil)](How to Create a Mind (Ray Kurzweil\).md)
 * [Le Mythe de Sisyphe (Albert Camus)](Le Mythe de Sisyphe (Albert Camus\).md)
-* [L’Étranger (Albert Camus)](L’Étranger (Albert Camus\).md)
+* [L'Étranger (Albert Camus)](L'Étranger (Albert Camus\).md)
 * [Métaphysique des Tubes (Amélie Nothomb)](Métaphysique des Tubes (Amélie Nothomb\).md)
 * [Pantagruel (François Rabelais)](Pantagruel (François Rabelais\).md)
 * [The Moral Landscape (Sam Harris)](The Moral Landscape (Sam Harris\).md)
