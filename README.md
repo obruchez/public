@@ -21,3 +21,8 @@
  * About
  * [Beliefs / worldview](Beliefs.md) (in French)
  * [Life principles](Life principles.md) (in French)
+
+## Notes
+
+ * [Kindle highlights](Books)
+ * [Other notes](Notes)
