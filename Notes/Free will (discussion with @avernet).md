@@ -198,7 +198,7 @@ https://twitter.com/avernet/status/78326539300777984
 
 https://twitter.com/obruchez/statuses/78361231446114304
 
-"Maybe. <romantic>But love is real.</romantic> Whereas I agree that free will is an illusion. Or an illusion of an illusion."
+"Maybe. \<romantic>But love is real.\</romantic> Whereas I agree that free will is an illusion. Or an illusion of an illusion."
 
 ## @avernet (2011-06-08)
 
