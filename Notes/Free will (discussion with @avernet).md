@@ -51,7 +51,7 @@ I think that my quest to get a definition of "free will" from DSP is part of tha
 [https://twitter.com/avernet/status/423158168638611456](https://twitter.com/avernet/status/423158168638611456)<br>
 [https://twitter.com/avernet/status/423158708613283841](https://twitter.com/avernet/status/423158708613283841)<br>
 
-1) "Yes, words are ambiguous. But giving common words a completely different meaning is IMHO bad philosophy."
+1) "Yes, words are ambiguous. But giving common words a completely different meaning is IMHO bad philosophy."<br>
 2) "Or define it better and come up with words that better reflect that definition (e.g. "hard free will" and "practical free will")."
 
 ## @obruchez (2014-01-14)
@@ -109,3 +109,9 @@ I think that my quest to get a definition of "free will" from DSP is part of tha
 [https://twitter.com/obruchez/status/422630123200720896](https://twitter.com/obruchez/status/422630123200720896)<br>
 
 "But, yes, as I must admit I still don't understand your point of view, maybe another blog post would be helpful. :)"
+
+## @avernet (2014-01-13)
+
+https://twitter.com/avernet/status/422603924709711872
+
+"Really? To me, the chasm is significant, and the difference matters. A lot. But maybe that should be the topic of a blog post."
