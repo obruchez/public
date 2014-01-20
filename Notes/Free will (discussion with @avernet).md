@@ -157,6 +157,31 @@ https://twitter.com/avernet/status/404495076383928320
 
 "I just re-published my last post "Defining free will" on Medium, as a test. https://medium.com/p/684963db1f94"
 
+## @obruchez (2011-07-20)
+
+https://twitter.com/obruchez/statuses/93587857326870528<br>
+https://twitter.com/obruchez/statuses/93589044918886400<br>
+
+"In other words, free will is closely related to consciousness, another fuzzy concept that accepts supernatural explanations (soul). Consciousness is a more useful concept. "Free will" is often used by people who think their "mind" can escape the laws of physics."
+
+## @avernet (2011-07-19)
+
+https://twitter.com/avernet/status/93423841711374336
+
+"It's hard to objectively say if an entity has #FreeWill. The entity has to tell you. It's more like pain, love, and (yes) gender."
+
+## @obruchez (2011-07-19)
+
+https://twitter.com/obruchez/statuses/93219979167662081
+
+"Most people don't think of Adams' definition when they're talking about free will. They're talking about the magical ability thing."
+
+## @avernet (2011-07-19)
+
+https://twitter.com/avernet/status/93204196702171136
+
+"Scott Adams Blog: "First we need to define free will." A good, very good way to start http://awe.sm/5P84Y #freewill"
+
 ## @obruchez (2011-06-10)
 
 https://twitter.com/obruchez/statuses/79089496011968513<br>
