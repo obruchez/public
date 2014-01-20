@@ -156,3 +156,61 @@ https://twitter.com/obruchez/status/404567199500615681
 https://twitter.com/avernet/status/404495076383928320
 
 "I just re-published my last post "Defining free will" on Medium, as a test. https://medium.com/p/684963db1f94"
+
+## @obruchez (2011-06-10)
+
+https://twitter.com/obruchez/statuses/79089496011968513<br>
+https://twitter.com/obruchez/statuses/79089775323250688<br>
+
+"Of course, one of your opponents will always use another definition to contradict you. :) "That's not what I meant by 'free will'". But you're right. Harris probably should have tried to define what he meant by "free will" first."
+
+## @avernet (2011-06-09)
+
+https://twitter.com/avernet/status/78925250246623232
+
+"Sure, there can be many definitions, but start with one, the most reasonable, you can think of. #freewill"
+
+## @obruchez (2011-06-09)
+
+https://twitter.com/obruchez/statuses/78854817212149760
+
+"Gods. Soul. Free will. It's not that hard to come up with *one* definition. The problem is: you have to address *many* definitions."
+
+## @avernet (2011-06-09)
+
+https://twitter.com/avernet/status/78853368226922496
+
+"Not sure I agree with the "hard to define something you don't believe in". Not so for deities. You see other cases?"
+
+## @obruchez (2011-06-08)
+
+https://twitter.com/obruchez/statuses/78774842131877888
+
+"I guess it's hard to define something you don't believe in. Or at least as "fuzzy" as free will."
+
+## @avernet (2011-06-08)
+
+https://twitter.com/avernet/status/78326539300777984
+
+"Surprisingly, he seems to have forgotten to define "free will". Agreeing with his arguments, I arrive at the opposite conclusion."
+
+## @obruchez (2011-06-08)
+
+https://twitter.com/obruchez/statuses/78361231446114304
+
+"Maybe. <romantic>But love is real.</romantic> Whereas I agree that free will is an illusion. Or an illusion of an illusion."
+
+## @avernet (2011-06-08)
+
+https://twitter.com/avernet/status/78331640178417664
+
+"He gets somewhere talking about how we feel free will. It's the only sensible definition to me: free will is a feeling, like love."
+
+## @obruchez (2011-06-03)
+
+https://twitter.com/obruchez/status/76740460680462336
+
+""Free Will (And Why You Still Don’t Have It)" [http://bit.ly/m6lub5](https://web.archive.org/web/20120111053851/http://www.samharris.org/blog/item/free-will-why-you-still-dont-have-it/)"
+
+
+
