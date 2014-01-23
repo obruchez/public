@@ -9,6 +9,30 @@
   -->
 
   <play>
+    <date>2014.01.22</date>
+    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
+    <name>Fureur</name>
+    <author>Joanna Murray-Smith</author>
+    <director>Geoffrey Dyson</director>
+    <translation>Geoffrey Dyson</translation>
+    <actor>Claude-Inga Barbey</actor>
+    <actor>Isabelle Bosson</actor>
+    <actor>Carole Schafroth</actor>
+    <actor>Pierre Banderet</actor>
+    <actor>Aidan Büchi</actor>
+    <actor>Michel Demierre</actor>
+    <actor>David Marchetto </actor>
+    <!--
+Assistanat : Aidan Büchi
+scénographie et graphisme : Kym Staiff
+costumes : Berivan Meyer
+maquillage : Katrin Zingg
+éclairage : Jean-Pierre Potvliege
+relations publiques : Claudine Corbaz
+    -->
+    <rating>4.75</rating>
+  </play>
+  <play>
     <date>2014.01.15</date>
     <location>Théâtre Kléber-Méleau, Renens, Switzerland</location>
     <name>Un mari ideal</name>
@@ -24,7 +48,6 @@
     <actor>Christian Robert-Charrue</actor>
     <rating>5.0</rating>
   </play>
-
   <play>
     <date>2013.11.20</date>
     <location>Théâtre Kléber-Méleau, Renens, Switzerland</location>
@@ -1429,6 +1452,31 @@ Joël L’Hopitalier
     <person function="scénographie">Danièla Villaret</person>
     <person function="lumière">Danielle Milovic</person> -->
     <rating>5.5</rating>
+  </play>
+  <play>
+    <date>2006.04.04</date>
+    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
+    <name>Cinq filles couleur pêche</name>
+    <author>Alan Ball</author>
+    <director>François Marin</director>
+    <actor>Caroline Althaus</actor>
+    <actor>Christine Brammeier</actor>
+    <actor>Virginie Meisterhans</actor>
+    <actor>Geneviève Pasquier</actor>
+    <actor>Barbara Tobola</actor>
+    <actor>Marc Mayoraz</actor>
+    <!--
+scénographie : Elissa Bier
+lumières : William Lambert
+costumes : Scilla Ilardo
+couturière : Diane Grosset
+environnement sonore : Julien Sulser
+régie générale : Jean Jenny
+stagiaire : Lois Siggen Lopez
+assistante de prodution : Solange Bonù
+responsable de production : Michel Sauser
+    -->
+    <rating/>
   </play>
   <!-- 2006.04.29 Théâtre Même les Cow-Girls ont le Blues -->
   <play>
