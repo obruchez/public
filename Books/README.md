@@ -10,6 +10,7 @@
 * [L'Étranger (Albert Camus)](L'Etranger (Albert Camus\).md)
 * [Métaphysique des Tubes (Amélie Nothomb)](Metaphysique des Tubes (Amelie Nothomb\).md)
 * [Pantagruel (François Rabelais)](Pantagruel (François Rabelais\).md)
+* [Petit traité de manipulation à l'usage des honnêtes gens (Robert-Vincent Joule & Jean-Léon Beauvois)](Petit traite de manipulation a l'usage des honnetes gens (Robert-Vincent Joule & Jean-Leon Beauvois).pdf)
 * [The Moral Landscape (Sam Harris)](The Moral Landscape (Sam Harris\).md)
 * [The Selfish Gene (Richard Dawkins)](The Selfish Gene (Richard Dawkins\).md)
 * [What I Believe (Bertrand Russell)](What I Believe (Bertrand Russell\).md)
