@@ -1,6 +1,7 @@
 # Movies
 Date | Theater | Director | Title | Alternative Title(s) | Version | Rating | Comments
 --- | --- | --- | --- | --- | --- | --- | ---
+<a name="647"></a>2014/01/25 | Pathé Flon, Lausanne | Martin Scorsese | [The Wolf of Wall Street](http://www.imdb.com/title/tt0993846/) |  | Original | ![2.5](https://raw.github.com/obruchez/public/master/img/stars2_5.png) | 
 <a name="646"></a>2014/01/18 | Casino, Martigny | Ben Stiller | [La vie rêvée de Walter Mitty](http://www.imdb.com/title/tt0359950/) | The Secret Life of Walter Mitty (English) | French | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="645"></a>2014/01/12 |  | Hayao Miyazaki | [Gake no ue no Ponyo](http://www.imdb.com/title/tt0876563/) | Ponyo (English) | Original | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="644"></a>2014/01/11 |  | Hayao Miyazaki | [Tenkû no shiro Rapyuta](http://www.imdb.com/title/tt0092067/) | Castle in the Sky (English) | Original | ![3.75](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 

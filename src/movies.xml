@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Movies.md" feed="http://raw.github.com/obruchez/blog/master/rss/movies.rss">
   <movie>
+    <date>2014.01.25</date>
+    <theater>Pathé Flon, Lausanne</theater>
+    <director>Martin Scorsese</director>
+    <title>The Wolf of Wall Street</title>
+    <url>http://www.imdb.com/title/tt0993846/</url>
+    <rating>3.5</rating>
+  </movie> 
+  <movie>
     <date>2014.01.18</date>
     <theater>Casino, Martigny</theater>
     <director>Ben Stiller</director>
