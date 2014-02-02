@@ -9,6 +9,17 @@
   - 1998/07/08 THE KENNY WAYNE SHEPHERD BAND (http://www.montreuxsounds.com/detail2006.php?fiche=2013) (vu ou pas ?)
   -->
   <concert>
+    <date>2014.02.01</date>
+    <location>Victoria Hall, Geneva, Switzerland</location>
+    <event></event>
+    <musician inst="piano" leader="true">Ahmad Jamal</musician>
+    <musician inst="bass">Reginald Veal</musician>
+    <musician inst="drums">Herlin Riley</musician>
+    <musician inst="percussions">Monolo Badrena</musician>
+    <rating>5.0</rating>
+    <comments/>
+  </concert>
+  <concert>
     <date>2013.11.09</date>
     <location>Théâtre de Vevey, Vevey, Switzerland</location>
     <musician inst="piano" leader="true">Brad Mehldau</musician>
