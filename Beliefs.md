@@ -60,6 +60,7 @@ Cela inclut en particulier l'[homéopathie](https://fr.wikipedia.org/wiki/Hom%C3
  * droits des homosexuels (mariage, adoption, etc.)
  * droits des femmes (avortement, prostitution, etc.)
  * démocratie, systèmes politiques
+ * vin/audiophilie (effet placebo + snobisme)
  * voir aussi ["What do philosophers believe?"](http://philpapers.org/archive/BOUWDP)
 
 ##### A faire
