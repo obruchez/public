@@ -60,6 +60,7 @@ Cela inclut en particulier l'[homéopathie](https://fr.wikipedia.org/wiki/Hom%C3
  * droits des homosexuels (mariage, adoption, etc.)
  * droits des femmes (avortement, prostitution, etc.)
  * démocratie, systèmes politiques
+ * vin/audiophilie (effet placebo + snobisme)
  * voir aussi ["What do philosophers believe?"](http://philpapers.org/archive/BOUWDP)
 
 ##### A faire
@@ -70,3 +71,5 @@ Cela inclut en particulier l'[homéopathie](https://fr.wikipedia.org/wiki/Hom%C3
  * "sortir" dieu + âme + conscience de la croyance en une réalité matérielle objective ?
  * investiguer le concept de [dualisme des propriétés](https://en.wikipedia.org/wiki/Property_dualism) (vs ["substance dualism"](https://en.wikipedia.org/wiki/Dualism_(philosophy_of_mind\)#Substance_dualism))
  * ajouter lien vers [Is Consciousness Universal?](http://www.scientificamerican.com/article.cfm?id=is-consciousness-universal&print=true) et ajouter idées de "Consciousness: Confessions of a Romantic Reductionist"
+ * insister sur le côté sémantique du débat sur le libre arbitre (cf [Miessler](http://www.danielmiessler.com/blog/disambiguation-freedom))
+ * parler de la relation science/philosophie, du scientisme et mentionner [Massimo Pigliucci](http://rationallyspeaking.blogspot.ch/2010/04/about-sam-harris-claim-that-science-can.html)
