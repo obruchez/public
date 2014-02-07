@@ -12,7 +12,7 @@
 
 ## Musicians
 
-* [Prince](https://en.wikipedia.org/wiki/Prince_(musician\))
+* [Prince](https://en.wikipedia.org/wiki/Prince_(musician))
 * [Miles Davis](https://en.wikipedia.org/wiki/Miles_Davis)
 * [Keith Jarrett](https://en.wikipedia.org/wiki/Keith_Jarrett)
 * [The Beatles](https://en.wikipedia.org/wiki/The_Beatles)
