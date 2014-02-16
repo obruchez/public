@@ -12,7 +12,7 @@ Ceci est un premier jet (un peu "bateau"), datant de 2011 ou plus tôt.
 
 ##### Confiance en soi
 
-Savoir ce que je veux. Etre conscient de ma valeur. Être à l'aise avec les autres. Faire face à mes peurs/phobies en les affrontant directement.
+Savoir ce que je veux. Être conscient de ma valeur. Être à l'aise avec les autres. Faire face à mes peurs/phobies en les affrontant directement.
 
 ##### Contact
 
