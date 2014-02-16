@@ -4,7 +4,7 @@ Ceci est un premier jet (un peu "bateau"), datant de 2011 ou plus tôt.
 
 ##### Agir
 
-Savoir moins hésiter. Prendre plus de risques. Être plus dynamique. M’impliquer.
+Être plus dynamique, moins passif. Moins hésiter, prendre des décisions rationnelles mais rapides. Prendre plus de risques, savoir saisir les opportunités.
 
 ##### Apprendre
 
@@ -12,7 +12,7 @@ Savoir moins hésiter. Prendre plus de risques. Être plus dynamique. M’impliq
 
 ##### Confiance en soi
 
-Savoir ce que je veux. Savoir ce que je vaux. Être à l'aise avec les autres. Faire face à mes peurs/phobies.
+Savoir ce que je veux. Etre conscient de ma valeur. Être à l'aise avec les autres. Faire face à mes peurs/phobies en les affrontant directement.
 
 ##### Contact
 
@@ -20,7 +20,7 @@ Chercher le contact social. Eviter de me reposer sur d’autres personnes pour e
 
 ##### Détente
 
-Loisirs, relaxation, respiration profonde, méditation, etc.
+Loisirs, relaxation, méditation, etc.
 
 ##### Équilibre
 
@@ -28,7 +28,7 @@ Entre la famille, les amis, le travail, les loisirs, etc.
 
 ##### Laisser tomber / compassion
 
-Accepter de ne pas avoir le contrôle sur tout. Savoir pardonner. Accepter les erreurs (les miennes et celles des autres). Ne pas se laisser aller à la colère.
+Accepter de ne pas avoir le contrôle sur tout. Savoir pardonner. Accepter les erreurs (les miennes et celles des autres). Ne pas me laisser aller à la colère.
 
 ##### Présent
 
@@ -44,8 +44,8 @@ Sport, détente, sommeil et nutrition.
 
 ##### Simplifier
 
-Avoir moins de possessions, moins de projets superflus, moins d'informations superflues (“information” overload). Aller à l’essentiel. Eviter la recherche du perfectionnisme (“good enough”).
+Avoir moins de possessions, moins de projets superflus, moins d'informations superflues ("information" overload). Aller à l’essentiel. Eviter la recherche du perfectionnisme ("good enough").
 
 ##### Travail / argent
 
-Trouver un travail satisfaisant intellectuellement et utile à la société.
+Trouver un travail satisfaisant intellectuellement et utile à la société. Favoriser l'intérêt du travail par rapport à l'argent.
