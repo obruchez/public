@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books title="Books (Olivier Bruchez)" description="The last books I read" link="http://github.com/obruchez/public/blob/master/Books.md" feed="http://raw.github.com/obruchez/blog/master/rss/books.rss">
     <book>
+        <date>2014.02.23</date>
+        <title>The Now Habit</title>
+        <author>Neil A. Fiore</author>
+        <publishingyear>2007</publishingyear>
+        <rating>3.5</rating>
+        <url>http://books.google.ch/books/about/The_Now_Habit.html?id=obLBn7OKcI8C</url>
+    </book>
+    <book>
         <date>2014.01.11</date>
-        <title>Consciousness: Confessions of a Romantic Reductionist</title>
+        <title>Consciousness</title>
+        <subtitle>Confessions of a Romantic Reductionist</subtitle>
         <author>Christof Koch</author>
         <publishingyear>2012</publishingyear>
         <rating>5.0</rating>
