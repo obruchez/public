@@ -1,7 +1,7 @@
 # Books
 Date | Author | Title | Subtitle | Year | Rating | Comments
 --- | --- | --- | --- | --- | --- | ---
-<a name="68"></a>2014/02/23 | Neil A. Fiore | [The Now Habit](http://books.google.ch/books/about/The_Now_Habit.html?id=obLBn7OKcI8C) |  | 2007 | ![2.5](https://raw.github.com/obruchez/public/master/img/stars2_5.png) | 
+<a name="68"></a>2014/02/23 | Neil A. Fiore | [The Now Habit](http://books.google.ch/books/about/The_Now_Habit.html?id=obLBn7OKcI8C) | A Strategic Program for Overcoming Procrastination and Enjoying Guilt-Free Play | 2007 | ![2.5](https://raw.github.com/obruchez/public/master/img/stars2_5.png) | 
 <a name="67"></a>2014/01/11 | Christof Koch | [Consciousness](http://books.google.ch/books?id=q2xDfZ_TC-gC) | Confessions of a Romantic Reductionist | 2012 | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="66"></a>2013/12/16 | Joshua D. Suereth | [Scala in Depth](http://books.google.ch/books/about/Scala_in_Depth.html?id=4VCfSgAACAAJ) |  | 2012 | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="65"></a>2013/12/06 | Gilbert Bruchez, Philippe Curdy & François Baillifard | [Pierres à cupules et autres pierres gravées: Verbier, Bagnes et Entremont](http://books.google.ch/books/about/Pierres_%C3%A0_cupules_et_autres_pierres_gra.html?id=y2h-KQEACAAJ) |  | 2009 | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
