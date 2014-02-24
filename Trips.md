@@ -1,6 +1,7 @@
 # Trips
 From | To | Place | Pictures
 --- | --- | --- | ---
+<a name="68"></a>2014/02/22 | 2014/02/23 | Leukerbad, Switzerland | 
 <a name="67"></a>2013/10/17 | 2013/10/21 | Prague, Czech Republic | [Prague, Czech Republic](https://secure.flickr.com/photos/bruchez/sets/72157637696735815/)<br/>[NG Prague - Veletržní Palace](https://secure.flickr.com/photos/bruchez/sets/72157637691283093/)<br/>
 <a name="66"></a>2013/07/29 | 2013/08/08 | Jandía, Fuerteventura, Canary Islands, Spain | [Jandía, Fuerteventura, Canary Islands, Spain](https://secure.flickr.com/photos/bruchez/sets/72157636301699486/)<br/>
 <a name="65"></a>2013/06/29 | 2013/06/30 | Château de Pizay, Saint-Jean-d'Ardières, France | [Château de Pizay, Saint-Jean-d'Ardières, France](https://secure.flickr.com/photos/bruchez/sets/72157636184284975/)<br/>
