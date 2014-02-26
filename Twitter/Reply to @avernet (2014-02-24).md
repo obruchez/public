@@ -10,7 +10,7 @@ https://twitter.com/avernet/status/437833510695337984
 
 OCR by [newocr.com](http://www.newocr.com/):
 
-"How one defines freedom seems central the this question. In offline discussions, @tpol1ing has been looking at possible levels freedom as a continuum: from "total" freedom to no freedom at all. Total freedom would be the type freedom an omnipotent God would have, and no freedom would maybe correspond not existing. Most of us, whether religious or not, see our level freedom as being somewhere between those two extremes.
+"How one defines freedom seems central the this question. In offline discussions, @tpolling has been looking at possible levels freedom as a continuum: from "total" freedom to no freedom at all. Total freedom would be the type freedom an omnipotent God would have, and no freedom would maybe correspond not existing. Most of us, whether religious or not, see our level freedom as being somewhere between those two extremes.
 
 Absolute freedom requires that you can at least change the laws of physics or change the past. I see it as being fairly close to the total freedom extreme, and don't think that anyone, again whether they are religious or not, believes they can change the past, or change the laws of physics. Certainly, lots people have lots of false beliefs. But it doesn't follow that they believe they change the past or change the laws of the universe. In fact, I am even convinced that almost no one believes that. So, if we stick to Miessler's definition, no one believes in absolute freedom.
 

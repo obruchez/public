@@ -33,17 +33,17 @@ https://twitter.com/avernet/status/438472588361080833
 https://twitter.com/avernet/status/438472824294866945
 https://twitter.com/avernet/status/438473364437356544
 
-1a) "I was more thinking along the lines of "how can you test whether someone understands X", where X might be determinism."
-1b) "The goal of the study isn't to change peoples' mind or teach them something, but to better understand how they think."
-2) "If by "cannot" you mean "did not" and "will not", isn't that the case of any thought experiment? (The brain is pretty good at it.)"
+1a) "I was more thinking along the lines of "how can you test whether someone understands X", where X might be determinism."<br>
+1b) "The goal of the study isn't to change peoples' mind or teach them something, but to better understand how they think."<br>
+2) "If by "cannot" you mean "did not" and "will not", isn't that the case of any thought experiment? (The brain is pretty good at it.)"<br>
 
 ## @obruchez (2014-02-26)
 
 https://twitter.com/obruchez/status/438472186529992705
 https://twitter.com/obruchez/status/438472798663880704
 
-1) "I don't know! How do you make someone really think about something he doesn't really understand?"
-2) "I'm already puzzled by case 1 (Laplace's demon / supercomputer). We're asked to think about something that cannot exist."
+1) "I don't know! How do you make someone really think about something he doesn't really understand?"<br>
+2) "I'm already puzzled by case 1 (Laplace's demon / supercomputer). We're asked to think about something that cannot exist."<br>
 
 ## @avernet (2014-02-26)
 
