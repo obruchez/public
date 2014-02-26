@@ -2,6 +2,7 @@
 
  * [Books](Books.md)
  * [Concerts](Concerts.md)
+ * [Coursera](Coursera.md)
  * [Crashes](Crashes.md)
  * [Exhibitions](Exhibitions.md)
  * [Hikes](Hikes.md)
@@ -18,11 +19,11 @@
 
 ## Introspection
 
- * About
+ * [About / profile](About.md) (draft)
  * [Beliefs / worldview](Beliefs.md) (in French)
  * [Life principles](Life principles.md) (in French)
 
 ## Notes
 
  * [Kindle highlights](Books)
- * [Other notes](Notes)
+ * [Longer Twitter replies](Twitter)
