@@ -50,7 +50,23 @@ Cela inclut en particulier l'[homéopathie](https://fr.wikipedia.org/wiki/Hom%C3
 
 ##### La théorie de l'évolution par la sélection naturelle est la meilleure explication du développement de la vie sur Terre.
 
-Plus exactement, de nos jours, il faut plutôt parler de [théorie synthétique de l'évolution (ou néodarwinisme)](https://fr.wikipedia.org/wiki/Théorie_synthétique_de_l'évolution). La théorie de l'évolution est un sujet difficile d'accès. Comme le disait Jacques Monod : "Another curious aspect of the theory of evolution is that everybody thinks he understands it!" La réalité est que peu de monde comprend vraiment la théorie de l'évolution. Il m'a fallu travailler durant des mois sur un projet de recherche, à l'EPFL, mettant en lien [algorithmes génétiques](https://en.wikipedia.org/wiki/Genetic_algorithm) et [réseaux de neurones artificiels](https://en.wikipedia.org/wiki/Artificial_neural_network), pour commencer à comprendre, intuitivement, que de la "non-intelligence" puisse engendrer de l'"intelligence", que quelque chose donnant l'impression d'avoir été réfléchi, conçu par un être intelligent, puisse n'être que le fruit d'un long processus "aveugle", basé sur des règles simples. Naturellement, la théorie de l'évolution est donc un thème qui tend à polariser les opinions. De nombreuses personnes [n'acceptent pas cette théorie](https://en.wikipedia.org/wiki/Level_of_support_for_evolution), souvent pour des raisons religieuses. Il est par conséquent important de s'efforcer de la vulgariser, comme l'a par exemple brillament fait Richard Dawkins dans [The Selfish Gene](https://en.wikipedia.org/wiki/The_Selfish_Gene). Enfin, il me semble que la théorie de l'évolution a ceci d'élégant qu'elle semble pointer vers l'existence d'une [loi plus fondamentale, plus générale](https://en.wikipedia.org/wiki/Universal_Darwinism), pouvant s'appliquer à d'autres domaines, tels que la chimie ou la physique. Un peu comme la [loi des retours accélérés](https://en.wikipedia.org/wiki/Accelerating_change) de Ray Kurzweil généralise la [loi de Moore](https://en.wikipedia.org/wiki/Moore's_law), en mettant en évidence une tendance plus générale, plus universelle.
+Plus exactement, de nos jours, il faut plutôt parler de [théorie synthétique de l'évolution (ou néodarwinisme)](https://fr.wikipedia.org/wiki/Théorie_synthétique_de_l'évolution). La théorie de l'évolution est un sujet difficile d'accès. Comme le disait Jacques Monod : "Another curious aspect of the theory of evolution is that everybody thinks he understands it!" La réalité est que peu de monde comprend vraiment la théorie de l'évolution. Il m'a fallu travailler durant des mois sur un projet de recherche, à l'EPFL, mettant en lien [algorithmes génétiques](https://en.wikipedia.org/wiki/Genetic_algorithm) et [réseaux de neurones artificiels](https://en.wikipedia.org/wiki/Artificial_neural_network), pour commencer à comprendre, intuitivement, que de la "non-intelligence" puisse engendrer de l'"intelligence", que quelque chose donnant l'impression d'avoir été réfléchi, conçu par un être intelligent, puisse n'être que le fruit d'un long processus "aveugle", basé sur des règles simples. Naturellement, la théorie de l'évolution est donc un thème qui tend à polariser les opinions. De nombreuses personnes [n'acceptent pas cette théorie](https://en.wikipedia.org/wiki/Level_of_support_for_evolution), souvent pour des raisons religieuses, parce qu'elle entre en conflit avec le point de vue anthropocentrique que la plupart des gens ont naturellement (l'homme est important, car il a été créé par Dieu). Il est par conséquent important de s'efforcer de la vulgariser, comme l'a par exemple brillament fait Richard Dawkins dans [The Selfish Gene](https://en.wikipedia.org/wiki/The_Selfish_Gene). Enfin, il me semble que la théorie de l'évolution a ceci d'élégant qu'elle semble pointer vers l'existence d'une [loi plus fondamentale, plus générale](https://en.wikipedia.org/wiki/Universal_Darwinism), pouvant s'appliquer à d'autres domaines, tels que la chimie ou la physique. Un peu comme la [loi des retours accélérés](https://en.wikipedia.org/wiki/Accelerating_change) de Ray Kurzweil généralise la [loi de Moore](https://en.wikipedia.org/wiki/Moore's_law), en mettant en évidence une tendance plus générale, plus universelle.
+
+##### L'univers dans lequel nous vivons est déterministe.
+
+ * physique quantique, variables cachées, Bell's inequality
+ * Sam Harris / Jerry Coyne vs Eddy Nahmias
+ * [Fully Caused: Coming to Terms with Determinism](http://www.naturalism.org/determinism.htm)
+ * [adequate determinism](http://www.informationphilosopher.com/freedom/adequate_determinism.html) vs [pre-determinism](http://www.informationphilosopher.com/freedom/pre-determinism.html) / [Laplace's demon](http://www.informationphilosopher.com/freedom/laplaces_demon.html)
+ * determinism is not fatalism
+ * determinism is not predictability
+ * determinism is not pre-determinism
+ * quantum indeterminacy is not the same thing as [self-caused causes](http://www.informationphilosopher.com/freedom/causa_sui.html)
+
+##### La mise en place d'un revenu inconditionnel est indispensable, à terme, et ce dans tous les pays.
+
+* AI => chômage
+* assurances sociales généralement "mal vues"
 
 ##### Croyances/thèmes à ajouter
 
@@ -62,10 +78,8 @@ Plus exactement, de nos jours, il faut plutôt parler de [théorie synthétique 
  * armée/guerre
  * droits des homosexuels (mariage, adoption, etc.)
  * droits des femmes (avortement, prostitution, etc.)
- * revenu inconditionnel, assurances sociales, chômage/travail, etc.
  * démocratie, systèmes politiques
  * vin/audiophilie (effet placebo + snobisme)
- * déterminisme (vs physique quantique, variables cachées, Bell's inequality, ce que Sam Harris a à dire sur Nahmias, etc.), cf [Fully Caused: Coming to Terms with Determinism](http://www.naturalism.org/determinism.htm)
  * voir aussi ["What do philosophers believe?"](http://philpapers.org/archive/BOUWDP)
 
 ##### A faire
@@ -79,3 +93,5 @@ Plus exactement, de nos jours, il faut plutôt parler de [théorie synthétique 
  * insister sur le côté sémantique du débat sur le libre arbitre (cf [Miessler](http://www.danielmiessler.com/blog/disambiguation-freedom))
  * parler de la relation science/philosophie, du scientisme et mentionner [Massimo Pigliucci](http://rationallyspeaking.blogspot.ch/2010/04/about-sam-harris-claim-that-science-can.html)
  * libre arbitre : ajouter lien [Does the average person believe in determinism, free will, and moral responsibility?](http://whyevolutionistrue.wordpress.com/2014/02/19/does-the-average-person-believe-in-determinism-free-will-and-moral-responsibility/)
+ * déterminisme : est-ce que je partage le point de vue de [Ted Honderich](http://www.informationphilosopher.com/solutions/philosophers/honderich/) ?
+ * physique quantique : est-ce que je tends plutôt vers l'interprétation de [de Broglie–Bohm](https://en.wikipedia.org/wiki/De_Broglie-Bohm_theory) ?
