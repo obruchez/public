@@ -1,6 +1,7 @@
 # Books
 Date | Author | Title | Subtitle | Year | Rating | Comments
 --- | --- | --- | --- | --- | --- | ---
+<a name="69"></a>2014/02/27 | Peter Hilton, Erik Bakker & Francisco Canedo | [Play for Scala](http://books.google.ch/books?id=cV24kgEACAAJ) | Covers Play 2 | 2013 | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="68"></a>2014/02/23 | Neil A. Fiore | [The Now Habit](http://books.google.ch/books/about/The_Now_Habit.html?id=obLBn7OKcI8C) | A Strategic Program for Overcoming Procrastination and Enjoying Guilt-Free Play | 2007 | ![2.5](https://raw.github.com/obruchez/public/master/img/stars2_5.png) | 
 <a name="67"></a>2014/01/11 | Christof Koch | [Consciousness](http://books.google.ch/books?id=q2xDfZ_TC-gC) | Confessions of a Romantic Reductionist | 2012 | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="66"></a>2013/12/16 | Joshua D. Suereth | [Scala in Depth](http://books.google.ch/books/about/Scala_in_Depth.html?id=4VCfSgAACAAJ) |  | 2012 | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 

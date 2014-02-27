@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books title="Books (Olivier Bruchez)" description="The last books I read" link="http://github.com/obruchez/public/blob/master/Books.md" feed="http://raw.github.com/obruchez/blog/master/rss/books.rss">
     <book>
+        <date>2014.02.27</date>
+        <title>Play for Scala</title>
+        <subtitle>Covers Play 2</subtitle>
+        <author>Peter Hilton, Erik Bakker &amp; Francisco Canedo</author>
+        <publishingyear>2013</publishingyear>
+        <rating>5.0</rating>
+        <url>http://books.google.ch/books?id=cV24kgEACAAJ</url>
+    </book>
+    <book>
         <date>2014.02.23</date>
         <title>The Now Habit</title>
         <subtitle>A Strategic Program for Overcoming Procrastination and Enjoying Guilt-Free Play</subtitle>
