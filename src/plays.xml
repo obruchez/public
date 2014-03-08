@@ -9,6 +9,70 @@
   -->
 
   <play>
+    <date>2014.03.07</date>
+    <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
+    <name>Richard III</name>    
+    <author>William Shakespeare</author>
+    <director>Laurent Fréchuret</director>
+    <translation>Dorothée Zumstein</translation>
+    <actor>Jean-Claude Bolle-Reddat</actor>
+    <actor>Amaury de Crayencour</actor>
+    <actor>Thierry Gibault</actor>
+    <actor>Pierre Hiessler</actor>
+    <actor>David Houri</actor>
+    <actor>Pauline Huruguen</actor>
+    <actor>Jessica Martin</actor>
+    <actor>Nine de Montal</actor>
+    <actor>Dominique Pinon</actor>
+    <actor>Martine Schambacher</actor>
+    <!--
+Dramaturge :
+Vanasay Khamphommala 
+
+Scénographie : 
+Stéphanie Mathieu
+
+Lumière :
+Eric Rossi
+
+Assistant lumière :
+David Carreira
+
+Costumes : 
+Claire Risterucci
+
+Assistants costumes :
+Carmen Bagoë
+Samy
+
+Habilleuse :
+Cara Ben Assayag
+
+Maquillage et perruques :
+Françoise Chaumayrac
+
+Son :
+François Chabrier
+
+Régie générale :
+Alain Deroo
+
+Régie plateau :
+François Pelaprat
+
+Musique :
+Dominique Lentin
+Bob Lipman
+
+Directeur de production : 
+Slimane Mouhoub
+
+Stagiaire production : 
+Bénédicte Ryckmans
+    -->
+    <rating>5.0</rating>
+  </play> 
+  <play>
     <date>2014.01.22</date>
     <location>Pulloff Théâtres, Lausanne, Switzerland</location>
     <name>Fureur</name>
