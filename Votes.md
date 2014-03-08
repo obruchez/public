@@ -4,15 +4,15 @@
 
 ### Acceptez-vous l'arrêté fédéral du 20 juin 2013 portant règlement du financement et de l'aménagement de l'infrastructure ferroviaire?
 
-Oui. Résultat : ? (? %).
+Oui. Résultat : oui (62.0%).
 
 ### Acceptez-vous l'initiative populaire "Financer l'avortement est une affaire privée - Alléger l'assurance-maladie en radiant les coûts de l'interruption de grossesse de l'assurance de base"?
 
-Non. Résultat : ? (? %).
+Non. Résultat : non (69.8%).
 
 ### Acceptez-vous l'initiative populaire "Contre l'immigration de masse"?
 
-Non. Résultat : ? (? %).
+Non. Résultat : oui (50.3%).
 
 ## [Votation fédérale du 24 novembre 2013](http://www.bk.admin.ch/themen/pore/va/20131124/index.html?lang=fr)
 
@@ -22,7 +22,7 @@ Oui. Résultat : non (65.3%).
 
 Une initiative que j'accepte sans grande conviction, tant les arguments à gauche et à droite semblent faibles.
 
-Quelques idées en vrac que j'avais postées sur Facebook (certaines en réponse à [des commentaires qui permettronts de mieux comprendre le contexte](https://www.facebook.com/obruchez/posts/10151660384117056)) :
+Quelques idées en vrac que j'avais postées sur Facebook (certaines en réponse à [des commentaires qui permettront de mieux comprendre le contexte](https://www.facebook.com/obruchez/posts/10151660384117056)) :
 
 - La Suisse est un pays déjà bien égalitaire (confirmé par l'article du Temps du 28 octobre 2013, "Le grand écart salarial concerne 1300 sociétés").
 - La Suisse a déjà "montré l'exemple" avec l'initiative Minder. C'est un pas en avant positif.
