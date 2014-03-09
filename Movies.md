@@ -1,6 +1,7 @@
 # Movies
 Date | Theater | Director | Title | Alternative Title(s) | Version | Rating | Comments
 --- | --- | --- | --- | --- | --- | --- | ---
+<a name="652"></a>2014/03/09 | Galeries, Lausanne | Wes Anderson | [The Grand Budapest Hotel](http://www.imdb.com/title/tt2278388/) |  | Original | ![4.5](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 
 <a name="651"></a>2014/02/25 | Galeries, Lausanne | Jean-Marc Vallée | [Dallas Buyers Club](http://www.imdb.com/title/tt0790636/) |  | Original | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="650"></a>2014/02/13 |  | Hayao Miyazaki | [Rupan sansei: Kariosutoro no shiro](http://www.imdb.com/title/tt0079833/) | The Castle of Cagliostro (English) | Original | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="649"></a>2014/02/08 | Galeries, Lausanne | Hayao Miyazaki | [Kaze tachinu](http://www.imdb.com/title/tt2013293/) | The Wind Rises (English) | Original | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
