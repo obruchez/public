@@ -1,6 +1,14 @@
 ## @obruchez
 
-...
+"Determinism" is a bit like "free will". There's the general definition. And then there are [many variations and interpretations of the basic concept](http://www.informationphilosopher.com/solutions/determinisms/). In particular, there exists something called [pre-determinism](http://www.informationphilosopher.com/freedom/pre-determinism.html) and also [adequate determinism](http://www.informationphilosopher.com/freedom/adequate_determinism.html).
+
+If somebody asks me if I believe in free will, I usually assume that he's talking about libertarian free will (because I believe that's what most people believe in), so the answer will be "no". If I'm asked if I believe in compatibilist free will, then the answer will be "yes, but I don't see the point in using that word in that sense".
+
+Same for determinism. Do I believe that anything or anybody 14 billion years ago knew what would happen today? No. Or that there was "implicit information" about what would happen today? Not really. Or that a supercomputer could predict the future? Not at all.
+
+So I think you'd agree that we should be very careful when asking people questions related to these concepts. You can't allow yourself to be vague or the answers will be unusable.
+
+I disagree that "quantum indeterminism has no bearing on the discussion". It has indirect bearing on the discussion, because quantum indeterminism is explicitly rejected in one of Nahmias' thought experiments, the one with the supercomputer. It's not that this supercomputer cannot exist because it hasn't existed yet and nobody will build it for some practical reasons (such as cost). It cannot exist because it would violate the laws of physics as we know them. You're right to say that our brain can imagine pretty much anything, including things that are incompatible with the laws of physics (I can imagine myself flying, being invisible, or immortal). But I think to be really useful, a thought experiment must present a situation that is compatible with the laws of physics. Your [pain/prize thought experiment](https://twitter.com/avernet/status/433499672615735296) or the [trolley problem](https://en.wikipedia.org/wiki/Trolley_problem) are such experiments.
 
 ## @avernet (2014-02-26)
 

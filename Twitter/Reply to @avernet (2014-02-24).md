@@ -1,6 +1,12 @@
 ## @obruchez
 
-...
+No, you're right: the illusion Harris is talking about doesn't involve *actively* believing that you can change the past or the laws of physics.
+
+But this is a false dichotomy. As I wrote in my [previous reply](Reply%20to%20%40avernet%20(2014-01-20).md), you're missing the alternative of agnosticism. People probably don't *directly* believe that they can change the past or the laws of physics. But, if they've never thought about it, they probably *feel*, even superficially, that way. They also don't *know* (consciously) that we're just a bunch of atoms. Because that's what it is to be conscious: by default, we ignore that we're the same thing as the atoms that make our brain and body. Hence the illusion. And if you really think about it, in a reductionist way, you start seing that this superficial feeling doesn't make sense. Hence the illusion of an illusion.
+
+Another alternative to *actively* believing you can change the past or the laws of physics would be simply to hold beliefs that logically and *indirectly* imply that the past or the laws of physics shouldn't be what they are (see also intervening god, miracles, etc. - if you really think about these concepts, they don't make sense anymore).
+
+Now I'd agree that Harris should be more specific and explain in more details what he means by "illusion". He did a really good job at explaining (most of) his position in his answer to Dennett's disappointing critique (BTW, I really hope Dennett is capable of better!).
 
 ## @avernet (2014-02-24)
 

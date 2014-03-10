@@ -1,6 +1,20 @@
 ## @obruchez
 
-...
+First, sorry for the delay.
+
+To answer your question about "randomness over time": I definitely need to do more research. I lack better words/concepts to express this idea. But this is certainly nothing new. By "randomness over time", I just mean that I believe in hard/pure determinism, i.e. that when something happens at time t in our universe, nothing else could have happened. It happened by necessity. In other words, there are no uncaused / self-caused causes (causa sui). In an identical universe, the same thing would have happened at the same time t. What we call "randomness" when we observe a quantum system is random in the context of several measurements, done at different times. It doesn't make sense if you focus on only one particular time t. You have to make a measurement m1 at time t1, another measurement m2 at time t2, and so on. Of course, this is just a thought experiment, as "identical universe" probably doesn't really mean anything. Science can't really prove that "nothing else could have happened". We can't go back in time. And this position I have, as I understand it, is not really a [hidden variable theory](https://en.wikipedia.org/wiki/Hidden_variable_theory). It probably has more to do with the [de Broglie–Bohm interpretation of quantum theory](https://en.wikipedia.org/wiki/De_Broglie-Bohm_theory), but I'm not sure. So, this belief I hold is just that: a belief. It's elegant because it seems to me that it's easier to see our universe in terms of hard/pure determinism than not. But this is subjective.
+
+Note that this has a clear link with the Could Have Done Otherwise (CHDO) concept, of course. More about this later.
+
+Anyway, even if this belief is wrong, even if there are partially uncaused causes, pure/intrinsic randomness, it doesn't give us more freedom. I think we both agree about this particular point. Hard/pure determinism is just the cherry on the cake.
+
+About the "determinism shock people" (DSP): I can only speak for myself. First of all, this is a strange concept. I'm a bit surprised that people are not talking about it more in free will discussions (or maybe I haven't paid enough attention). For me, the only reason I'm so "obsessed" with free will is because I went through a DS. Koch is the first person I've read to clearly mention it. But then he seems to be reassured by quantum indeterminacy and I'm not, so we have slightly different positions.
+
+Clearly, I had no pre-DS understanding. I was an agnostic, if you prefer. Just like a baby is an agnostic about god, until he unconsciously accepts the mainstream/standard position, probably his parents', or consciously think about it and decides to be an explicit agnostic, a theist, or an atheist. Believe me: I've never thought I could change the past or the laws of physics. I think that's what you are missing. It's just that I had never thought about it. Before that, well, I was just "feeling" things, like a child. I was not thinking about them. And it was really hard to accept that my consciousness is an emergent property of my brain, that I am just the atoms in my brain. It doesn't feel that way. Our brains have not evolved to see reality in a reductionist way.
+
+By the way, I like this parallel between god/soul/afterlife and (libertarian) free will, because, really, it's the same thing. Most people don't really think about it. Stop me if I'm wrong but I don't think I'm being condescending here. Most people are scientifically and philosophically illiterate. That's the way it is. People have other interests. Science and philosophy are hard.
+
+That's why experimental philosophy is interesting. What Nahmias does (or at least tries to do) is useful, in principle. He's trying to make explicit something that is fundamentally implicit. But I find his papers also frustrating. Ask people about their religious beliefs and you'll naturally get conflictual ideas, answers that don't really make sense (from an empirical/scientific point of view). So you need to be really clear about what you ask, how you ask it, and what you conclude from the answers you get. And what I've read so far (mainly from Nahmias, I need to read other papers) doesn't seem very convincing to me.
 
 ## @avernet (2014-01-20)
 
