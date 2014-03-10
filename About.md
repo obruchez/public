@@ -6,6 +6,16 @@
 
 ## Directors
 
+* [Danny Boyle](https://en.wikipedia.org/wiki/Danny_Boyle)
+* [David Lynch](https://en.wikipedia.org/wiki/David_Lynch)
+* [Joel & Ethan Coen](https://en.wikipedia.org/wiki/Coen_brothers)
+* [Michael Moore](https://en.wikipedia.org/wiki/Michael_Moore)
+* [Roman Polanski](https://en.wikipedia.org/wiki/Roman_Polanski)
+* [Stanley Kubrick](https://en.wikipedia.org/wiki/Stanley_Kubrick)
+* [Tim Burton](https://en.wikipedia.org/wiki/Tim_Burton)
+* [Wes Anderson](https://en.wikipedia.org/wiki/Wes_Anderson)
+* [Woody Allen](https://en.wikipedia.org/wiki/Woody_Allen)
+
 ## Food
 
 ## Interests
@@ -43,7 +53,19 @@
 
 ## Painters
 
-## People who inspire me
+* [Hieronymus Bosch](https://en.wikipedia.org/wiki/Hieronymus_Bosch)
+* [Joan Miró](https://en.wikipedia.org/wiki/Joan_Mir%C3%B3)
+* [Marc Chagall](https://en.wikipedia.org/wiki/Marc_Chagall)
+* [Max Ernst](https://en.wikipedia.org/wiki/Max_Ernst)
+* [Otto Dix](https://en.wikipedia.org/wiki/Otto_Dix)
+* [Pablo Picasso](https://en.wikipedia.org/wiki/Pablo_Picasso)
+* [Pieter Brueghel](https://en.wikipedia.org/wiki/Pieter_Brueghel_the_Elder)
+* [René Magritte](https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte)
+* [Salvador Dalí](https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD)
+* [Tom Everhart](https://en.wikipedia.org/wiki/Tom_Everhart)
+* [Vincent van Gogh](https://en.wikipedia.org/wiki/Vincent_van_Gogh)
+
+## People who inspire me / thinkers
 
 ## Philosophical views
 
