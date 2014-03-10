@@ -24,9 +24,9 @@ Do people believe they are more free than they really are? I do believe so. But 
 
 ## @obruchez (2014-02-21)
 
-https://twitter.com/obruchez/status/436903612485468160
-https://twitter.com/obruchez/status/436903983350030336
-https://twitter.com/obruchez/status/436904398938468352
+https://twitter.com/obruchez/status/436903612485468160<br>
+https://twitter.com/obruchez/status/436903983350030336<br>
+https://twitter.com/obruchez/status/436904398938468352<br>
 
 "Excellent post. But I disagree with this: "People do know that their freedom is not absolute". They probably don't. Most people think they have that magical thing called "soul", that can probably escape the law of physics. Somehow. In other words: *you* are not a victim of the illusion (which is not even an illusion, etc.) Harris is talking about."
 

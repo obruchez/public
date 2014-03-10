@@ -18,8 +18,8 @@ https://twitter.com/avernet/status/438483216819687424
 
 ## @obruchez (2014-02-26)
 
-https://twitter.com/obruchez/status/438481840278876160
-https://twitter.com/obruchez/status/438482855287873536
+https://twitter.com/obruchez/status/438481840278876160<br>
+https://twitter.com/obruchez/status/438482855287873536<br>
 
 "Laplace's determinism is incompatible with quantum mechanics, among other things (see http://www.informationphilosopher.com/freedom/laplaces_demon.html). So making people think about an old and incorrect notion of determinism is a little weird."
 
@@ -37,9 +37,9 @@ https://twitter.com/obruchez/status/438473417608548352
 
 ## @avernet (2014-02-26)
 
-https://twitter.com/avernet/status/438472588361080833
-https://twitter.com/avernet/status/438472824294866945
-https://twitter.com/avernet/status/438473364437356544
+https://twitter.com/avernet/status/438472588361080833<br>
+https://twitter.com/avernet/status/438472824294866945<br>
+https://twitter.com/avernet/status/438473364437356544<br>
 
 1a) "I was more thinking along the lines of "how can you test whether someone understands X", where X might be determinism."<br>
 1b) "The goal of the study isn't to change peoples' mind or teach them something, but to better understand how they think."<br>
@@ -47,8 +47,8 @@ https://twitter.com/avernet/status/438473364437356544
 
 ## @obruchez (2014-02-26)
 
-https://twitter.com/obruchez/status/438472186529992705
-https://twitter.com/obruchez/status/438472798663880704
+https://twitter.com/obruchez/status/438472186529992705<br>
+https://twitter.com/obruchez/status/438472798663880704<br>
 
 1) "I don't know! How do you make someone really think about something he doesn't really understand?"<br>
 2) "I'm already puzzled by case 1 (Laplace's demon / supercomputer). We're asked to think about something that cannot exist."<br>

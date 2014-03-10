@@ -20,9 +20,9 @@ And my second question (or meta-question :): why do you have so much interest in
 
 ## @avernet (2014-02-28)
 
-https://twitter.com/avernet/status/439268046176124928
-https://twitter.com/avernet/status/439463260228554752
-https://twitter.com/avernet/status/439465220054859776
+https://twitter.com/avernet/status/439268046176124928<br>
+https://twitter.com/avernet/status/439463260228554752<br>
+https://twitter.com/avernet/status/439465220054859776<br>
 
 New post: "Could the coin have landed tails?" #FreeWill https://medium.com/p/a94fee12bd4d 
 
