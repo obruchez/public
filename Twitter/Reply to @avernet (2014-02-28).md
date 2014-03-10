@@ -16,7 +16,7 @@ My opinion on this point is that it is *always* useful to have the most accurate
 
 I have two final questions for you. The first one is the following: do you think that people who believe in libertarian free will don't have *any* negative influence on the world? Don't you agree, at least partly, with [Miessler's "Free Will vs. Determinism as the Core of Political Disagreement" post](http://www.danielmiessler.com/blog/free-will-vs-determinism-as-the-core-of-political-disagreement)?
 
-And my second question: why do you have so much interest in free will, if you don't think "most people" are wrong on the subject or that it doesn't really matter that they are wrong?
+And my second question (or meta-question :): why do you have so much interest in free will, if you don't think "most people" are wrong on the subject or if you think that it doesn't really matter that they are wrong?
 
 ## @avernet (2014-02-28)
 
