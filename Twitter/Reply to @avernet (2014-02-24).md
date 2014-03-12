@@ -1,4 +1,4 @@
-## @obruchez
+## @obruchez (2014-03-10)
 
 No, you're right: the illusion Harris is talking about doesn't involve *actively* believing that you can change the past or the laws of physics.
 
@@ -31,5 +31,7 @@ https://twitter.com/obruchez/status/436904398938468352<br>
 "Excellent post. But I disagree with this: "People do know that their freedom is not absolute". They probably don't. Most people think they have that magical thing called "soul", that can probably escape the law of physics. Somehow. In other words: *you* are not a victim of the illusion (which is not even an illusion, etc.) Harris is talking about."
 
 ## @avernet (2014-02-21)
+
+https://twitter.com/avernet/status/436716672330645505
 
 "New post on @SamHarrisOrg latest piece: "The Marionette Laments: Where is the illusion?" https://medium.com/p/c52b09815b76 #FreeWill"

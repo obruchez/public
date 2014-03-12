@@ -1,4 +1,4 @@
-## @obruchez
+## @obruchez (2014-03-10)
 
 "Determinism" is a bit like "free will". There's the general definition. And then there are [many variations and interpretations of the basic concept](http://www.informationphilosopher.com/solutions/determinisms/). In particular, there exists something called [pre-determinism](http://www.informationphilosopher.com/freedom/pre-determinism.html) and also [adequate determinism](http://www.informationphilosopher.com/freedom/adequate_determinism.html).
 
