@@ -1,5 +1,7 @@
 ## @obruchez (2014-03-10)
 
+https://twitter.com/obruchez/status/443122458137468928
+
 "Determinism" is a bit like "free will". There's the general definition. And then there are [many variations and interpretations of the basic concept](http://www.informationphilosopher.com/solutions/determinisms/). In particular, there exists something called [pre-determinism](http://www.informationphilosopher.com/freedom/pre-determinism.html) and also [adequate determinism](http://www.informationphilosopher.com/freedom/adequate_determinism.html).
 
 If somebody asks me if I believe in free will, I usually assume that he's talking about libertarian free will (because I believe that's what most people believe in), so the answer will be "no". If I'm asked if I believe in compatibilist free will, then the answer will be "yes, but I don't see the point in using that word in that sense".

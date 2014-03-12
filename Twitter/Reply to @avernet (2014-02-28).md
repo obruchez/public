@@ -1,5 +1,7 @@
 ## @obruchez (2014-03-10)
 
+https://twitter.com/obruchez/status/443122524961116160
+
 First of all, I'm glad Alice and Bob have finally given up trying to send encrypted messages to each other, and are now devoting their time to more important questions. :)
 
 I think you're using a strawman, here. Bob sounds stupider than he should be. :) Ok, I won't talk for Bob. I'll talk for myself, as I'm a hard determinist. So, yes, in the past, the coin *could not* have landed tails and, in the future, it *could* land tails. I think this distinction between thought experiments in the past or in the future is probably pretty obvious to any hard determinist (it is to Harris, at least). Actually, when you ask yourself "could I have avoided this collision?", there are two things that are implied, not one: 1) something is slightly different, and 2) we're in the future, not in the past.
