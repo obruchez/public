@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <crashes title="Hard Drive Crashes (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Crashes.md" feed="http://raw.github.com/obruchez/blog/master/rss/crashes.rss">
+	<crash>
+		<date>2014.03.09</date>
+		<manufacturer>Toshiba</manufacturer>
+		<model>MK5065GSXF 500GB 2.5" SATA 2.6/ATA-8</model>
+		<comments>Failed in my late-2011 MacBook Pro. Replaced the drive before it actually crashed, after getting S.M.A.R.T. errors from SMARTReporter. No data loss.</comments>
+	</crash>
     <crash>
 		<date>2011.01.23</date>
 		<manufacturer>Western Digital</manufacturer>

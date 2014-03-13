@@ -8,6 +8,26 @@
     <actor></actor>
   -->
 
+   <play>
+    <date>2014.03.12</date>
+    <location>Théâtre Kléber-Méleau, Renens, Switzerland</location>
+    <name>La double inconstance</name>
+    <author>Pierre Carlet de Chamblain de Marivaux</author>
+    <director>Philippe Mentha</director>
+    <actor>Alexandra Tiedemann</actor>
+    <actor>Barbara Tobola</actor>
+    <actor>Céline Nidegger</actor>
+    <actor>Lise Ramu</actor>
+    <actor>Darius Kehtari</actor>
+    <actor>David Pion</actor>
+    <actor>Christian Robert-Charrue</actor>
+    <actor>Philippe Mentha</actor>
+    <!--
+    décor Audrey Vuong  
+    -->
+    <rating>4.75</rating>
+  </play>
+
   <play>
     <date>2014.03.07</date>
     <location>Salle Charles Apothéloz, Théâtre de Vidy, Lausanne, Switzerland</location>
