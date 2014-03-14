@@ -11,6 +11,7 @@
 * [Métaphysique des Tubes (Amélie Nothomb)](Metaphysique des Tubes (Amelie Nothomb).md)
 * [Pantagruel (François Rabelais)](Pantagruel (François Rabelais).md)
 * [The Moral Landscape (Sam Harris)](The Moral Landscape (Sam Harris).md)
+* [The Now Habit (Neil Fiore)](The Now Habit (Neil Fiore).md)
 * [The Selfish Gene (Richard Dawkins)](The Selfish Gene (Richard Dawkins).md)
 * [What I Believe (Bertrand Russell)](What I Believe (Bertrand Russell).md)
 * [You Are Not So Smart (David McRaney)](You Are Not So Smart (David McRaney).md)
