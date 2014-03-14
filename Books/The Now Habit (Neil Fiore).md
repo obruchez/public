@@ -1,4 +1,4 @@
-# The Now Habit: A Strategic Program for Overcoming Procrastination and Enjoying Guilt-Free Play (Neil Fiore)
+# The Now Habit (Neil Fiore)
 * People don’t procrastinate just to be ornery or because they’re irrational. They procrastinate because it makes sense, given how vulnerable they feel to criticism, failure, and their own perfectionism. (loc. 146-47)
 * Procrastination is a mechanism for coping with the anxiety associated with starting or completing any task or decision. (loc. 170)
 * One explanation is offered by Denis Waitley, the author of The Psychology of Winning and The Joy of Working, who defines procrastination as “a neurotic form of self-defensive behavior” aimed at protecting one’s self-worth. That is, we procrastinate when we fear a threat to our sense of worth and independence. (loc. 307-10)
