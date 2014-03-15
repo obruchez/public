@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Movies.md" feed="http://raw.github.com/obruchez/blog/master/rss/movies.rss">
   <movie>
+    <date>2014.03.15</date>
+    <theater>Cinémathèque, Lausanne</theater>
+    <director>Joel &amp; Ethan Coen</director>
+    <title>The Man Who Wasn't There</title>
+    <url>http://www.imdb.com/title/tt0243133/</url>
+    <rating>5.0</rating>
+  </movie>
+  <movie>
     <date>2014.03.09</date>
     <theater>Galeries, Lausanne</theater>
     <director>Wes Anderson</director>
