@@ -1,6 +1,7 @@
 # Movies
 Date | Theater | Director | Title | Alternative Title(s) | Version | Rating | Comments
 --- | --- | --- | --- | --- | --- | --- | ---
+<a name="654"></a>2014/03/17 |  | Wes Anderson | [Rushmore](http://www.imdb.com/title/tt0128445/) |  | Original | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="653"></a>2014/03/15 | Cinémathèque, Lausanne | Joel & Ethan Coen | [The Man Who Wasn't There](http://www.imdb.com/title/tt0243133/) |  | Original | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="652"></a>2014/03/09 | Galeries, Lausanne | Wes Anderson | [The Grand Budapest Hotel](http://www.imdb.com/title/tt2278388/) |  | Original | ![4.5](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 
 <a name="651"></a>2014/02/25 | Galeries, Lausanne | Jean-Marc Vallée | [Dallas Buyers Club](http://www.imdb.com/title/tt0790636/) |  | Original | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
