@@ -1,5 +1,23 @@
 # Votations
 
+## [Votation fédérale du 18 mai 2014](http://www.bk.admin.ch/themen/pore/va/20140518/index.html?lang=fr)
+
+### Acceptez-vous l'arrêté fédéral du 19 septembre 2013 concernant les soins médicaux de base ? (Contre-projet direct à l'initiative populaire « Oui à la médecine de famille », qui a été retirée).
+
+?. Résultat : ? (?%).
+
+### Acceptez-vous l'initiative populaire « Pour que les pédophiles ne travaillent plus avec des enfants » ?
+
+?. Résultat : ? (?%).
+
+### Acceptez-vous l'initiative populaire « Pour la protection de salaires équitables (Initiative sur les salaires minimums) » ?
+
+?. Résultat : ? (?%).
+
+### Acceptez-vous la loi fédérale du 27 septembre 2013 sur le fonds d'acquisition de l'avion de combat Gripen (loi sur le fonds Gripen)?
+
+?. Résultat : ? (?%).
+
 ## [Votation fédérale du 9 février 2014](http://www.bk.admin.ch/themen/pore/va/20140209/index.html?lang=fr)
 
 ### Acceptez-vous l'arrêté fédéral du 20 juin 2013 portant règlement du financement et de l'aménagement de l'infrastructure ferroviaire?
