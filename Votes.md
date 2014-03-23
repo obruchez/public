@@ -2,15 +2,15 @@
 
 ## [Votation fédérale du 18 mai 2014](http://www.bk.admin.ch/themen/pore/va/20140518/index.html?lang=fr)
 
-### Acceptez-vous l'arrêté fédéral du 19 septembre 2013 concernant les soins médicaux de base ? (Contre-projet direct à l'initiative populaire « Oui à la médecine de famille », qui a été retirée).
+### Acceptez-vous l'arrêté fédéral du 19 septembre 2013 concernant les soins médicaux de base ? (Contre-projet direct à l'initiative populaire "Oui à la médecine de famille", qui a été retirée).
 
 ?. Résultat : ? (?%).
 
-### Acceptez-vous l'initiative populaire « Pour que les pédophiles ne travaillent plus avec des enfants » ?
+### Acceptez-vous l'initiative populaire "Pour que les pédophiles ne travaillent plus avec des enfants" ?
 
 ?. Résultat : ? (?%).
 
-### Acceptez-vous l'initiative populaire « Pour la protection de salaires équitables (Initiative sur les salaires minimums) » ?
+### Acceptez-vous l'initiative populaire "Pour la protection de salaires équitables (Initiative sur les salaires minimums)" ?
 
 ?. Résultat : ? (?%).
 
