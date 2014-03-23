@@ -1,5 +1,7 @@
 ## @obruchez (2014-03-23)
 
+https://twitter.com/obruchez/status/447740823678230528
+
 1) Re: your post ("Ignorance doesn’t imply nonexistence"):
 
 * I don't know where you're going with this. Yes, ignorance doesn't imply nonexistence. But ignorance doesn't imply existence either. Knowledge/ignorance and existence/nonexistence are independant. So what?
