@@ -1,6 +1,9 @@
 # Movies
 Date | Theater | Director | Title | Alternative Title(s) | Version | Rating | Comments
 --- | --- | --- | --- | --- | --- | --- | ---
+<a name="660"></a>2014/03/29 |  | Francis Lawrence | [The Hunger Games: Catching Fire](http://www.imdb.com/title/tt1951264/) |  | Original | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
+<a name="659"></a>2014/03/29 |  | Isao Takahata | [Hotaru no haka](http://www.imdb.com/title/tt0095327/) | Grave of the Fireflies (English) | Original | ![4.25](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 
+<a name="658"></a>2014/03/28 | Galeries, Lausanne | Spike Jonze | [Her](http://www.imdb.com/title/tt1798709/) |  | Original | ![4.5](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 
 <a name="657"></a>2014/03/26 | Cinémathèque, Lausanne | Joel & Ethan Coen | [Miller's Crossing](http://www.imdb.com/title/tt0100150/) |  | Original | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="656"></a>2014/03/23 |  | Wes Anderson | [Bottle Rocket](http://www.imdb.com/title/tt0115734/) |  | Original | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="655"></a>2014/03/21 | Cinémathèque, Lausanne | Joel & Ethan Coen | [Inside Llewyn Davis](http://www.imdb.com/title/tt2042568/) |  | Original | ![3.75](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
