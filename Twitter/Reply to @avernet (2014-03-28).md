@@ -1,5 +1,7 @@
 ## @obruchez (2014-04-02)
 
+https://twitter.com/obruchez/status/451425008863416321
+
 Harris is talking about an "illusion", but also about an "illusion of an illusion". He’s somehow playing with words and, again, he should be more clear about what he means, but he's definitely onto something. You're right: more research is needed (à la Nahmias). But I think we can already draw some conclusions. We already have some data. Probably not rigorous enough, but that's a start.
 
 I’m not sure people are agnostic about free will (libertarian or other), but they're at least agnostic about determinism. That's a huge difference. To understand physical determinism, you probably need to have at least some background in physics. So, if we go back to your "Ignorance doesn’t imply nonexistence" post, the combustion engine in our case is determinism, not free will. According to science, determinism exists, just as combustion engines exist. Free will? Well, it depends on how you define it: libertarian free will doesn't exist; compatibilist free will exists.
