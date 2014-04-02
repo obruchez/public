@@ -1,6 +1,7 @@
 # Movies
 Date | Theater | Director | Title | Alternative Title(s) | Version | Rating | Comments
 --- | --- | --- | --- | --- | --- | --- | ---
+<a name="661"></a>2014/04/02 |  | Wes Anderson | [Fantastic Mr. Fox](http://www.imdb.com/title/tt0432283/) |  | Original | ![4.25](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 
 <a name="660"></a>2014/03/29 |  | Francis Lawrence | [The Hunger Games: Catching Fire](http://www.imdb.com/title/tt1951264/) |  | Original | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="659"></a>2014/03/29 |  | Isao Takahata | [Hotaru no haka](http://www.imdb.com/title/tt0095327/) | Grave of the Fireflies (English) | Original | ![4.25](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 
 <a name="658"></a>2014/03/28 | Galeries, Lausanne | Spike Jonze | [Her](http://www.imdb.com/title/tt1798709/) |  | Original | ![4.5](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 
