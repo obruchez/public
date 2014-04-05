@@ -1,6 +1,9 @@
 # Concerts
 Date | Musicians | Location | Event | Rating | Comments
 --- | --- | --- | --- | --- | ---
+<a name="211"></a>2014/04/04 | Avishai Cohen, Nitai Hershkovits, and Daniel Dor | Chapiteau, Cully, Switzerland | Cully Jazz Festival | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
+<a name="210"></a>2014/04/04 | **Rusconi**: Stefan Rusconi, Claudio Strüby, and Fabian Gisler | Chapiteau, Cully, Switzerland | Cully Jazz Festival | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
+<a name="209"></a>2014/04/04 | **Julian Sartorius** | Chapiteau, Cully, Switzerland | Cully Jazz Festival | ![3.25](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="208"></a>2014/02/01 | **Ahmad Jamal**, Reginald Veal, Herlin Riley, and Monolo Badrena | Victoria Hall, Geneva, Switzerland |  | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="207"></a>2013/11/09 | **Brad Mehldau** | Théâtre de Vevey, Vevey, Switzerland |  | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="206"></a>2013/10/31 | **Überjam Band**: John Scofield, Avi Bortnick, Andy Hess, and Louis Cato | Casino de Montbenon, Lausanne, Switzerland | JazzOnze+ Festival Lausanne | ![4.25](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 

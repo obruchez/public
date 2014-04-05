@@ -8,6 +8,36 @@
   - 2002/02/11 : Brad Mehldau + Thierry Lang, Lausanne (? -> bad date)
   - 1998/07/08 THE KENNY WAYNE SHEPHERD BAND (http://www.montreuxsounds.com/detail2006.php?fiche=2013) (vu ou pas ?)
   -->
+
+  <concert>
+    <date>2014.04.04</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <musician inst="bass, vocals">Avishai Cohen</musician>
+    <musician inst="piano">Nitai Hershkovits</musician>
+    <musician inst="drums">Daniel Dor</musician>
+    <rating>5.0</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2014.04.04</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <group>Rusconi</group>
+    <musician inst="piano">Stefan Rusconi</musician>
+    <musician inst="drums">Claudio Strüby</musician>
+    <musician inst="bass">Fabian Gisler</musician>
+    <rating>4.5</rating>
+    <comments/>
+  </concert>
+  <concert>
+    <date>2014.04.04</date>
+    <location>Chapiteau, Cully, Switzerland</location>
+    <event>Cully Jazz Festival</event>
+    <musician inst="drums">Julian Sartorius</musician>
+    <rating>4.25</rating>
+    <comments/>
+  </concert>
   <concert>
     <date>2014.02.01</date>
     <location>Victoria Hall, Geneva, Switzerland</location>
