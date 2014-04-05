@@ -67,6 +67,18 @@
 
 ## People who inspire me / thinkers
 
+* [Andy Puddicombe](https://en.wikipedia.org/wiki/Andy_Puddicombe)
+* [Ben Goldacre](https://en.wikipedia.org/wiki/Ben_Goldacre)
+* [Bertrand Russel](https://en.wikipedia.org/wiki/Bertrand_Russel)
+* [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan)
+* [David Allen](https://en.wikipedia.org/wiki/David_Allen_(author))
+* [Jerry Coyne](https://en.wikipedia.org/wiki/Jerry_Coyne)
+* [Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson)
+* [Ray Kurzweil](https://en.wikipedia.org/wiki/Ray_Kurzweil)
+* [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins)
+* [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman)
+* [Sam Harris](https://en.wikipedia.org/wiki/Sam_Harris_(author))
+
 ## Philosophical views
 
 ## Political views
@@ -97,3 +109,12 @@
 ## Video games
 
 ## Writers
+
+* [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus)
+* [Boris Vian](https://en.wikipedia.org/wiki/Boris_Vian)
+* [Daniel Pennac](https://en.wikipedia.org/wiki/Daniel_Pennac)
+* [Franz Kafka](https://en.wikipedia.org/wiki/Franz_Kafka)
+* [H. P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft)
+* [Jean-Paul Sartre](https://en.wikipedia.org/wiki/Jean-Paul_Sartre)
+* [Milan Kundera](https://en.wikipedia.org/wiki/Milan_Kundera)
+* [Roald Dahl](https://en.wikipedia.org/wiki/Roald_Dahl)
