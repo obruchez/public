@@ -8,6 +8,30 @@
     <actor></actor>
   -->
 
+  <play>
+    <date>2014.04.05</date>
+    <location>Maison de Quartier, Lausanne, Switzerland</location>
+    <name>Les Révérends</name>
+    <author>Slawomir Mrözek</author>
+    <director>Laurence Christen</director>
+    <actor>Adrien Borruat</actor>
+    <actor>Nicolas Crisci</actor>
+    <actor>Françoise Gounod</actor>
+    <actor>Isabelle Guignet</actor>
+    <actor>Merlin Leuenberger</actor>
+    <actor>Pierre Luthi</actor>
+    <actor>Miriam Perraudin</actor>
+    <actor>Agnes Sontheim</actor>
+    <actor>Marthe Verschueren</actor>
+    <!--
+Régie son :         Jacques Perroud
+Régie lumière :         Gérard Donzé
+Decors :        Maryline Zimmermann
+Conception affiche :        Bram Dauw
+    -->
+    <rating></rating>
+  </play>
+
    <play>
     <date>2014.03.12</date>
     <location>Théâtre Kléber-Méleau, Renens, Switzerland</location>
