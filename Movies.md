@@ -1,6 +1,7 @@
 # Movies
 Date | Theater | Director | Title | Alternative Title(s) | Version | Rating | Comments
 --- | --- | --- | --- | --- | --- | --- | ---
+<a name="663"></a>2014/04/08 |  | Rob Reiner | [Stand by Me](http://www.imdb.com/title/tt0092005/) |  | Original | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="662"></a>2014/04/06 |  | Gabriela Cowperthwaite | [Blackfish](http://www.imdb.com/title/tt2545118/) |  | Original | ![3.75](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="661"></a>2014/04/02 |  | Wes Anderson | [Fantastic Mr. Fox](http://www.imdb.com/title/tt0432283/) |  | Original | ![4.25](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 
 <a name="660"></a>2014/03/29 |  | Francis Lawrence | [The Hunger Games: Catching Fire](http://www.imdb.com/title/tt1951264/) |  | Original | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
