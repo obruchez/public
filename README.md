@@ -1,14 +1,14 @@
 ## Lists / lifelogging
 
- * [Books](Books.md)
+ * [Books](Books.md) (to read)
  * [Concerts](Concerts.md)
  * [Coursera](Coursera.md)
  * [Crashes](Crashes.md)
  * [Exhibitions](Exhibitions.md)
  * [Hikes](Hikes.md)
- * [Movies](Movies.md)
+ * [Movies](Movies.md) ([to watch](Movies to watch.md))
  * [Plays](Plays.md)
- * [Trips](Trips.md)
+ * [Trips](Trips.md) (to take)
  * [Votes](Votes.md) (in French)
 
 ## Résumé / CV
