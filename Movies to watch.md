@@ -23,7 +23,7 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 * [Requiem for a Dream](http://www.imdb.com/title/tt0180093) (8.4)
 * [The Wrestler](http://www.imdb.com/title/tt1125849) (8.0)
 * [Pi](http://www.imdb.com/title/tt0138704) (7.5)
-* ([Noah](http://www.imdb.com/title/tt1959490) (7.6))
+* ([Noah](http://www.imdb.com/title/tt1959490) (6.6))
 
 ## [Eric Rohmer](http://www.imdb.com/name/nm0006445)
 
