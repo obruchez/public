@@ -13,7 +13,7 @@
     <date>2014.04.04</date>
     <location>Chapiteau, Cully, Switzerland</location>
     <event>Cully Jazz Festival</event>
-    <musician inst="bass, vocals">Avishai Cohen</musician>
+    <musician inst="bass, vocals" leader="true">Avishai Cohen</musician>
     <musician inst="piano">Nitai Hershkovits</musician>
     <musician inst="drums">Daniel Dor</musician>
     <rating>5.0</rating>
