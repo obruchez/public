@@ -1,6 +1,7 @@
 # Movies
 Date | Theater | Director | Title | Alternative Title(s) | Version | Rating | Comments
 --- | --- | --- | --- | --- | --- | --- | ---
+<a name="666"></a>2014/04/14 |  | Ethan Coen & Joel Coen | [Raising Arizona](http://www.imdb.com/title/tt0093822/) |  | Original | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="665"></a>2014/04/12 |  | Wes Anderson | [The Royal Tenenbaums](http://www.imdb.com/title/tt0265666/) |  | Original | ![3.75](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="664"></a>2014/04/11 |  | Wes Anderson | [The Life Aquatic with Steve Zissou](http://www.imdb.com/title/tt0362270/) |  | Original | ![3.75](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="663"></a>2014/04/08 |  | Rob Reiner | [Stand by Me](http://www.imdb.com/title/tt0092005/) |  | Original | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
@@ -59,7 +60,7 @@ Date | Theater | Director | Title | Alternative Title(s) | Version | Rating | Co
 <a name="610"></a>2012/06/09 | Liberty, Papeete | Eric Darnell, Tom McGrath & Conrad Vernon | [Madagascar 3: Bons baisers d'Europe](http://www.imdb.com/title/tt1277953/) | Madagascar 3: Europe's Most Wanted (English) | French | ![3.75](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="609"></a>2012/05/19 | Galeries, Lausanne | Alexandre de La Patellière & Matthieu Delaporte | [Le prénom](http://www.imdb.com/title/tt2179121/) |  | Original | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="608"></a>2012/05/17 | Cinétoile Malley Lumières, Lausanne-Prilly | Wes Anderson | [Moonrise Kingdom](http://www.imdb.com/title/tt1748122/) |  | Original | ![4.25](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 
-<a name="607"></a>2012/05/14 | Pathé Flon, Lausanne | Tim Burton | [Black Shadows](http://www.imdb.com/title/tt1077368/) |  | Original | ![3.75](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
+<a name="607"></a>2012/05/14 | Pathé Flon, Lausanne | Tim Burton | [Dark Shadows](http://www.imdb.com/title/tt1077368/) |  | Original | ![3.75](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="606"></a>2012/04/27 | Galeries, Lausanne | Cameron Crowe | [We Bought a Zoo](http://www.imdb.com/title/tt1389137/) |  | Original | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="605"></a>2012/04/23 | Galeries, Lausanne | Ursula Meier | [L'enfant d'en haut](http://www.imdb.com/title/tt2062969/) |  | Original | ![2.75](https://raw.github.com/obruchez/public/master/img/stars3_0.png) | 
 <a name="604"></a>2012/03/31 |  | Alain Berbérian | [La cité de la peur](http://www.imdb.com/title/tt0109440//) | Fear City: A Family-Style Comedy (English) | Original | ![3.25](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
