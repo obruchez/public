@@ -1,3 +1,5 @@
+# My public self
+
 ## Lists / lifelogging
 
  * [Books](Books.md) (to read)
