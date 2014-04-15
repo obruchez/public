@@ -2,9 +2,9 @@
 
 ## Activities
 
-## Comics
+## Comics
 
-## Directors
+## Directors
 
 * [Danny Boyle](https://en.wikipedia.org/wiki/Danny_Boyle)
 * [David Lynch](https://en.wikipedia.org/wiki/David_Lynch)
@@ -16,11 +16,11 @@
 * [Wes Anderson](https://en.wikipedia.org/wiki/Wes_Anderson)
 * [Woody Allen](https://en.wikipedia.org/wiki/Woody_Allen)
 
-## Food
+## Food
 
-## Interests
+## Interests
 
-## Musicians
+## Musicians
 
 * [Prince](https://en.wikipedia.org/wiki/Prince_(musician))
 * [Miles Davis](https://en.wikipedia.org/wiki/Miles_Davis)
@@ -51,7 +51,7 @@
 * [The White Stripes](https://en.wikipedia.org/wiki/The_White_Stripes)
 * [Yaron Herman](https://en.wikipedia.org/wiki/Yaron_Herman)
 
-## Painters
+## Painters
 
 * [Hieronymus Bosch](https://en.wikipedia.org/wiki/Hieronymus_Bosch)
 * [Joan Miró](https://en.wikipedia.org/wiki/Joan_Mir%C3%B3)
@@ -65,7 +65,7 @@
 * [Tom Everhart](https://en.wikipedia.org/wiki/Tom_Everhart)
 * [Vincent van Gogh](https://en.wikipedia.org/wiki/Vincent_van_Gogh)
 
-## People who inspire me / thinkers
+## People who inspire me / thinkers
 
 * [Andy Puddicombe](https://en.wikipedia.org/wiki/Andy_Puddicombe)
 * [Ben Goldacre](https://en.wikipedia.org/wiki/Ben_Goldacre)
@@ -79,11 +79,11 @@
 * [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman)
 * [Sam Harris](https://en.wikipedia.org/wiki/Sam_Harris_(author))
 
-## Philosophical views
+## Philosophical views
 
-## Political views
+## Political views
 
-## Sports
+## Sports
 
 ## TV shows
 
@@ -106,9 +106,9 @@
 * [The Tripods](https://en.wikipedia.org/wiki/The_Tripods_(TV_series))
 * [Twin Peaks](https://en.wikipedia.org/wiki/Twin_Peaks)
 
-## Video games
+## Video games
 
-## Writers
+## Writers
 
 * [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus)
 * [Boris Vian](https://en.wikipedia.org/wiki/Boris_Vian)
