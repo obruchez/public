@@ -2,7 +2,7 @@
 
 ## Lists / lifelogging
 
- * [Books](Books.md) (to read)
+ * [Books](Books.md) ([to read](Books to read.md))
  * [Concerts](Concerts.md)
  * [Coursera](Coursera.md)
  * [Crashes](Crashes.md)
@@ -10,7 +10,7 @@
  * [Hikes](Hikes.md)
  * [Movies](Movies.md) ([to watch](Movies to watch.md))
  * [Plays](Plays.md)
- * [Trips](Trips.md) (to take)
+ * [Trips](Trips.md) ([to take](Trips to take.md))
  * [Votes](Votes.md) (in French)
 
 ## Résumé / CV
