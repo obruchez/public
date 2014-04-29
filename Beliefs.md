@@ -54,6 +54,7 @@ Plus exactement, de nos jours, il faut plutôt parler de [théorie synthétique 
 
 ##### L'univers dans lequel nous vivons est déterministe.
 
+* lien déterminisme et réalité/mathématique (extême : idée d’univers mathématique) 
  * physique quantique, variables cachées, Bell's inequality
  * Sam Harris / Jerry Coyne vs Eddy Nahmias
  * [Fully Caused: Coming to Terms with Determinism](http://www.naturalism.org/determinism.htm)
@@ -70,7 +71,7 @@ Plus exactement, de nos jours, il faut plutôt parler de [théorie synthétique 
 
 ##### Croyances/thèmes à ajouter
 
- * méditation
+ * méditation (vs buddhist mysticism)
  * sens/signification des choses, "but de la vie", nihilisme + absurdism/existentialism (voir articles Wikipedia)
  * prison, réhabilitation, système judiciaire
  * peine de mort
