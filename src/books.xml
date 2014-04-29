@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books title="Books (Olivier Bruchez)" description="The last books I read" link="http://github.com/obruchez/public/blob/master/Books.md" feed="http://raw.github.com/obruchez/blog/master/rss/books.rss">
     <book>
+        <date>2014.04.26</date>
+        <title>The Brain and the Meaning of Life</title>
+        <author>Paul Thagard</author>
+        <publishingyear>2010</publishingyear>
+        <rating>4.5</rating>
+        <url>http://books.google.ch/books?id=vS9jZWduGewC</url>
+    </book>
+    <book>
         <date>2014.02.27</date>
         <title>Play for Scala</title>
         <subtitle>Covers Play 2</subtitle>
