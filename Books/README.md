@@ -10,6 +10,7 @@
 * [L'Étranger (Albert Camus)](L'Etranger (Albert Camus).md)
 * [Métaphysique des Tubes (Amélie Nothomb)](Metaphysique des Tubes (Amelie Nothomb).md)
 * [Pantagruel (François Rabelais)](Pantagruel (François Rabelais).md)
+* [The Brain and the Meaning of Life (Paul Thagard)](The Brain and the Meaning of Life (Paul Thagard).md)
 * [The Moral Landscape (Sam Harris)](The Moral Landscape (Sam Harris).md)
 * [The Now Habit (Neil Fiore)](The Now Habit (Neil Fiore).md)
 * [The Selfish Gene (Richard Dawkins)](The Selfish Gene (Richard Dawkins).md)
