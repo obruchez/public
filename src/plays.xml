@@ -8,6 +8,25 @@
     <actor></actor>
   -->
 
+   <play>
+    <date>2014.05.03</date>
+    <location>La Passerelle, Théâtre de Vidy, Lausanne, Switzerland</location>
+    <name>Les Demeurées</name>    
+    <author>Jeanne Benameur</author>
+    <director>Didier Carrier</director>
+    <actor>Maria Perez</actor>
+    <actor>Laurence Vielle</actor>
+    <actor>Béatrice Graf</actor>
+    <!--
+Scénographie :
+Florence Magni  
+
+Lumières :
+Danielle Milovic
+    -->
+    <rating>4.75</rating>
+  </play> 
+
   <play>
     <date>2014.04.05</date>
     <location>Maison de Quartier, Lausanne, Switzerland</location>
