@@ -6,7 +6,6 @@
 
 Oui. Résultat : ? (?%).
 
-- Ca n'est pas forcément un bon argument, mais je n'ai vu pour l'instant aucun argument contre cet arrêté.
 - Il semble naturel de mettre en place ce qui est nécessaire pour que le système de santé continue à (relativement) bien fonctionner et pour se prémunir contre d'éventuelles pénuries de médedins.
 
 ### Acceptez-vous l'initiative populaire "Pour que les pédophiles ne travaillent plus avec des enfants" ?
@@ -38,8 +37,8 @@ Non. Résultat : ? (?%).
 - Je ne suis pas fondalement antimilitariste, mais j'ai toujours été contre l'armée suisse telle qu'elle a existé de mon vivant. Son utilité me semble très limitée, voire inexistante, et son fonctionnement est basé sur la réalité d'un monde qui n'existe plus depuis plusieurs dizaines d'années.
 - Si je mets de côté ces considérations "anti-armée-suisse", qu'en est-il de la nécessité objective d'acheter des Gripen ? Dans [l'article du Temps du 02 mai 2014](http://www.letemps.ch/Page/Uuid/eb499ee2-d147-11e3-9e49-58295b2edc48/Le_Gripen_est-il_si_indispensable_pour_la_s%C3%A9curit%C3%A9_du_pays), Barbara Haering, loin d'être antimilitariste ("La surveillance aérienne est d’une importance primordiale. Ce n’est pas seulement une nécessité constitutionnelle, c’est aussi une volonté politique très largement partagée – même au sein du Parti socialiste.") juge que le processus d'achat n'aurait pas eu besoin d'être lancé avant 5-7 ans et ajoute : "Aujourd’hui, c’est un luxe redondant".
 - [Si l'on rapporte le nombre d'avions de combat au nombre d'habitants ou à la superficie](http://www.hebdo.ch/les-blogs/grandjean-martin-data-soci%C3%A9t%C3%A9/gripen-forces-a%C3%A9riennes-et-manipulations-statistiques), la Suisse a déjà largement assez d'avions à l'heure actuelle.
-- Il est étonnant qu'un petit pays comme la Suisse, en plein milieu de l'Europe, ne collabore pas beaucoup plus avec les pays voisins pour son aviation miltaire, au lieu d'acheter lui-même des avions. Cela paraît totalement sous-optimal.
-- Quelques mois après s'être tiré une balle dans le pied (votations du 9 février 2014), il est complètement absurde pour la Suisse de consacrer plus de trois milliards de francs à des avions de combats, alors que la recherche et l'éducation pourraient en bénéficier.
+- Il est étonnant qu'un petit pays comme la Suisse, en plein milieu de l'Europe, ne collabore pas beaucoup plus avec les pays voisins pour son aviation militaire, au lieu d'acheter lui-même des avions. Cela paraît totalement sous-optimal.
+- Quelques mois après s'être tiré une balle dans le pied (votations du 9 février 2014), il est complètement absurde pour la Suisse de consacrer plus de trois milliards de francs à des avions de combat, alors que la recherche et l'éducation pourraient en bénéficier.
 
 ## [Votation fédérale du 9 février 2014](http://www.bk.admin.ch/themen/pore/va/20140209/index.html?lang=fr)
 
