@@ -4,19 +4,42 @@
 
 ### Acceptez-vous l'arrêté fédéral du 19 septembre 2013 concernant les soins médicaux de base ? (Contre-projet direct à l'initiative populaire "Oui à la médecine de famille", qui a été retirée).
 
-?. Résultat : ? (?%).
+Oui. Résultat : ? (?%).
+
+- Ca n'est pas forcément un bon argument, mais je n'ai vu pour l'instant aucun argument contre cet arrêté.
+- Il semble naturel de mettre en place ce qui est nécessaire pour que le système de santé continue à (relativement) bien fonctionner et pour se prémunir contre d'éventuelles pénuries de médedins.
 
 ### Acceptez-vous l'initiative populaire "Pour que les pédophiles ne travaillent plus avec des enfants" ?
 
-?. Résultat : ? (?%).
+Non. Résultat : ? (?%).
+
+- Il s'agit d'un sujet sensible et la plupart des gens auront tendance à voter sans trop analyser les détails de l'inititative.
+- Le contre-projet indirect, déjà voté, va dans le sens de l'initiative et la rend largement inutile.
+- Le comité d'initiative prétend ne pas pénaliser les "amours d'adolescents", mais Carlo Sommaruga, dans [l'article du Temps du 5 mai 2014](http://www.letemps.ch/Page/Uuid/7dc76eba-d3bf-11e3-9e49-58295b2edc48/Deux_conceptions_de_lEtat_de_droit), met en évidence certains cas limites, comme celui d'"un garçon de 16 ans et une fille de 12 ans" : "on ne peut pas lui reprocher un comportement pédophile, c’est autre chose. Or, le texte soumis aux Suisses le 18 mai exigera qu’en pareil cas, le garçon se voie interdire à vie l’exercice d’une activité le mettant en contact avec des enfants, aussi de même sexe." Il semblerait donc que l'initiative aille tout de même trop loin, dans quelques cas, aussi rares soient-ils.
 
 ### Acceptez-vous l'initiative populaire "Pour la protection de salaires équitables (Initiative sur les salaires minimums)" ?
 
-?. Résultat : ? (?%).
+Oui. Résultat : ? (?%).
+
+- Par rapport à de nombreux autres pays, le système suisse marche bien. Il apparaît toutefois qu'une minorité de salariés (environ 9%) touche moins de 22 francs suisses par heure.
+- La sous-enchère salariale semble être un problème réel, réglé en partie par les conventions collectives de travail (CCT) et une surveillance de l'Etat.
+- Il est difficile de se mettre d'accord sur la valeur d'un salaire minimal permettant de "vivre dignement", car il faudrait pendre en compte le contexte dans lequel ce salaire est perçu. La personne concernée est-elle jeune ? Vit-elle encore chez ses parents ? Bénéficie-t-elle d'aides sociales et/ou de déductions fiscales ? A-t-elle une famille à charge ? Vit-elle dans une région plus/moins chère que la moyenne ? Toute valeur unique et fixe est donc forcément arbitraire, voire simpliste.
+- J'aurais eu tendance à être contre cette initiative si elle avait concerné tous les emplois, sans aucune distinction, mais elle ne s'applique pas aux emplois liés à la formation (apprentissages et stages).
+- Le salaire minimal de 22 francs suisse par heure est jugé très élevé "en comparaison internationale" par les opposants (environ deux fois plus élevé que le SMIC français, si je calcule bien). Mais le coût de la vie en Suisse est élevé. [Et les salaires moyens aussi](http://www.journaldunet.com/management/repere/salaires_europe.shtml).
+- Les opposants brandissent, une fois encore, la menace du chômage, mais je ne vois pas en quoi le plein emploi serait un but en soi. Les progrès technologiques et l'automatisation du travail vont forcément éliminer de plus en plus de places de travail, pour finalement en éliminer la majorité dans quelques petites dizaines d'années au maximum.
+- J'ai de la peine à croire au nivellement par le bas brandis par les opposants à l'initiative. Selon quelle logique ? Les CCT joueront toujours leur rôle. Dans les professions mieux loties, les employés seront toujours libres d'aller voir un employeur plus généreux.
+- De nombreux autres pays [appliquent déjà un salaire minimum](http://emeraude-rh.com/2012/10/29/les-salaires-minimums-en-europe/). Et la France n'est pas forcément le meilleur pays à comparer à la Suisse pour voir si un tel principe marche bien.
+- Au final, les gens qui me connaissent savent que je suis pour un [revenu de base / inconditionnel](https://fr.wikipedia.org/wiki/Revenu_de_base), pour les mêmes raisons évoquées plus haut (progrès technologiques, impossibilité logique d'un plein emploi, etc.). Un salaire minimum est en quelque sorte un pas dans cette (bonne) direction.
 
 ### Acceptez-vous la loi fédérale du 27 septembre 2013 sur le fonds d'acquisition de l'avion de combat Gripen (loi sur le fonds Gripen)?
 
-?. Résultat : ? (?%).
+Non. Résultat : ? (?%).
+
+- Je ne suis pas fondalement antimilitariste, mais j'ai toujours été contre l'armée suisse telle qu'elle a existé de mon vivant. Son utilité me semble très limitée, voire inexistante, et son fonctionnement est basé sur la réalité d'un monde qui n'existe plus depuis plusieurs dizaines d'années.
+- Si je mets de côté ces considérations "anti-armée-suisse", qu'en est-il de la nécessité objective d'acheter des Gripen ? Dans [l'article du Temps du 02 mai 2014](http://www.letemps.ch/Page/Uuid/eb499ee2-d147-11e3-9e49-58295b2edc48/Le_Gripen_est-il_si_indispensable_pour_la_s%C3%A9curit%C3%A9_du_pays), Barbara Haering, loin d'être antimilitariste ("La surveillance aérienne est d’une importance primordiale. Ce n’est pas seulement une nécessité constitutionnelle, c’est aussi une volonté politique très largement partagée – même au sein du Parti socialiste.") juge que le processus d'achat n'aurait pas eu besoin d'être lancé avant 5-7 ans et ajoute : "Aujourd’hui, c’est un luxe redondant".
+- [Si l'on rapporte le nombre d'avions de combat au nombre d'habitants ou à la superficie](http://www.hebdo.ch/les-blogs/grandjean-martin-data-soci%C3%A9t%C3%A9/gripen-forces-a%C3%A9riennes-et-manipulations-statistiques), la Suisse a déjà largement assez d'avions à l'heure actuelle.
+- Il est étonnant qu'un petit pays comme la Suisse, en plein milieu de l'Europe, ne collabore pas beaucoup plus avec les pays voisins pour son aviation miltaire, au lieu d'acheter lui-même des avions. Cela paraît totalement sous-optimal.
+- Quelques mois après s'être tiré une balle dans le pied (votations du 9 février 2014), il est complètement absurde pour la Suisse de consacrer plus de trois milliards de francs à des avions de combats, alors que la recherche et l'éducation pourraient en bénéficier.
 
 ## [Votation fédérale du 9 février 2014](http://www.bk.admin.ch/themen/pore/va/20140209/index.html?lang=fr)
 
