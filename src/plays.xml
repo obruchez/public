@@ -9,6 +9,43 @@
   -->
 
    <play>
+    <date>2014.05.09</date>
+    <location>Salle René Gonzalez, Théâtre de Vidy, Lausanne, Switzerland</location>
+    <name>Galilée, le mécano</name>    
+    <author>Marco Paolini, Francesco Niccolini &amp; Michela Signori</author>
+    <director>Charles Tordjman</director>
+    <translation>Daniela Almansi, Franceso Niccolini &amp; Marco Paolini</translation>
+    <actor>Marco Paolini</actor>
+    <!--
+Collaboration artistique : 
+Gabriela Ossola
+
+Scénographie :
+Vincent Tordjman
+
+Lumières :
+Christian Pinaud
+
+Musique :
+VICNET
+
+Eléments scéniques : 
+Juri Pevere
+
+Console audio :
+Gabriele Turra Assistance technique: 
+Graziano Pretto
+Michele Moscalchin
+
+Direction technique : 
+Marco Busetto
+
+Eclairage et son : 
+Ombre Rosse
+    -->
+    <rating>4.75</rating>
+  </play> 
+   <play>
     <date>2014.05.03</date>
     <location>La Passerelle, Théâtre de Vidy, Lausanne, Switzerland</location>
     <name>Les Demeurées</name>    
@@ -26,7 +63,6 @@ Danielle Milovic
     -->
     <rating>4.75</rating>
   </play> 
-
   <play>
     <date>2014.04.05</date>
     <location>Maison de Quartier, Lausanne, Switzerland</location>
