@@ -56,17 +56,28 @@ Cela inclut en particulier l'[homéopathie](https://fr.wikipedia.org/wiki/Hom%C3
 
 Plus exactement, de nos jours, il faut plutôt parler de [théorie synthétique de l'évolution (ou néodarwinisme)](https://fr.wikipedia.org/wiki/Théorie_synthétique_de_l'évolution). La théorie de l'évolution est un sujet difficile d'accès. Comme le disait Jacques Monod : "Another curious aspect of the theory of evolution is that everybody thinks he understands it!" La réalité est que peu de monde comprend vraiment la théorie de l'évolution. Il m'a fallu travailler durant des mois sur un projet de recherche, à l'EPFL, mettant en lien [algorithmes génétiques](https://en.wikipedia.org/wiki/Genetic_algorithm) et [réseaux de neurones artificiels](https://en.wikipedia.org/wiki/Artificial_neural_network), pour commencer à comprendre, intuitivement, que de la "non-intelligence" puisse engendrer de l'"intelligence", que quelque chose donnant l'impression d'avoir été réfléchi, conçu par un être intelligent, puisse n'être que le fruit d'un long processus "aveugle", basé sur des règles simples. Naturellement, la théorie de l'évolution est donc un thème qui tend à polariser les opinions. De nombreuses personnes [n'acceptent pas cette théorie](https://en.wikipedia.org/wiki/Level_of_support_for_evolution), souvent pour des raisons religieuses, parce qu'elle entre en conflit avec le point de vue anthropocentrique que la plupart des gens ont naturellement (l'homme est important, car il a été créé par Dieu). Il est par conséquent important de s'efforcer de la vulgariser, comme l'a par exemple brillament fait Richard Dawkins dans [The Selfish Gene](https://en.wikipedia.org/wiki/The_Selfish_Gene). Enfin, il me semble que la théorie de l'évolution a ceci d'élégant qu'elle semble pointer vers l'existence d'une [loi plus fondamentale, plus générale](https://en.wikipedia.org/wiki/Universal_Darwinism), pouvant s'appliquer à d'autres domaines, tels que la chimie ou la physique. Un peu comme la [loi des retours accélérés](https://en.wikipedia.org/wiki/Accelerating_change) de Ray Kurzweil généralise la [loi de Moore](https://en.wikipedia.org/wiki/Moore's_law), en mettant en évidence une tendance plus générale, plus universelle.
 
+##### La peine de mort n'a pas sa place dans un système judiciaire moderne.
+
+ * société devrait accorder une importance primordiale à la vie des êtres humains (et des êtres conscients en général)
+ * justice réparatrice (réinsertion/réhabilitation) plutôt que punitive (hors mort rend toute réparation impossible)
+ * problème des erreurs judiciaires (hors peine de mort = aucun retour en arrière possible)
+ * exécutions ratées aux US (personnel soignant + industrie pharmaceutique n'ont pas envie d'y participer => boucherie)
+ * "la peine de mort n'est pas plus dissuasive que la prison à vie" => plus ou moins inutile (http://www.deathpenaltyinfo.org/study-88-criminologists-do-not-believe-death-penalty-effective-deterrent)
+ * "la peine de mort affecte au-delà du seul condamné"
+ * solution de facilité / aveu d'échec
+ * argument économique : prison à vie coûte cher ; mais : possibilité de "rentabiliser" le détenu en le faisant travailler
+ * on pense souvent aux US, mais peine de mort appliquée dans plusieurs dizaines de pays (https://en.wikipedia.org/wiki/Use_of_capital_punishment_by_country)
+
 ##### La mise en place d'un revenu inconditionnel est indispensable, à terme, et ce dans tous les pays.
 
-* AI => chômage
-* assurances sociales généralement "mal vues"
+ * AI => chômage
+ * assurances sociales généralement "mal vues"
 
 ##### Croyances / thèmes à ajouter
 
  * méditation (vs buddhist mysticism + bienfaits, version "laïque" de la prière, apprend la patience, apprend à se connaître)
  * sens/signification des choses, "but de la vie", nihilisme + absurdism/existentialism (voir articles Wikipedia)
  * prison, réhabilitation, système judiciaire
- * peine de mort
  * torture
  * armée/guerre
  * droits des homosexuels (mariage, adoption, etc.)
