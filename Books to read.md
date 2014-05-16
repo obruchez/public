@@ -13,6 +13,10 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 * Thomas Piketty, ["Le Capital au XXIe siècle"](http://www.amazon.fr/Le-Capital-au-XXIe-si%C3%A8cle-ebook/dp/B00EYCOV3M/) (long book - 970 pages -, recommended by [@danielmiessler](https://twitter.com/danielmiessler))
 
+## Personal development
+
+* Leo Babauta, ["The One Skill: How Mastering the Art of Letting Go Will Change Your Life"](http://zenhabits.net/lg/) (free book, mentioned by [@avernet](https://twitter.com/avernet))
+
 ## Physics
 
 * Max Tegmark, ["Our Mathematical Universe: My Quest for the Ultimate Nature of Reality"](http://www.amazon.com/Our-Mathematical-Universe-Ultimate-Reality-ebook/dp/B00DXKJ2DA/) (summarized by [@SelfAwarePatter](https://twitter.com/SelfAwarePatter) on [his blog](http://selfawarepatterns.com/2014/04/21/tegmarks-mathematical-universe-hypothesis/))
