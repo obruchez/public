@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Movies.md" feed="http://raw.github.com/obruchez/blog/master/rss/movies.rss">
   <movie>
+    <date>2014.05.18</date>
+    <theater home="true"/>
+    <director>Rob Reiner</director>
+    <title>The Princess Bride</title>
+    <url>http://www.imdb.com/title/tt0093779/</url>
+    <rating>3.75</rating>
+  </movie>
+  <movie>
     <date>2014.04.14</date>
     <theater home="true"/>
     <director>Ethan Coen &amp; Joel Coen</director>
