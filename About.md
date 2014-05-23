@@ -2,7 +2,17 @@
 
 ## Activities
 
+* [Blogging](https://en.wikipedia.org/wiki/Blogging)
+* [Meditating](https://en.wikipedia.org/wiki/Meditating)
+* [Reading](https://en.wikipedia.org/wiki/Reading_(process))
+* [Traveling](https://en.wikipedia.org/wiki/Traveling)
+
 ## Comics
+
+* [Don Rosa](https://en.wikipedia.org/wiki/Don_Rosa)
+* [F'Murr (aka Richard Peyzaret)](https://en.wikipedia.org/wiki/F%27Murr)
+* [Greg (aka Michel Régnier)](https://en.wikipedia.org/wiki/Greg_(comics))
+* [Lewis Trondheim (aka Laurent Chabosy)](https://en.wikipedia.org/wiki/Lewis_Trondheim)
 
 ## Directors
 
@@ -17,6 +27,11 @@
 * [Woody Allen](https://en.wikipedia.org/wiki/Woody_Allen)
 
 ## Food
+
+* [Beer](https://en.wikipedia.org/wiki/Beer)
+* [Chocolate](https://en.wikipedia.org/wiki/Chocolate)
+* [Vegetarian cuisine](https://en.wikipedia.org/wiki/Vegetarian_cuisine)
+* [Wine](https://en.wikipedia.org/wiki/Wine)
 
 ## Interests
 
@@ -84,6 +99,12 @@
 ## Political views
 
 ## Sports
+
+* [Elliptical trainer / cross-trainer](https://en.wikipedia.org/wiki/Elliptical_trainer)
+* [Mountain biking](https://en.wikipedia.org/wiki/Mountain_biking)
+* [Mountain hiking](https://en.wikipedia.org/wiki/Hiking)
+* [Skiing](https://en.wikipedia.org/wiki/Skiing)
+* [Via ferrata](https://en.wikipedia.org/wiki/Via_ferrata)
 
 ## TV shows
 
