@@ -1,6 +1,7 @@
 # Movies
 Date | Theater | Director | Title | Alternative Title(s) | Version | Rating | Comments
 --- | --- | --- | --- | --- | --- | --- | ---
+<a name="669"></a>2014/05/25 |  | Terry Jones | [Life of Brian](http://www.imdb.com/title/tt0079470/) |  | Original | ![4.25](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 
 <a name="668"></a>2014/05/25 | Galeries, Lausanne | Jean-Pierre Dardenne & Luc Dardenne | [Deux jours, une nuit](http://www.imdb.com/title/tt2737050/) |  | Original | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="667"></a>2014/05/18 |  | Rob Reiner | [The Princess Bride](http://www.imdb.com/title/tt0093779/) |  | Original | ![2.5](https://raw.github.com/obruchez/public/master/img/stars2_5.png) | 
 <a name="666"></a>2014/04/14 |  | Ethan Coen & Joel Coen | [Raising Arizona](http://www.imdb.com/title/tt0093822/) |  | Original | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
