@@ -1,5 +1,7 @@
 # About
 
+I'm a geek. I like lists. So this is me. In lists.
+
 ## Activities
 
 * [Blogging](https://en.wikipedia.org/wiki/Blogging)
@@ -30,10 +32,24 @@
 
 * [Beer](https://en.wikipedia.org/wiki/Beer)
 * [Chocolate](https://en.wikipedia.org/wiki/Chocolate)
+* [Coffee](https://en.wikipedia.org/wiki/Coffee)
+* [Tea](https://en.wikipedia.org/wiki/Tea)
 * [Vegetarian cuisine](https://en.wikipedia.org/wiki/Vegetarian_cuisine)
 * [Wine](https://en.wikipedia.org/wiki/Wine)
 
 ## Interests
+
+* [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) / [machine learning](https://en.wikipedia.org/wiki/Machine_learning)
+* [Astronomy](https://en.wikipedia.org/wiki/Astronomy)
+* [Futures studies (a.k.a. futurology / futurism)](https://en.wikipedia.org/wiki/Futures_studies)
+* [Getting Things Done (GTD)](https://en.wikipedia.org/wiki/Getting_Things_Done)
+* [Jazz](https://en.wikipedia.org/wiki/Jazz)
+* [MOOCs](https://en.wikipedia.org/wiki/Mooc) / [Coursera](https://en.wikipedia.org/wiki/Coursera)
+* [Philosophy](https://en.wikipedia.org/wiki/Philosophy)
+* [Programming](https://en.wikipedia.org/wiki/Computer_programming) / [software development](https://en.wikipedia.org/wiki/Software_development)
+* [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) / [lifelogging](https://en.wikipedia.org/wiki/Lifelog)
+* [Science](https://en.wikipedia.org/wiki/Science)
+* [Technology](https://en.wikipedia.org/wiki/Technology)
 
 ## Musicians
 
@@ -113,6 +129,7 @@
 * [Better Off Ted](https://en.wikipedia.org/wiki/Better_Off_Ted)
 * [The Big Bang Theory](https://en.wikipedia.org/wiki/The_Big_Bang_Theory)
 * [Blackadder](https://en.wikipedia.org/wiki/Blackadder)
+* [Bob's Burgers](https://en.wikipedia.org/wiki/Bob%27s_Burgers)
 * [Bref](https://en.wikipedia.org/wiki/Bref)
 * [Community](https://en.wikipedia.org/wiki/Community_(TV_series))
 * [Friends](https://en.wikipedia.org/wiki/Friends)
@@ -125,6 +142,7 @@
 * [The Office (US)](https://en.wikipedia.org/wiki/The_Office_(U.S._TV_series))
 * [Seinfeld](https://en.wikipedia.org/wiki/Seinfeld)
 * [The Simpsons](https://en.wikipedia.org/wiki/The_Simpsons)
+* [The Spoils of Babylon](https://en.wikipedia.org/wiki/The_Spoils_of_Babylon)
 * [The Tripods](https://en.wikipedia.org/wiki/The_Tripods_(TV_series))
 * [Twin Peaks](https://en.wikipedia.org/wiki/Twin_Peaks)
 
