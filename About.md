@@ -80,7 +80,7 @@
 * [Tom Everhart](https://en.wikipedia.org/wiki/Tom_Everhart)
 * [Vincent van Gogh](https://en.wikipedia.org/wiki/Vincent_van_Gogh)
 
-## People who inspire me / thinkers
+## People who inspire me / thinkers / bloggers
 
 * [Andy Puddicombe](https://en.wikipedia.org/wiki/Andy_Puddicombe)
 * [Ben Goldacre](https://en.wikipedia.org/wiki/Ben_Goldacre)
@@ -88,6 +88,7 @@
 * [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan)
 * [David Allen](https://en.wikipedia.org/wiki/David_Allen_(author))
 * [Jerry Coyne](https://en.wikipedia.org/wiki/Jerry_Coyne)
+* [Daniel Miessler](http://www.danielmiessler.com/)
 * [Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson)
 * [Ray Kurzweil](https://en.wikipedia.org/wiki/Ray_Kurzweil)
 * [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins)
