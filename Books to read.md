@@ -17,6 +17,10 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 * Leo Babauta, ["The One Skill: How Mastering the Art of Letting Go Will Change Your Life"](http://zenhabits.net/lg/) (free book, mentioned by [@avernet](https://twitter.com/avernet))
 
+## Philosophy
+
+* Russell Blackford & Damien Broderick, ["Intelligence Unbound: The Future of Uploaded and Machine Minds"](http://www.amazon.com/Intelligence-Unbound-Future-Uploaded-Machine/dp/1118736281/) (mentioned on [kurzweilai.net](http://www.kurzweilai.net/intelligence-unbound-the-future-of-uploaded-and-machine-minds))
+
 ## Physics
 
 * Max Tegmark, ["Our Mathematical Universe: My Quest for the Ultimate Nature of Reality"](http://www.amazon.com/Our-Mathematical-Universe-Ultimate-Reality-ebook/dp/B00DXKJ2DA/) (summarized by [@SelfAwarePatter](https://twitter.com/SelfAwarePatter) on [his blog](http://selfawarepatterns.com/2014/04/21/tegmarks-mathematical-universe-hypothesis/))
