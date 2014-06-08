@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Movies.md" feed="http://raw.github.com/obruchez/blog/master/rss/movies.rss">
   <movie>
+    <date>2014.06.08</date>
+    <theater>Galeries, Lausanne</theater>
+    <director>Claudia Sainte-Luce</director>
+    <title>Los insólitos peces gato</title>
+    <title language="en">The Amazing Catfish</title>
+    <url>http://www.imdb.com/title/tt2414046/</url>
+    <rating>5.0</rating>
+  </movie>
+  <movie>
     <date>2014.06.01</date>
     <theater>Galeries, Lausanne</theater>
     <director>Felix Herngren</director>
