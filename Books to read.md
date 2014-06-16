@@ -20,6 +20,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## Philosophy
 
 * Russell Blackford & Damien Broderick, ["Intelligence Unbound: The Future of Uploaded and Machine Minds"](http://www.amazon.com/Intelligence-Unbound-Future-Uploaded-Machine/dp/1118736281/) (mentioned on [kurzweilai.net](http://www.kurzweilai.net/intelligence-unbound-the-future-of-uploaded-and-machine-minds))
+* Michael S. A. Graziano, ["Consciousness and the Social Brain"](http://www.amazon.com/Consciousness-Social-Brain-Michael-Graziano/dp/0199928649) (summarized by [@SelfAwarePatter](https://twitter.com/SelfAwarePatter) on [his blog](http://selfawarepatterns.com/2013/12/30/consciousness-and-the-social-brain-a-review/))
 
 ## Physics
 
