@@ -8,6 +8,18 @@
     <actor></actor>
   -->
 
+  <play>
+    <date>2014.06.20</date>
+    <location>Pulloff Théâtres, Lausanne, Switzerland</location>
+    <name>Fureur</name>
+    <author>Leonore Confino</author>
+    <director>Sarah Marcuse</director>
+    <actor>Maud Faucherre</actor>
+    <actor>David Marchetto</actor>
+    <actor>Alyssa Hochstaetter</actor>
+    <rating>5.0</rating>
+  </play>
+
    <play>
     <date>2014.05.09</date>
     <location>Salle René Gonzalez, Théâtre de Vidy, Lausanne, Switzerland</location>
