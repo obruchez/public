@@ -1,7 +1,7 @@
 # Plays
 Date | Location | Name | Author | Director | Adaptation | Translation | Actors | Rating | Comments
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-<a name="73"></a>2014/06/20 | Pulloff Théâtres, Lausanne, Switzerland | Fureur | Leonore Confino | Sarah Marcuse |  |  | Maud Faucherre, David Marchetto, and Alyssa Hochstaetter | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
+<a name="73"></a>2014/06/20 | Pulloff Théâtres, Lausanne, Switzerland | Ring | Leonore Confino | Sarah Marcuse |  |  | Maud Faucherre, David Marchetto, and Alyssa Hochstaetter | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="72"></a>2014/05/09 | Salle René Gonzalez, Théâtre de Vidy, Lausanne, Switzerland | Galilée, le mécano | Marco Paolini, Francesco Niccolini & Michela Signori | Charles Tordjman |  | Daniela Almansi, Franceso Niccolini & Marco Paolini | Marco Paolini | ![3.75](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="71"></a>2014/05/03 | La Passerelle, Théâtre de Vidy, Lausanne, Switzerland | Les Demeurées | Jeanne Benameur | Didier Carrier |  |  | Maria Perez, Laurence Vielle, and Béatrice Graf | ![3.75](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="70"></a>2014/04/05 | Maison de Quartier, Lausanne, Switzerland | Les Révérends | Slawomir Mrözek | Laurence Christen |  |  | Adrien Borruat, Nicolas Crisci, Françoise Gounod, Isabelle Guignet, Merlin Leuenberger, Pierre Luthi, Miriam Perraudin, Agnes Sontheim, and Marthe Verschueren | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
