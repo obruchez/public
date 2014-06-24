@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Movies.md" feed="http://raw.github.com/obruchez/blog/master/rss/movies.rss">
   <movie>
+    <date>2014.06.21</date>
+    <theater home="true"/>
+    <director>Christopher Nolan</director>
+    <title>Memento</title>
+    <url>http://www.imdb.com/title/tt0209144</url>
+    <rating>5.25</rating>
+  </movie>
+  <movie>
     <date>2014.06.08</date>
     <theater>Galeries, Lausanne</theater>
     <director>Claudia Sainte-Luce</director>
