@@ -58,15 +58,7 @@ Plus exactement, de nos jours, il faut plutôt parler de [théorie synthétique 
 
 ##### La peine de mort n'a pas sa place dans un système judiciaire moderne.
 
- * société devrait accorder une importance primordiale à la vie des êtres humains (et des êtres conscients en général)
- * justice réparatrice (réinsertion/réhabilitation) plutôt que punitive (hors mort rend toute réparation impossible)
- * problème des erreurs judiciaires (hors peine de mort = aucun retour en arrière possible)
- * exécutions ratées aux US (personnel soignant + industrie pharmaceutique n'ont pas envie d'y participer => boucherie)
- * "la peine de mort n'est pas plus dissuasive que la prison à vie" => plus ou moins inutile (http://www.deathpenaltyinfo.org/study-88-criminologists-do-not-believe-death-penalty-effective-deterrent)
- * "la peine de mort affecte au-delà du seul condamné"
- * solution de facilité / aveu d'échec
- * argument économique : prison à vie coûte cher ; mais : possibilité de "rentabiliser" le détenu en le faisant travailler
- * on pense souvent aux US, mais peine de mort appliquée dans plusieurs dizaines de pays (https://en.wikipedia.org/wiki/Use_of_capital_punishment_by_country)
+Note : lorsqu'on parle de peine de mort, on pense souvent aux Etats-Unis, mais elle est encore appliquée [dans plusieurs dizaines de pays](https://en.wikipedia.org/wiki/Use_of_capital_punishment_by_country) à travers le monde. Le contexte premier de cette réflexion est que la société devrait accorder, autant que possible, une importance primordiale à la vie des êtres humains (et des êtres conscients en général). La justice devrait donc être constructive (p. ex. réinsertion) plutôt que destructive, punitive. Selon ces principes, la mort donnée volontairement peut être considérée comme un aveu d'échec, une solution de facilité. Au delà de ces généralités, il y a des problèmes pratiques. Celui des [erreurs judiciaires](https://fr.wikipedia.org/wiki/Erreur_judiciaire), en premier lieu. Evidemment, même dans le cas d'un emprisonnement à perpétuité, une erreur judiciaire est quelque chose d'effroyable, mais la peine de mort, une fois appliquée, ne permet par définition aucun retour en arrière, aucun dédommagement. Il y a le problème des [exécutions ratées](http://www.lemonde.fr/ameriques/article/2014/04/30/une-double-execution-tourne-mal-aux-etats-unis_4409406_3222.html), qui font régulièrement parler d'elles, aux Etats-Unis en particulier. Le personnel soignant et l'industrie pharmaceutique n'ont pas envie de participer aux mises à mort, qui peuvent ainsi tourner à la torture, faute de moyens sérieux. Il semblerait également que [la peine de mort ne soit pas particulièrement plus dissuasive que la prison à vie](http://www.deathpenaltyinfo.org/study-88-criminologists-do-not-believe-death-penalty-effective-deterrent). Reste donc l'argument économique, la prison à vie coûtant cher. Mais une exécution est aussi très coûteuse et il est possible de "rentabiliser" un détenu en le faisant travailler, ce qui a aussi l'avantage de permettre d'estimer sa capacité à être réinséré dans la société. Enfin, il ne faut pas oublier que la peine de mort n'affecte pas seulement le condamné à mort, mais aussi son entourage, sa famille.
 
 ##### La mise en place d'un revenu inconditionnel est indispensable, à terme, et ce dans tous les pays.
 
