@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books title="Books (Olivier Bruchez)" description="The last books I read" link="http://github.com/obruchez/public/blob/master/Books.md" feed="http://raw.github.com/obruchez/blog/master/rss/books.rss">
     <book>
+        <date>2014.08.11</date>
+        <title>La Peste</title>
+        <author>Albert Camus</author>
+        <publishingyear>1947</publishingyear>
+        <rating>5.5</rating>
+        <url>https://fr.wikipedia.org/wiki/La_Peste</url>
+    </book>
+    <book>
         <date>2014.04.26</date>
         <title>The Brain and the Meaning of Life</title>
         <author>Paul Thagard</author>

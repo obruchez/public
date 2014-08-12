@@ -1,6 +1,7 @@
 # Books
 Date | Author | Title | Subtitle | Year | Rating | Comments
 --- | --- | --- | --- | --- | --- | ---
+<a name="71"></a>2014/08/11 | Albert Camus | [La Peste](https://fr.wikipedia.org/wiki/La_Peste) |  | 1947 | ![4.5](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 
 <a name="70"></a>2014/04/26 | Paul Thagard | [The Brain and the Meaning of Life](http://books.google.ch/books?id=vS9jZWduGewC) |  | 2010 | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="69"></a>2014/02/27 | Peter Hilton, Erik Bakker & Francisco Canedo | [Play for Scala](http://books.google.ch/books?id=cV24kgEACAAJ) | Covers Play 2 | 2013 | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="68"></a>2014/02/23 | Neil A. Fiore | [The Now Habit](http://books.google.ch/books/about/The_Now_Habit.html?id=obLBn7OKcI8C) | A Strategic Program for Overcoming Procrastination and Enjoying Guilt-Free Play | 2007 | ![2.5](https://raw.github.com/obruchez/public/master/img/stars2_5.png) | 
