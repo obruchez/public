@@ -1,6 +1,8 @@
 # Exhibitions
 Date | Name | Museum | Rating | Comments
 --- | --- | --- | --- | ---
+<a name="13"></a>2014/08/09 | Michel Lemieux - Victor Pilon / Permanent exhibition | Musée des Beaux-Arts, Montréal, QC, Canada | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
+<a name="12"></a>2014/07/28 | Image x Image / Haïti In Extremis / Pierre Gauvreau. J'espérais vous voir ici / Les maîtres de l'Olympe / Permanent exhibition | Musée de la civilisation, Québec, QC, Canada | ![3.75](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="11"></a>2013/10/20 | Permanent exhibition | National Gallery, Veletržní Palace, Prague, Czech Republic | ![4.25](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 
 <a name="10"></a>2013/10/06 | Miró : poésie et lumière | Fondation de l’Hermitage, Lausanne, Switzerland | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="9"></a>2013/08/31 | Modigliani et l’Ecole de Paris | Fondation Pierre Gianadda, Martigny, Switzerland | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
