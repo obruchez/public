@@ -1,6 +1,7 @@
 # Movies
 Date | Theater | Director | Title | Alternative Title(s) | Version | Rating | Comments
 --- | --- | --- | --- | --- | --- | --- | ---
+<a name="674"></a>2014/08/15 | Galeries, Lausanne | Nuri Bilge Ceylan | [Kis uykusu](http://www.imdb.com/title/tt2758880/) | Winter Sleep (English) | Original | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="673"></a>2014/08/12 |  | Gus Van Sant | [Good Will Hunting](http://www.imdb.com/title/tt0119217) |  | Original | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="672"></a>2014/06/21 |  | Christopher Nolan | [Memento](http://www.imdb.com/title/tt0209144) |  | Original | ![4.25](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 
 <a name="671"></a>2014/06/08 | Galeries, Lausanne | Claudia Sainte-Luce | [Los insólitos peces gato](http://www.imdb.com/title/tt2414046/) | The Amazing Catfish (English) | Original | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
