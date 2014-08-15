@@ -116,8 +116,8 @@ I'm a geek. I like lists. So this is me. In lists.
 * [Agnosticism](https://en.wikipedia.org/wiki/Agnosticism)
 * [Atheism](https://en.wikipedia.org/wiki/Atheism)
 * [Humanism](https://en.wikipedia.org/wiki/Humanism)
-* [Skepticism](https://en.wikipedia.org/wiki/Skepticism)
 * [Singularitarianism](https://en.wikipedia.org/wiki/Singularitarianism)
+* [Skepticism](https://en.wikipedia.org/wiki/Skepticism)
 * [Transhumanism](https://en.wikipedia.org/wiki/Transhumanism)
 * [Vegetarianism](https://en.wikipedia.org/wiki/Vegetarianism)
 
