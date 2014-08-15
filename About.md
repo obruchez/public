@@ -113,6 +113,14 @@ I'm a geek. I like lists. So this is me. In lists.
 
 ## Philosophical views
 
+* [Agnosticism](https://en.wikipedia.org/wiki/Agnosticism)
+* [Atheism](https://en.wikipedia.org/wiki/Atheism)
+* [Humanism](https://en.wikipedia.org/wiki/Humanism)
+* [Skepticism](https://en.wikipedia.org/wiki/Skepticism)
+* [Singularitarianism](https://en.wikipedia.org/wiki/Singularitarianism)
+* [Transhumanism](https://en.wikipedia.org/wiki/Transhumanism)
+* [Vegetarianism](https://en.wikipedia.org/wiki/Vegetarianism)
+
 ## Political views
 
 ## Sports
@@ -147,6 +155,27 @@ I'm a geek. I like lists. So this is me. In lists.
 * [Twin Peaks](https://en.wikipedia.org/wiki/Twin_Peaks)
 
 ## Video games
+
+## Web comics
+
+* [Buttercup Festival](http://www.buttercupfestival.com/)
+* [Buttersafe](http://buttersafe.com/)
+* [Cat and Girl](http://catandgirl.com/)
+* [Chainsawsuit](http://chainsawsuit.com/)
+* [Dilbert](http://dilbert.com/)
+* [Existential Comics](http://existentialcomics.com/)
+* [Geek & Poke](http://geek-and-poke.com/)
+* [L'actu en patates](http://vidberg.blog.lemonde.fr/)
+* [Lunarbaboon](http://www.lunarbaboon.com/)
+* [Married to the Sea](http://www.marriedtothesea.com/)
+* [Pearls Befores Wine](http://www.gocomics.com/pearlsbeforeswine)
+* [PHD Comics](http://phdcomics.com/comics.php)
+* [Questionable Content](http://www.questionablecontent.net/)
+* [Saturday Morning Breakfast Cereal](http://www.smbc-comics.com/)
+* [The Oatmeal](http://theoatmeal.com/)
+* [The Perry Bible Fellowship](http://www.pbfcomics.com/)
+* [Unspeakable Vault (of Doom)](http://www.goominet.com/unspeakable-vault/)
+* [xkcd](https://xkcd.com/)
 
 ## Writers
 
