@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <hikes title="Hikes (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Hikes.md" feed="http://raw.github.com/obruchez/blog/master/rss/hikes.rss">
   <hike>
+    <date>2014.08.17</date>
+    <place>Le Catogne, Switzerland</place>
+    <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157646191712249/"/>
+  </hike>
+  <hike>
     <date>2013.10.26</date>
     <place>Col des Avouillons, Switzerland</place>
     <pictures url="https://secure.flickr.com/photos/bruchez/sets/72157637028732275/"/>
