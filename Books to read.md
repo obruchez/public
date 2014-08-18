@@ -5,7 +5,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## Currently reading
 
 * Carl Sagan, ["Cosmos"](http://www.amazon.com/Cosmos-Carl-Sagan/dp/0394502949/) (year-long / background read)
-* Albert Camus, ["La Peste"](https://encrypted.google.com/books/about/La_Peste.html?id=hlkoAQAAIAAJ)
+* Peter Boghossian, ["A Manual for Creating Atheists"](http://www.amazon.com/Manual-Creating-Atheists-Peter-Boghossian-ebook/dp/B00LKBT0MC/)
 * (Roald Dahl, ["The Collected Short Stories of Roald Dahl"](http://www.amazon.com/Collected-Short-Stories-Roald-Dahl/dp/0140158073/))
 * (H.P. Lovecraft, ["The Complete Works of H.P. Lovecraft"](https://www.goodreads.com/book/show/11851522-the-complete-works-of-h-p-lovecraft))
 
@@ -21,6 +21,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 * Russell Blackford & Damien Broderick, ["Intelligence Unbound: The Future of Uploaded and Machine Minds"](http://www.amazon.com/Intelligence-Unbound-Future-Uploaded-Machine/dp/1118736281/) (mentioned on [kurzweilai.net](http://www.kurzweilai.net/intelligence-unbound-the-future-of-uploaded-and-machine-minds))
 * Michael S. A. Graziano, ["Consciousness and the Social Brain"](http://www.amazon.com/Consciousness-Social-Brain-Michael-Graziano/dp/0199928649) (summarized by [@SelfAwarePatter](https://twitter.com/SelfAwarePatter) on [his blog](http://selfawarepatterns.com/2013/12/30/consciousness-and-the-social-brain-a-review/))
+* Theodore Schick & Lewis Vaughn, ["How to Think About Weird Things: Critical Thinking for a New Age"](http://www.amazon.com/How-Think-About-Weird-Things/dp/007353577X) (recommended by Peter Boghossian, author of "A Manual for Creating Atheists")
 
 ## Physics
 
