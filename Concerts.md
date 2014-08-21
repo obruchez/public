@@ -1,6 +1,13 @@
 # Concerts
 Date | Musicians | Location | Event | Rating | Comments
 --- | --- | --- | --- | --- | ---
+<a name="218"></a>2014/07/19 | **Yaron Herman and David Greilsammer**: Yaron Herman, David Greilsammer, Massimo Pinca, and Geneva Camerata | Eglise Sainte-Claire, Vevey, Switzerland | Montreux Jazz Festival | ![4.25](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 
+<a name="217"></a>2014/07/18 | **Herbie Hancock and Wayne Shorter**: Herbie Hancock and Wayne Shorter | Auditorium Stravinski, Montreux, Switzerland | Montreux Jazz Festival | ![3.75](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
+<a name="216"></a>2014/07/16 | **John Scofield**, Andy Hess, Avi Bortnick, and Terence Higgins | Montreux Jazz Club, Montreux, Switzerland | Montreux Jazz Festival | ![4.25](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 
+<a name="215"></a>2014/07/15 | **Prism**: Dave Holland, Kevin Eubanks, Craig Taborn, and Eric Harland | Montreux Jazz Club, Montreux, Switzerland | Montreux Jazz Festival | ![4.5](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 
+<a name="214"></a>2014/07/09 | **Jack DeJohnette**, Ravi Coltrane, and Matthew Garrison | Montreux Jazz Club, Montreux, Switzerland | Montreux Jazz Festival | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
+<a name="213"></a>2014/07/08 | **Robert Plant & The Sensational Space Shifters**: Robert Plant, Dave Smith, Billy Fuller, Justin Adams, Skin Tyson, John Baggot, and Juldeh Camara | Auditorium Stravinski, Montreux, Switzerland | Montreux Jazz Festival | ![3.25](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
+<a name="212"></a>2014/07/08 | **Rodrigo y Gabriela**: Rodrigo Sanchez and Gabriela Lopez | Auditorium Stravinski, Montreux, Switzerland | Montreux Jazz Festival | ![3.75](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="211"></a>2014/04/04 | **Avishai Cohen**, Nitai Hershkovits, and Daniel Dor | Chapiteau, Cully, Switzerland | Cully Jazz Festival | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="210"></a>2014/04/04 | **Rusconi**: Stefan Rusconi, Claudio Strüby, and Fabian Gisler | Chapiteau, Cully, Switzerland | Cully Jazz Festival | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="209"></a>2014/04/04 | **Julian Sartorius** | Chapiteau, Cully, Switzerland | Cully Jazz Festival | ![3.25](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
