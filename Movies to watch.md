@@ -5,7 +5,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 ## [Christopher Nolan](http://www.imdb.com/name/nm0634240)
 
 * [The Dark Knight Rises](http://www.imdb.com/title/tt1345836) (8.6)
-* [Memento](http://www.imdb.com/title/tt0209144) (8.6)
 * [The Prestige](http://www.imdb.com/title/tt0482571) (8.5)
 * [Following](http://www.imdb.com/title/tt0154506) (7.6)
 
