@@ -110,7 +110,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 * [Twelve Monkeys](http://www.imdb.com/title/tt0114746) (8.1)
 * [Brazil](http://www.imdb.com/title/tt0088846) (8.0)
 * [Fear and Loathing in Las Vegas](http://www.imdb.com/title/tt0120669) (7.8)
-* [The Fisher King](http://www.imdb.com/title/tt0101889) (7.6)
 * [The Adventures of Baron Munchausen](http://www.imdb.com/title/tt0096764) (7.2)
 * [Time Bandits](http://www.imdb.com/title/tt0081633) (7.0)
 * ([Tideland](http://www.imdb.com/title/tt0410764) (6.6))
