@@ -1,6 +1,8 @@
 # Movies
 Date | Theater | Director | Title | Alternative Title(s) | Version | Rating | Comments
 --- | --- | --- | --- | --- | --- | --- | ---
+<a name="677"></a>2014/08/27 | Le Capitole, Lausanne | Charlie Chaplin | [The Kid](http://www.imdb.com/title/tt0012349/) |  | Original | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
+<a name="676"></a>2014/08/27 | Le Capitole, Lausanne | Henry Lehrman | [Kid Auto Races at Venice](http://www.imdb.com/title/tt0004189/) |  | Original | ![2](https://raw.github.com/obruchez/public/master/img/stars2_0.png) | 
 <a name="675"></a>2014/08/22 |  | Terry Gilliam | [The Fisher King](http://www.imdb.com/title/tt0101889) |  | Original | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="674"></a>2014/08/15 | Galeries, Lausanne | Nuri Bilge Ceylan | [Kis uykusu](http://www.imdb.com/title/tt2758880/) | Winter Sleep (English) | Original | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="673"></a>2014/08/12 |  | Gus Van Sant | [Good Will Hunting](http://www.imdb.com/title/tt0119217) |  | Original | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
@@ -299,7 +301,7 @@ Date | Theater | Director | Title | Alternative Title(s) | Version | Rating | Co
 <a name="380"></a>2007/01/10 | Galeries, Lausanne | Darren Aronofsky | The Fountain |  | Original | ![3.25](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="379"></a>2007/01/03 | Cinéma de Verbier, Verbier | Nancy Meyers | The Holiday |  | Original | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="378"></a>2006/12/28 | Cèdres, Sion | Eric Lartigau | Prête-Moi Ta Main |  | Original | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
-<a name="377"></a>2006/12/07 | Capitole, Lausanne | David Bowers & Sam Fell | Flushed Away | Souris City (French) | French | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
+<a name="377"></a>2006/12/07 | Le Capitole, Lausanne | David Bowers & Sam Fell | Flushed Away | Souris City (French) | French | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="376"></a>2006/11/30 | Zinéma, Lausanne | Andrea Staka | Das Fräulein |  | Original | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="375"></a>2006/11/17 | Galeries, Lausanne | Christian Laurence | Comme Une Heure Qui N'Existait Pas |  | Original | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | Neuvième Nuit du Court.
 <a name="374"></a>2006/11/17 | Galeries, Lausanne | Oliver Schneckenbühl | Insertion |  | Original | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | Neuvième Nuit du Court.
