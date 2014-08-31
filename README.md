@@ -22,8 +22,8 @@
 ## Introspection
 
  * [About / profile](About.md) (draft)
- * [Beliefs / worldview](Beliefs.md) (in French)
  * [Life principles](Life principles.md) (in French)
+ * [Worldview / beliefs](Beliefs.md) (in French)
 
 ## Notes
 

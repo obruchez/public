@@ -1,4 +1,4 @@
-# Croyances / vision du monde
+# Vision du monde / croyances
 
 ##### Il existe une réalité matérielle objective, unique, dans laquelle nous existons et avons nos expériences subjectives.
 
@@ -64,7 +64,7 @@ Note : lorsqu'on parle de peine de mort, on pense souvent aux Etats-Unis, mais e
 
 Note : par ["revenu de base"](https://fr.wikipedia.org/wiki/Revenu_de_base) (ou "universel", "inconditionnel", etc.), j'entends : "un revenu versé par une communauté politique à tous ses membres, sur une base individuelle, sans conditions de ressources ni obligation de travail". Ce point de vue n'est pas la conséquence d'une idéologie politique ou philosophique, mais la conclusion logique de l'automatisation inévitable de toutes les tâches humaines, qu'elles soient manuelles ou intellectuelles, suite au développement d'une [intelligence artificielle](https://fr.wikipedia.org/wiki/Intelligence_artificielle) égale, puis supérieure à celle de l'être humain (voir le concept de [singularité technologique](http://en.wikipedia.org/wiki/Technological_singularity)). [Toutes choses étant égales par ailleurs](https://fr.wikipedia.org/wiki/Ceteris_paribus), la conséquence pratique de cette évolution est une augmentation du [chômage](https://fr.wikipedia.org/wiki/Ch%C3%B4mage). Un exemple à la mode est celui des [voitures autonomes](https://fr.wikipedia.org/wiki/Voiture_autonome) (dont [celle de Google](https://fr.wikipedia.org/wiki/Voiture_sans_conducteur_de_Google), la plus médiatisée), qui ont le potentiel de mettre au chômage des millions de conducteurs de taxi, de camion, de bus, etc. (sans parler des conducteurs de trains et de métros, dont la disparition a déjà commencé). Mais ça n'est qu'un exemple parmi beaucoup d'autres : [de nombreuses professions sont menacées](http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf), dans un avenir plus ou moins proche. Une idée répandue est que pour une profession supprimée (ex. les [copistes](https://fr.wikipedia.org/wiki/Copiste)) par une évolution technologique (p. ex. l'[imprimerie](https://fr.wikipedia.org/wiki/Imprimerie)), plusieurs autres professions voient nécessairement le jour. Historiquement, cela s'est vérifié à de maintes reprises, mais les progrès dans le domaine de l'intelligence artificielle, de la robotique, etc. vont de plus en plus changer la donne. A terme, tous les métiers, courants ou à venir, sont "en danger". J'utilise ici volontairement un terme négatif, mais il s'agit de changer notre manière de voir le travail. Traditionnellement, le fait de travailler est vu comme étant positif et le fait de dépendre d'assurances sociales, comme étant négatif, mais le travail n'est évidemment pas un but en soi. Il n'y a pas de raison que nous travaillions autant. La technologie est censée nous rendre plus productifs et, idéalement, nous permettre d'avoir plus de temps à disposition pour faire ce que nous souhaitons vraiment faire de nos vies (se consacrer à l'art, à la philosophie, à la science, à la spiritualité, au sport, etc.). Dans la pratique, [cela n'a malheureusement pas été le cas jusqu'à présent](http://www.vice.com/read/who-stole-the-four-hour-workday-0000406-v21n8). Reste à estimer l'échelle de temps dont on parle. Kurzweil place la singularité technologique en 2045. On ne parle donc pas d'un changement radical dans quelques millénaires ou siècles, mais dans à peine quelques décennies.
 
-##### Croyances / thèmes à ajouter
+##### Thèmes à ajouter
 
  * méditation (vs buddhist mysticism + bienfaits, version "laïque" de la prière, apprend la patience, apprend à se connaître)
  * sens/signification des choses, "but de la vie", nihilisme + absurdism/existentialism (voir articles Wikipedia)
@@ -79,9 +79,10 @@ Note : par ["revenu de base"](https://fr.wikipedia.org/wiki/Revenu_de_base) (ou 
 
 ##### A faire / idées à ajouter
 
- * catégoriser les croyances
+ * progressivement arrêter de parler de "croyances"
+ * regrouper les idées en catégories
  * écrire une introduction
- * "sortir" dieu + âme/dualisme (croyance positive: mind=brain) + conscience de la croyance en une réalité matérielle objective ?
+ * "sortir" dieu + âme/dualisme (idée positive : mind = brain) + conscience de la croyance en une réalité matérielle objective ?
  * investiguer le concept de [dualisme des propriétés](https://en.wikipedia.org/wiki/Property_dualism) (vs ["substance dualism"](https://en.wikipedia.org/wiki/Dualism_(philosophy_of_mind)#Substance_dualism))
  * insister sur le côté sémantique du débat sur le libre arbitre (cf [Miessler](http://www.danielmiessler.com/blog/disambiguation-freedom))
  * parler de la relation science/philosophie, du scientisme et mentionner [Massimo Pigliucci](http://rationallyspeaking.blogspot.ch/2010/04/about-sam-harris-claim-that-science-can.html)
