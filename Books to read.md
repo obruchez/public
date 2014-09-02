@@ -5,7 +5,6 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## Currently reading
 
 * Carl Sagan, ["Cosmos"](http://www.amazon.com/Cosmos-Carl-Sagan/dp/0394502949/) (year-long / background read)
-* Peter Boghossian, ["A Manual for Creating Atheists"](http://www.amazon.com/Manual-Creating-Atheists-Peter-Boghossian-ebook/dp/B00LKBT0MC/)
 * (Roald Dahl, ["The Collected Short Stories of Roald Dahl"](http://www.amazon.com/Collected-Short-Stories-Roald-Dahl/dp/0140158073/))
 * (H.P. Lovecraft, ["The Complete Works of H.P. Lovecraft"](https://www.goodreads.com/book/show/11851522-the-complete-works-of-h-p-lovecraft))
 
