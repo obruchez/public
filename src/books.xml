@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books title="Books (Olivier Bruchez)" description="The last books I read" link="http://github.com/obruchez/public/blob/master/Books.md" feed="http://raw.github.com/obruchez/blog/master/rss/books.rss">
+	 <book>
+        <date>2014.09.02</date>
+        <title>A Manual for Creating Atheists</title>
+        <author>Peter Boghossian</author>
+        <publishingyear>2013</publishingyear>
+        <rating>5.0</rating>
+        <url>http://books.google.com/books/about/A_Manual_for_Creating_Atheists.html?id=CBzunAEACAAJ</url>
+    </book>
     <book>
         <date>2014.08.11</date>
         <title>La Peste</title>
@@ -14,7 +22,7 @@
         <author>Paul Thagard</author>
         <publishingyear>2010</publishingyear>
         <rating>4.5</rating>
-        <url>http://books.google.ch/books?id=vS9jZWduGewC</url>
+        <url>http://books.google.com/books/about/The_Brain_and_the_Meaning_of_Life.html?id=vS9jZWduGewC</url>
     </book>
     <book>
         <date>2014.02.27</date>
@@ -23,7 +31,7 @@
         <author>Peter Hilton, Erik Bakker &amp; Francisco Canedo</author>
         <publishingyear>2013</publishingyear>
         <rating>5.0</rating>
-        <url>http://books.google.ch/books?id=cV24kgEACAAJ</url>
+        <url>http://books.google.com/books/about/Play_for_Scala.html?id=cV24kgEACAAJ</url>
     </book>
     <book>
         <date>2014.02.23</date>
@@ -32,7 +40,7 @@
         <author>Neil A. Fiore</author>
         <publishingyear>2007</publishingyear>
         <rating>3.5</rating>
-        <url>http://books.google.ch/books/about/The_Now_Habit.html?id=obLBn7OKcI8C</url>
+        <url>http://books.google.com/books/about/The_Now_Habit.html?id=obLBn7OKcI8C</url>
     </book>
     <book>
         <date>2014.01.11</date>
@@ -41,7 +49,7 @@
         <author>Christof Koch</author>
         <publishingyear>2012</publishingyear>
         <rating>5.0</rating>
-        <url>http://books.google.ch/books?id=q2xDfZ_TC-gC</url>
+        <url>http://books.google.com/books/about/Consciousness.html?id=q2xDfZ_TC-gC</url>
     </book>
     <book>
         <date>2013.12.16</date>
@@ -49,7 +57,7 @@
         <author>Joshua D. Suereth</author>
         <publishingyear>2012</publishingyear>
         <rating>4.5</rating>
-        <url>http://books.google.ch/books/about/Scala_in_Depth.html?id=4VCfSgAACAAJ</url>
+        <url>http://books.google.com/books/about/Scala_in_Depth.html?id=4VCfSgAACAAJ</url>
     </book>
     <book>
         <date>2013.12.06</date>
@@ -57,7 +65,7 @@
         <author>Gilbert Bruchez, Philippe Curdy &amp; François Baillifard</author>
         <publishingyear>2009</publishingyear>
         <rating>4.5</rating>
-        <url>http://books.google.ch/books/about/Pierres_%C3%A0_cupules_et_autres_pierres_gra.html?id=y2h-KQEACAAJ</url>
+        <url>http://books.google.com/books/about/Pierres_%C3%A0_cupules_et_autres_pierres_gra.html?id=y2h-KQEACAAJ</url>
     </book>
     <book>
         <date>2013.11.21</date>
@@ -141,7 +149,7 @@
         <author>Douglas Crockford</author>
         <publishingyear>2008</publishingyear>
         <rating>4.25</rating>
-        <url>http://books.google.ch/books/about/JavaScript_The_Good_Parts.html?id=PXa2bby0oQ0C</url>
+        <url>http://books.google.com/books/about/JavaScript_The_Good_Parts.html?id=PXa2bby0oQ0C</url>
     </book>
     <book>
         <date>2012.11.28</date>
@@ -167,7 +175,7 @@
         <author>David McRaney</author>
         <publishingyear>2011</publishingyear>
         <rating>5.25</rating>
-        <url>http://books.google.ch/books/about/You_Are_Not_So_Smart.html?id=7qJfuAAACAAJ</url>
+        <url>http://books.google.com/books/about/You_Are_Not_So_Smart.html?id=7qJfuAAACAAJ</url>
     </book>
 	<book>
 		<date>2012.04.26</date>
@@ -175,7 +183,7 @@
 		<author>Sam Harris</author>
 		<publishingyear>2012</publishingyear>
 		<rating>5.0</rating>
-        <url>http://books.google.ch/books/about/Free_Will.html?id=iRpkNcRt1IcC</url>
+        <url>http://books.google.com/books/about/Free_Will.html?id=iRpkNcRt1IcC</url>
 	</book>
 	<book>
 		<date>2012.04.06</date>
@@ -183,7 +191,7 @@
 		<author>Ben Goldacre</author>
 		<publishingyear>2008</publishingyear>
 		<rating>5.25</rating>
-        <url>http://books.google.ch/books/about/Bad_Science.html?id=wICuv0ePMYoC</url>
+        <url>http://books.google.com/books/about/Bad_Science.html?id=wICuv0ePMYoC</url>
 	</book>
 	<book>
 		<date>2011.11.14</date>
@@ -192,7 +200,7 @@
 		<author>Derek Sivers</author>
 		<publishingyear>2011</publishingyear>
 		<rating>4.75</rating>
-        <url>http://books.google.ch/books/about/Anything_You_Want.html?id=962NZwEACAAJ</url>
+        <url>http://books.google.com/books/about/Anything_You_Want.html?id=962NZwEACAAJ</url>
 	</book>
     <book>
 		<date>2011.10.20</date>
@@ -200,7 +208,7 @@
 		<author>Sam Harris &amp; Annaka Harris</author>
 		<publishingyear>2011</publishingyear>
 		<rating>4.5</rating>
-        <url>http://books.google.ch/books/about/Lying.html?id=4nMOmwEACAAJ</url>
+        <url>http://books.google.com/books/about/Lying.html?id=4nMOmwEACAAJ</url>
 	</book>
     <book>
 		<date>2011.08.13</date>
@@ -217,7 +225,7 @@
 		<author>Vincent Golay &amp; Mix &amp; Remix</author>
 		<publishingyear>2010</publishingyear>
 		<rating>5.0</rating>
-        <url>http://books.google.ch/books/about/Institutions_politiques_suisses.html?id=wPdyAAAACAAJ</url>
+        <url>http://books.google.com/books/about/Institutions_politiques_suisses.html?id=wPdyAAAACAAJ</url>
 	</book>
     <book>
 		<date>2011.03.20</date>
@@ -225,7 +233,7 @@
 		<author>Martin Odersky, Lex Spoon &amp; Bill Venners</author>
 		<publishingyear>2008</publishingyear>
 		<rating>5.25</rating>
-        <url>http://books.google.ch/books/about/Programming_in_Scala.html?id=MFjNhTjeQKkC</url>
+        <url>http://books.google.com/books/about/Programming_in_Scala.html?id=MFjNhTjeQKkC</url>
 	</book>
     <book>
 		<date>2011.02.01</date>
@@ -234,7 +242,7 @@
 		<author>Michael Fossel, Greta Blackburn &amp; Dave Woynarowski</author>
 		<publishingyear>2010</publishingyear>
 		<rating>4.75</rating>
-        <url>http://books.google.ch/books/about/The_Immortality_Edge.html?id=loTusEZNu7oC</url>
+        <url>http://books.google.com/books/about/The_Immortality_Edge.html?id=loTusEZNu7oC</url>
 	</book>
     <book>
 		<date>2010.09.27</date>
@@ -261,7 +269,7 @@
 		<author>Dylan Evans</author>
 		<publishingyear>2004</publishingyear>
 		<rating>5.25</rating>
-        <url>http://books.google.ch/books/about/Placebo.html?id=GDUuMHQO6nMC</url>
+        <url>http://books.google.com/books/about/Placebo.html?id=GDUuMHQO6nMC</url>
 	</book>
     <book>
 		<date>2010.06.03</date>
@@ -270,7 +278,7 @@
 		<author>Danielle Fecteau</author>
 		<publishingyear>2005</publishingyear>
 		<rating>2.5</rating>
-        <url>http://books.google.ch/books/about/L_effet_placebo.html?id=v3unAAAACAAJ</url>
+        <url>http://books.google.com/books/about/L_effet_placebo.html?id=v3unAAAACAAJ</url>
 	</book>
     <book>
 		<date>2010.04.30</date>
@@ -306,7 +314,7 @@
 		<author>Ray Kurzweil &amp; Terry Grossman</author>
 		<publishingyear>2009</publishingyear>
 		<rating>5.0</rating>
-        <url>http://books.google.ch/books/about/Transcend.html?id=J0XFdYjYE9AC</url>
+        <url>http://books.google.com/books/about/Transcend.html?id=J0XFdYjYE9AC</url>
 	</book>
     <book>
 		<date>2009.06.12</date>
@@ -324,7 +332,7 @@
 		<author>Philippe-Gaston Besson</author>
 		<publishingyear>2000</publishingyear>
 		<rating>4.25</rating>
-        <url>http://books.google.ch/books/about/Je_suis_fatigu%C3%A9_mais_je_ne_sais_pas_pou.html?id=Br4TAAAACAAJ</url>
+        <url>http://books.google.com/books/about/Je_suis_fatigu%C3%A9_mais_je_ne_sais_pas_pou.html?id=Br4TAAAACAAJ</url>
 	</book>
     <book>
 		<date>2009.05.27</date>
@@ -333,7 +341,7 @@
 		<author>Maurice Chappaz</author>
 		<publishingyear>1995</publishingyear>
 		<rating>4.5</rating>
-        <url>http://books.google.ch/books/about/Le_gar%C3%A7on_qui_croyait_au_paradis.html?id=-5kbAQAAIAAJ</url>
+        <url>http://books.google.com/books/about/Le_gar%C3%A7on_qui_croyait_au_paradis.html?id=-5kbAQAAIAAJ</url>
 	</book>
     <book>
 		<date>2009.05.18</date>
@@ -387,7 +395,7 @@
 		<author>Eric van der Vlist, Danny Ayers, Erik Bruchez, Joe Fawcett &amp; Alessandro Vernet</author>
 		<publishingyear>2006</publishingyear>
 		<rating>3.5</rating>
-        <url>http://books.google.ch/books/about/Professional_Web_2_0_Programming.html?id=hyV-IX8W30QC</url>
+        <url>http://books.google.com/books/about/Professional_Web_2_0_Programming.html?id=hyV-IX8W30QC</url>
 	</book>
     <book>
 		<date>2008.12.17</date>
@@ -396,7 +404,7 @@
 		<author>Yann Arthus-Bertrand</author>
 		<publishingyear>2006</publishingyear>
 		<rating>4.5</rating>
-        <url>http://books.google.ch/books/about/365_jours_pour_r%C3%A9fl%C3%A9chir_%C3%A0_notre_Terr.html?id=5P7GAwAACAAJ</url>
+        <url>http://books.google.com/books/about/365_jours_pour_r%C3%A9fl%C3%A9chir_%C3%A0_notre_Terr.html?id=5P7GAwAACAAJ</url>
 	</book>
 	<book>
 		<date>2008.08.17</date>
@@ -513,7 +521,7 @@
 		<author>George Cole</author>
 		<publishingyear>2005</publishingyear>
 		<rating>5.25</rating>
-        <url>http://books.google.ch/books/about/The_Last_Miles.html?id=ZcnGp0740TMC</url>
+        <url>http://books.google.com/books/about/The_Last_Miles.html?id=ZcnGp0740TMC</url>
 	</book>
     <book>
         <date>2004.09.19</date>
@@ -540,7 +548,7 @@
         <author>Paul Tingen</author>
         <publishingyear>2001</publishingyear>
         <rating/>
-        <url>http://books.google.ch/books/about/Miles_Beyond.html?id=LA_2EZtLQ5AC</url>
+        <url>http://books.google.com/books/about/Miles_Beyond.html?id=LA_2EZtLQ5AC</url>
     </book>
     <book>
         <date>2001.09.26</date>
@@ -558,7 +566,7 @@
         <author>Ian Carr</author>
         <publishingyear>1991</publishingyear>
         <rating/>
-        <url>http://books.google.ch/books/about/Keith_Jarrett.html?id=HhWLjNdg3uUC</url>
+        <url>http://books.google.com/books/about/Keith_Jarrett.html?id=HhWLjNdg3uUC</url>
     </book>
     <book>
         <date>1998.??.??</date>
@@ -567,7 +575,7 @@
         <author>Miles Davis &amp; Quincy Troupe</author>
         <publishingyear>1991</publishingyear>
         <rating/>
-        <url>http://books.google.ch/books/about/Miles.html?id=puBfGwAACAAJ</url>
+        <url>http://books.google.com/books/about/Miles.html?id=puBfGwAACAAJ</url>
     </book>
     <book>
         <date>1996.09.21</date>
