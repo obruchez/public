@@ -1,6 +1,7 @@
 # Movies
 Date | Theater | Director | Title | Alternative Title(s) | Version | Rating | Comments
 --- | --- | --- | --- | --- | --- | --- | ---
+<a name="678"></a>2014/09/02 | Galeries, Lausanne | Richard Linklater | [Boyhood](http://www.imdb.com/title/tt1065073/) |  | Original | ![4.5](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 
 <a name="677"></a>2014/08/27 | Le Capitole, Lausanne | Charlie Chaplin | [The Kid](http://www.imdb.com/title/tt0012349/) |  | Original | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="676"></a>2014/08/27 | Le Capitole, Lausanne | Henry Lehrman | [Kid Auto Races at Venice](http://www.imdb.com/title/tt0004189/) |  | Original | ![2](https://raw.github.com/obruchez/public/master/img/stars2_0.png) | 
 <a name="675"></a>2014/08/22 |  | Terry Gilliam | [The Fisher King](http://www.imdb.com/title/tt0101889) |  | Original | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
