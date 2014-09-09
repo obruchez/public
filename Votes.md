@@ -1,16 +1,39 @@
 # Votations
 
+## [Votation fédérale du 28 septembre 2014](http://www.bk.admin.ch/themen/pore/va/20140928/index.html?lang=fr)
+
+### Acceptez-vous l'initiative populaire "Stop à la TVA discriminatoire pour la restauration !" ?
+
+Non. Résultat : ? (?%).
+
+- Contexte général : la TVA en Suisse est très basse en comparaison internationale.
+- Il semble effectivement à première vue arbitraire d'avoir une taxation aussi différente (2.5% vs 8%) pour deux types de restauration.
+- Les arguments des initiants (attractivité touristique de la Suisse, etc.) sont peu plausibles (pas de justification).
+- Il est loin d'être clair que la baisse de TVA (p. ex. de 8% à 3,8%) dans la restauration serait répercutée sur le prix final payé par le client.
+- Il est encore moins clair qu'un changement, quel qu'il soit, profite à ceux qui en ont vraiment besoin.
+
+### Initiative populaire "Pour une caisse publique d’assurance-maladie"
+
+Oui. Résultat : ? (?%).
+
+- Contexte général : la santé est un sujet compliqué, très compliqué.
+- Le système actuel fonctionne relativement bien. Il peut sembler a priori risqué de vouloir le changer.
+- On a toutefois l'impression que la concurrence entre les assureurs est plus théorique que pratique. De plus, les risques liés à un changement de système sont probablement exagérés ("argument de la peur").
+- Les assureurs, vendant également des assurances complémentaires, semblent incapables d'agir réellement dans l'intérêt des assurés (conflit d'intérêts).
+- ["Les assureurs battent toujours campagne aux frais des assurés"](http://www.frc.ch/articles/les-assureurs-battent-toujours-campagne-aux-frais-des-assures/).
+- Les coûts élevés de la santé sont loin d'être exclusivement liés au système d'assurance obligatoire : mauvaise hygiène de vie moyenne de la population, manque de prévention, [dérives de l'industrie pharmaceutique](https://en.wikipedia.org/wiki/Bad_Pharma), coûts élevés des études pour valider de nouveaux traitements, etc. Simplifier le système de l'assurance de base permettrait de se focaliser sur des problèmes plus productifs que l'optimisation des risques (p. ex.).
+
 ## [Votation fédérale du 18 mai 2014](http://www.bk.admin.ch/themen/pore/va/20140518/index.html?lang=fr)
 
 ### Acceptez-vous l'arrêté fédéral du 19 septembre 2013 concernant les soins médicaux de base ? (Contre-projet direct à l'initiative populaire "Oui à la médecine de famille", qui a été retirée).
 
-Oui. Résultat : ? (?%).
+Oui. Résultat : oui (88%).
 
 - Il semble naturel de mettre en place ce qui est nécessaire pour que le système de santé continue à (relativement) bien fonctionner et pour se prémunir contre d'éventuelles pénuries de médedins.
 
 ### Acceptez-vous l'initiative populaire "Pour que les pédophiles ne travaillent plus avec des enfants" ?
 
-Non. Résultat : ? (?%).
+Non. Résultat : oui (63.5%).
 
 - Il s'agit d'un sujet sensible et la plupart des gens auront tendance à voter sans trop analyser les détails de l'inititative.
 - Le contre-projet indirect, déjà voté, va dans le sens de l'initiative et la rend largement inutile.
@@ -18,7 +41,7 @@ Non. Résultat : ? (?%).
 
 ### Acceptez-vous l'initiative populaire "Pour la protection de salaires équitables (Initiative sur les salaires minimums)" ?
 
-Oui. Résultat : ? (?%).
+Oui. Résultat : non (76.3%).
 
 - Par rapport à de nombreux autres pays, le système suisse marche bien. Il apparaît toutefois qu'une minorité de salariés (environ 9%) touche moins de 22 francs suisses par heure.
 - La sous-enchère salariale semble être un problème réel, réglé en partie par les conventions collectives de travail (CCT) et une surveillance de l'Etat.
@@ -32,7 +55,7 @@ Oui. Résultat : ? (?%).
 
 ### Acceptez-vous la loi fédérale du 27 septembre 2013 sur le fonds d'acquisition de l'avion de combat Gripen (loi sur le fonds Gripen)?
 
-Non. Résultat : ? (?%).
+Non. Résultat : non (53.4%).
 
 - Je ne suis pas fondalement antimilitariste, mais j'ai toujours été contre l'armée suisse telle qu'elle a existé de mon vivant. Son utilité me semble très limitée, voire inexistante, et son fonctionnement est basé sur la réalité d'un monde qui n'existe plus depuis plusieurs dizaines d'années.
 - Si je mets de côté ces considérations "anti-armée-suisse", qu'en est-il de la nécessité objective d'acheter des Gripen ? Dans [l'article du Temps du 02 mai 2014](http://www.letemps.ch/Page/Uuid/eb499ee2-d147-11e3-9e49-58295b2edc48/Le_Gripen_est-il_si_indispensable_pour_la_s%C3%A9curit%C3%A9_du_pays), Barbara Haering, loin d'être antimilitariste ("La surveillance aérienne est d’une importance primordiale. Ce n’est pas seulement une nécessité constitutionnelle, c’est aussi une volonté politique très largement partagée – même au sein du Parti socialiste.") juge que le processus d'achat n'aurait pas eu besoin d'être lancé avant 5-7 ans et ajoute : "Aujourd’hui, c’est un luxe redondant".
