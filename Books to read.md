@@ -4,6 +4,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 ## Currently reading
 
+* Sam Harris, ["Waking Up: A Guide to Spirituality Without Religion"](http://www.amazon.com/Waking-Up-Spirituality-Without-Religion/dp/1451636016)
 * Carl Sagan, ["Cosmos"](http://www.amazon.com/Cosmos-Carl-Sagan/dp/0394502949/) (year-long / background read)
 * (Roald Dahl, ["The Collected Short Stories of Roald Dahl"](http://www.amazon.com/Collected-Short-Stories-Roald-Dahl/dp/0140158073/))
 * (H.P. Lovecraft, ["The Complete Works of H.P. Lovecraft"](https://www.goodreads.com/book/show/11851522-the-complete-works-of-h-p-lovecraft))
