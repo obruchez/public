@@ -21,7 +21,7 @@ Oui. Résultat : ? (?%).
 - On a toutefois l'impression que la concurrence entre les assureurs est plus théorique que pratique. De plus, les risques liés à un changement de système sont probablement exagérés ("argument de la peur").
 - Les assureurs, vendant également des assurances complémentaires, semblent incapables d'agir réellement dans l'intérêt des assurés (conflit d'intérêts).
 - ["Les assureurs battent toujours campagne aux frais des assurés"](http://www.frc.ch/articles/les-assureurs-battent-toujours-campagne-aux-frais-des-assures/).
-- Les coûts élevés de la santé sont loin d'être exclusivement liés au système d'assurance obligatoire : mauvaise hygiène de vie moyenne de la population, manque de prévention, [dérives de l'industrie pharmaceutique](https://en.wikipedia.org/wiki/Bad_Pharma), coûts élevés des études pour valider de nouveaux traitements, etc. Simplifier le système de l'assurance de base permettrait de se focaliser sur des problèmes plus productifs que l'optimisation des risques (p. ex.).
+- Les coûts élevés de la santé sont loin d'être exclusivement liés au système d'assurance obligatoire : mauvaise hygiène de vie moyenne de la population, manque de prévention, [dérives de l'industrie pharmaceutique](https://en.wikipedia.org/wiki/Bad_Pharma), coûts élevés des études pour valider de nouveaux traitements, etc. Simplifier le système de l'assurance de base permettrait de se focaliser sur des thématiques plus prioritaires que l'optimisation des risques et le marketing.
 
 ## [Votation fédérale du 18 mai 2014](http://www.bk.admin.ch/themen/pore/va/20140518/index.html?lang=fr)
 
