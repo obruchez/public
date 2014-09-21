@@ -1,6 +1,7 @@
 # Hikes
 Date | Place | Pictures
 --- | --- | ---
+<a name="7"></a>2014/09/13 | Cabane Brunet / Cabane FXB Panossière, Switzerland | 
 <a name="6"></a>2014/08/17 | Le Catogne, Switzerland | [Le Catogne, Switzerland](https://secure.flickr.com/photos/bruchez/sets/72157646191712249/)<br/>
 <a name="5"></a>2013/10/26 | Col des Avouillons, Switzerland | [Col des Avouillons, Switzerland](https://secure.flickr.com/photos/bruchez/sets/72157637028732275/)<br/>
 <a name="4"></a>2013/09/22 | Sovereu / Col du Sarshlau / Ecuries du Crêt, Switzerland | [Sovereu / Col du Sarshlau / Ecuries du Crêt, Switzerland](https://secure.flickr.com/photos/bruchez/sets/72157636242618063)<br/>
