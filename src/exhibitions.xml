@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <exhibitions title="Exhibitions (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Exhibitions.md" feed="http://raw.github.com/obruchez/blog/master/rss/exhibitions.rss">
     <exhibition>
+        <date>2014.09.21</date>
+        <name>Les mondes de Gotlib</name>
+        <museum>Espace Arlaud, Lausanne, Switzerland</museum>
+        <rating>4.5</rating>
+    </exhibition>
+    <exhibition>
         <date>2014.08.31</date>
         <name>Renoir</name>
         <museum>Fondation Pierre Gianadda, Martigny, Switzerland</museum>

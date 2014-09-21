@@ -1,6 +1,7 @@
 # Exhibitions
 Date | Name | Museum | Rating | Comments
 --- | --- | --- | --- | ---
+<a name="15"></a>2014/09/21 | Les mondes de Gotlib | Espace Arlaud, Lausanne, Switzerland | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="14"></a>2014/08/31 | Renoir | Fondation Pierre Gianadda, Martigny, Switzerland | ![3.75](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="13"></a>2014/08/09 | Michel Lemieux - Victor Pilon / Permanent exhibition | Musée des Beaux-Arts, Montréal, QC, Canada | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="12"></a>2014/07/28 | Image x Image / Haïti In Extremis / Pierre Gauvreau. J'espérais vous voir ici / Les maîtres de l'Olympe / Permanent exhibition | Musée de la civilisation, Québec, QC, Canada | ![3.75](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
