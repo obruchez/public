@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Movies.md" feed="http://raw.github.com/obruchez/blog/master/rss/movies.rss">
   <movie>
+    <date>2014.09.23</date>
+    <theater home="true"/>
+    <director>James Ward Byrkit</director>
+    <title>Coherence</title>
+    <url>http://www.imdb.com/title/tt2866360/</url>
+    <rating>4.25</rating>
+  </movie>
+  <movie>
     <date>2014.09.20</date>
     <theater>Galeries, Lausanne</theater>
     <director>Matthew Warchus</director>
