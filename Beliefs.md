@@ -66,15 +66,16 @@ Note : par ["revenu de base"](https://fr.wikipedia.org/wiki/Revenu_de_base) (ou 
 
 ##### Thèmes à ajouter
 
- * méditation (vs buddhist mysticism + bienfaits, version "laïque" de la prière, apprend la patience, apprend à se connaître)
- * sens/signification des choses, "but de la vie", nihilisme + absurdism/existentialism (voir articles Wikipedia)
- * prison, réhabilitation, système judiciaire
- * torture
- * armée/guerre
- * droits des homosexuels (mariage, adoption, etc.)
- * droits des femmes (avortement, prostitution, etc.)
+ * armée, guerre
  * démocratie, systèmes politiques
- * vin/audiophilie (effet placebo + snobisme)
+ * droits des femmes (avortement, prostitution, etc.)
+ * droits des homosexuels (mariage, adoption, etc.)
+ * justice, prison, réhabilitation
+ * légalisation des drogues (cannabis, etc)
+ * méditation (vs buddhist mysticism + bienfaits, version "laïque" de la prière, apprend la patience, apprend à se connaître)
+ * sens, signification des choses, "but de la vie", nihilisme + absurdism/existentialism (voir articles Wikipedia)
+ * torture
+ * vin, audiophilie (effet placebo + snobisme)
  * voir aussi ["What do philosophers believe?"](http://philpapers.org/archive/BOUWDP)
 
 ##### A faire / idées à ajouter
