@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books title="Books (Olivier Bruchez)" description="The last books I read" link="http://github.com/obruchez/public/blob/master/Books.md" feed="http://raw.github.com/obruchez/blog/master/rss/books.rss">
-	 <book>
+    <book>
+        <date>2014.09.27</date>
+        <title>Waking Up</title>
+        <subtitle>A Guide to Spirituality Without Religion</subtitle>
+        <author>Sam Harris</author>
+        <publishingyear>2014</publishingyear>
+        <rating>5.0</rating>
+        <url>http://books.google.com/books/about/Waking_Up.html?id=dmhNAgAAQBAJ</url>
+    </book>
+	<book>
         <date>2014.09.02</date>
         <title>A Manual for Creating Atheists</title>
         <author>Peter Boghossian</author>
