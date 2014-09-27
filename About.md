@@ -122,17 +122,17 @@ I'm a geek. I like lists. So this is me. In lists.
 * [Transhumanism](https://en.wikipedia.org/wiki/Transhumanism)
 * [Vegetarianism](https://en.wikipedia.org/wiki/Vegetarianism)
 
-## Political views
-
-* [Center-left](https://en.wikipedia.org/wiki/Centre-left)
-* [Moderism](https://en.wikipedia.org/wiki/Moderate)
-
 ## Places
 
 * [Bagnes](https://en.wikipedia.org/wiki/Bagnes)
 * [Lausanne](https://en.wikipedia.org/wiki/Lausanne)
 * [Suisse romande](https://en.wikipedia.org/wiki/Suisse_romande)
 * [Valais](https://en.wikipedia.org/wiki/Valais)
+
+## Political views
+
+* [Center-left](https://en.wikipedia.org/wiki/Centre-left)
+* [Moderism](https://en.wikipedia.org/wiki/Moderate)
 
 ## Profiles / websites
 
