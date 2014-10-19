@@ -1,6 +1,7 @@
 # Books
 Date | Author | Title | Subtitle | Year | Rating | Comments
 --- | --- | --- | --- | --- | --- | ---
+<a name="74"></a>2014/10/18 | Roald Dahl | [The Collected Short Stories of Roald Dahl](https://en.wikipedia.org/wiki/The_Collected_Short_Stories_of_Roald_Dahl) |  | 1991 | ![4.25](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 
 <a name="73"></a>2014/09/27 | Sam Harris | [Waking Up](http://books.google.com/books/about/Waking_Up.html?id=dmhNAgAAQBAJ) | A Guide to Spirituality Without Religion | 2014 | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="72"></a>2014/09/02 | Peter Boghossian | [A Manual for Creating Atheists](http://books.google.com/books/about/A_Manual_for_Creating_Atheists.html?id=CBzunAEACAAJ) |  | 2013 | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="71"></a>2014/08/11 | Albert Camus | [La Peste](https://fr.wikipedia.org/wiki/La_Peste) |  | 1947 | ![4.5](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 
