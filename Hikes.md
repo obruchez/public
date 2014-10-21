@@ -1,6 +1,7 @@
 # Hikes
 Date | Place | Pictures
 --- | --- | ---
+<a name="9"></a>2014/10/18 | Golis du Servay, du Rogneux et des Otanes, Switzerland | 
 <a name="8"></a>2014/10/04 | Le Crêt / Vasevay, Switzerland | 
 <a name="7"></a>2014/09/13 | Cabane Brunet / Cabane FXB Panossière, Switzerland | 
 <a name="6"></a>2014/08/17 | Le Catogne, Switzerland | [Le Catogne, Switzerland](https://secure.flickr.com/photos/bruchez/sets/72157646191712249/)<br/>

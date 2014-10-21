@@ -1,6 +1,7 @@
 # Trips
 From | To | Place | Pictures
 --- | --- | --- | ---
+<a name="71"></a>2014/10/23 | 2014/10/26 | Florence, Italy | 
 <a name="70"></a>2014/07/24 | 2014/08/10 | Québec / New Brunswick, Canada | 
 <a name="69"></a>2014/04/25 | 2014/04/27 | Piedmont, Italy | [Piedmont, Italy](https://secure.flickr.com/photos/bruchez/sets/72157644206369318/)<br/>
 <a name="68"></a>2014/02/22 | 2014/02/23 | Leukerbad, Switzerland | [Leukerbad, Switzerland](https://secure.flickr.com/photos/bruchez/sets/72157644013995175)<br/>
