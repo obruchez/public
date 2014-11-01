@@ -4,7 +4,6 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 ## Currently reading
 
-* Carl Sagan, ["Cosmos"](http://www.amazon.com/Cosmos-Carl-Sagan/dp/0394502949/) (year-long / background read)
 * (H.P. Lovecraft, ["The Complete Works of H.P. Lovecraft"](https://www.goodreads.com/book/show/11851522-the-complete-works-of-h-p-lovecraft))
 
 ## Economics

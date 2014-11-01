@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books title="Books (Olivier Bruchez)" description="The last books I read" link="http://github.com/obruchez/public/blob/master/Books.md" feed="http://raw.github.com/obruchez/blog/master/rss/books.rss">
+* Carl Sagan, ["Cosmos"](http://www.amazon.com/Cosmos-Carl-Sagan/dp/0394502949/) (year-long / background read)
+    <book>
+        <date>2014.10.31</date>
+        <title>Cosmos</title>
+        <author>Carl Sagan</author>
+        <publishingyear>1980</publishingyear>
+        <rating>5.5</rating>
+        <url>https://en.wikipedia.org/wiki/Cosmos_(book)</url>
+    </book>
     <book>
         <date>2014.10.18</date>
         <title>The Collected Short Stories of Roald Dahl</title>
