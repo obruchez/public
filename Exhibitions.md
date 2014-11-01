@@ -1,6 +1,8 @@
 # Exhibitions
 Date | Name | Museum | Rating | Comments
 --- | --- | --- | --- | ---
+<a name="17"></a>2014/10/26 | Permanent exhibition | Accademia di Belle Arti di Firenze, Florence, Italy | ![3.75](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
+<a name="16"></a>2014/10/25 | Permanent exhibition | Galleria degli Uffizi, Florence, Italy | ![4.5](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 
 <a name="15"></a>2014/09/21 | Les mondes de Gotlib | Espace Arlaud, Lausanne, Switzerland | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="14"></a>2014/08/31 | Renoir | Fondation Pierre Gianadda, Martigny, Switzerland | ![3.75](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="13"></a>2014/08/09 | Michel Lemieux - Victor Pilon / Permanent exhibition | Musée des Beaux-Arts, Montréal, QC, Canada | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 

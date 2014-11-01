@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <exhibitions title="Exhibitions (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Exhibitions.md" feed="http://raw.github.com/obruchez/blog/master/rss/exhibitions.rss">
     <exhibition>
+        <date>2014.10.26</date>
+        <name>Permanent exhibition</name>
+        <museum>Accademia di Belle Arti di Firenze, Florence, Italy</museum>
+        <rating>4.75</rating>
+    </exhibition>
+    <exhibition>
+        <date>2014.10.25</date>
+        <name>Permanent exhibition</name>
+        <museum>Galleria degli Uffizi, Florence, Italy</museum>
+        <rating>5.5</rating>
+    </exhibition>
+    <exhibition>
         <date>2014.09.21</date>
         <name>Les mondes de Gotlib</name>
         <museum>Espace Arlaud, Lausanne, Switzerland</museum>
