@@ -8,7 +8,14 @@
   - 2002/02/11 : Brad Mehldau + Thierry Lang, Lausanne (? -> bad date)
   - 1998/07/08 THE KENNY WAYNE SHEPHERD BAND (http://www.montreuxsounds.com/detail2006.php?fiche=2013) (vu ou pas ?)
   -->
-
+  <concert>
+    <date>2014.11.01</date>
+    <location>Auditorium Stravinski, Montreux, Switzerland</location>
+    <musician inst="orchestra">21st Century Symphony Orchestra</musician>
+    <musician inst="director">Ludwig Wicki</musician>
+    <rating>4.25</rating>
+    <comments>"Concert John Williams".</comments>
+  </concert>
   <concert>
     <date>2014.07.19</date>
     <location>Eglise Sainte-Claire, Vevey, Switzerland</location>
