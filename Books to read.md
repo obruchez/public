@@ -4,11 +4,16 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 ## Currently reading
 
+* Carlo Strenger, ["The Fear of Insignificance: Searching for Meaning in the Twenty-First Century"](books.google.com/books/about/The_Fear_of_Insignificance.html?id=Pn9oZlvz5qkC)
 * (H.P. Lovecraft, ["The Complete Works of H.P. Lovecraft"](https://www.goodreads.com/book/show/11851522-the-complete-works-of-h-p-lovecraft))
 
 ## Economics
 
 * Thomas Piketty, ["Le Capital au XXIe siècle"](http://www.amazon.fr/Le-Capital-au-XXIe-si%C3%A8cle-ebook/dp/B00EYCOV3M/) (long book - 970 pages -, recommended by [@danielmiessler](https://twitter.com/danielmiessler))
+
+## Meditation
+
+* Alan Watts, ["Out of Your Mind: Essential Listening from the Alan Watts Audio Archives"](http://www.amazon.com/dp/1591791650) (audio book, recommended by [@avernet](https://twitter.com/avernet))
 
 ## Personal development
 
