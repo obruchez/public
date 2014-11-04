@@ -1,10 +1,31 @@
 # Votations
 
+## [Votation fédérale du 30 novembre 2014](http://www.bk.admin.ch/themen/pore/va/20141130/index.html?lang=fr)
+
+### Acceptez-vous l'initiative populaire "Halte aux privilèges fiscaux des millionnaires (abolition des forfaits fiscaux)" ?
+
+?. Résultat : ? (?%).
+
+- ["Les partisans des forfaits fiscaux font campagne avec des chiffres discutables"](http://www.letemps.ch/Page/Uuid/8b29ef22-62c3-11e4-802c-cf45623830fa/Les_partisans_des_forfaits_fiscaux_font_campagne_avec_des_chiffres_discutables)
+- ...
+
+### Acceptez-vous l'initiative populaire "Halte à la surpopulation - Oui à la préservation durable des ressources naturelles" ?
+
+?. Résultat : ? (?%).
+
+- ...
+
+### Acceptez-vous l'initiative populaire "Sauvez l'or de la Suisse (Initiative sur l'or)" ?
+
+?. Résultat : ? (?%).
+
+- ...
+
 ## [Votation fédérale du 28 septembre 2014](http://www.bk.admin.ch/themen/pore/va/20140928/index.html?lang=fr)
 
 ### Acceptez-vous l'initiative populaire "Stop à la TVA discriminatoire pour la restauration !" ?
 
-Non. Résultat : ? (?%).
+Non. Résultat : non (71.5%).
 
 - Contexte général : la TVA en Suisse est très basse en comparaison internationale.
 - Il semble effectivement à première vue arbitraire d'avoir une taxation aussi différente (2.5% vs 8%) pour deux types de restauration.
@@ -12,9 +33,9 @@ Non. Résultat : ? (?%).
 - Il est loin d'être clair que la baisse de TVA (p. ex. de 8% à 3,8%) dans la restauration serait répercutée sur le prix final payé par le client.
 - Il est encore moins clair qu'un changement, quel qu'il soit, profite à ceux qui en ont vraiment besoin.
 
-### Initiative populaire "Pour une caisse publique d’assurance-maladie"
+### Acceptez-vous l'initiative populaire "Pour une caisse publique d'assurance-maladie" ?
 
-Oui. Résultat : ? (?%).
+Oui. Résultat : non (61.8%).
 
 - Contexte général : la santé est un sujet compliqué, très compliqué.
 - Le système actuel fonctionne relativement bien. Il peut sembler a priori risqué de vouloir le changer.
