@@ -11,6 +11,10 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 * Thomas Piketty, ["Le Capital au XXIe siècle"](http://www.amazon.fr/Le-Capital-au-XXIe-si%C3%A8cle-ebook/dp/B00EYCOV3M/) (long book - 970 pages -, recommended by [@danielmiessler](https://twitter.com/danielmiessler))
 
+## Fiction
+
+* Paulo Coelho, [The Alchemist](https://en.wikipedia.org/wiki/The_Alchemist_(novel))
+
 ## Meditation
 
 * Alan Watts, ["Out of Your Mind: Essential Listening from the Alan Watts Audio Archives"](http://www.amazon.com/dp/1591791650) (audio book, recommended by [@avernet](https://twitter.com/avernet))
