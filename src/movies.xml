@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies title="Movies (Olivier Bruchez)" link="http://github.com/obruchez/public/blob/master/Movies.md" feed="http://raw.github.com/obruchez/blog/master/rss/movies.rss">
   <movie>
+    <date>2014.11.09</date>
+    <theater>Cinétoile Malley Lumières, Lausanne-Prilly</theater>
+    <director>David Fincher</director>
+    <title>Gone Girl</title>
+    <url>http://www.imdb.com/title/tt2267998/</url>
+    <rating>5.25</rating>
+  </movie>
+  <movie>
     <date>2014.09.23</date>
     <theater home="true"/>
     <director>James Ward Byrkit</director>

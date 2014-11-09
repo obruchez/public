@@ -1,6 +1,7 @@
 # Movies
 Date | Theater | Director | Title | Alternative Title(s) | Version | Rating | Comments
 --- | --- | --- | --- | --- | --- | --- | ---
+<a name="682"></a>2014/11/09 | Cinétoile Malley Lumières, Lausanne-Prilly | David Fincher | [Gone Girl](http://www.imdb.com/title/tt2267998/) |  | Original | ![4.25](https://raw.github.com/obruchez/public/master/img/stars4_5.png) | 
 <a name="681"></a>2014/09/23 |  | James Ward Byrkit | [Coherence](http://www.imdb.com/title/tt2866360/) |  | Original | ![3.25](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="680"></a>2014/09/20 | Galeries, Lausanne | Matthew Warchus | [Pride](http://www.imdb.com/title/tt3169706/) |  | Original | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="679"></a>2014/09/20 | Galeries, Lausanne | Robert Löbel | [Wind](http://www.robertloebel.com/WIND) |  | Original | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
