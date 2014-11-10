@@ -11,7 +11,7 @@
   <concert>
     <date>2014.11.01</date>
     <location>Auditorium Stravinski, Montreux, Switzerland</location>
-    <musician inst="orchestra">21st Century Symphony Orchestra</musician>
+    <musician inst="orchestra" leader="true">21st Century Symphony Orchestra</musician>
     <musician inst="director">Ludwig Wicki</musician>
     <rating>4.25</rating>
     <comments>"Concert John Williams".</comments>
