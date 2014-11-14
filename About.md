@@ -114,12 +114,20 @@ I'm a geek. I like lists. So this is me. In lists.
 
 ## Philosophical views
 
+* [Absurdism](https://en.wikipedia.org/wiki/Absurdism)
 * [Agnosticism](https://en.wikipedia.org/wiki/Agnosticism)
 * [Atheism](https://en.wikipedia.org/wiki/Atheism)
+* [Consequentialism](https://en.wikipedia.org/wiki/Consequentialism)
+* [Determinism](https://en.wikipedia.org/wiki/Determinism)
+* [Empiricism](https://en.wikipedia.org/wiki/Empiricism)
+* [Existentialism](https://en.wikipedia.org/wiki/Existentialism)
 * [Humanism](https://en.wikipedia.org/wiki/Humanism)
+* [Moral realism](https://en.wikipedia.org/wiki/Moral_realism)
+* [Naturalism](https://en.wikipedia.org/wiki/Naturalism_(philosophy))
 * [Singularitarianism](https://en.wikipedia.org/wiki/Singularitarianism)
 * [Skepticism](https://en.wikipedia.org/wiki/Skepticism)
 * [Transhumanism](https://en.wikipedia.org/wiki/Transhumanism)
+* [Utilitarianism](https://en.wikipedia.org/wiki/Utilitarianism)
 * [Vegetarianism](https://en.wikipedia.org/wiki/Vegetarianism)
 
 ## Places
