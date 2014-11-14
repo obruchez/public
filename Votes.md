@@ -6,18 +6,21 @@
 
 ?. Résultat : ? (?%).
 
-- ["Les partisans des forfaits fiscaux font campagne avec des chiffres discutables"](http://www.letemps.ch/Page/Uuid/8b29ef22-62c3-11e4-802c-cf45623830fa/Les_partisans_des_forfaits_fiscaux_font_campagne_avec_des_chiffres_discutables)
+- ["Les partisans des forfaits fiscaux font campagne avec des chiffres discutables"](http://www.letemps.ch/Page/Uuid/8b29ef22-62c3-11e4-802c-cf45623830fa/Les_partisans_des_forfaits_fiscaux_font_campagne_avec_des_chiffres_discutables).
+- Déjà aboli dans certains cantons.
+- Compétition entre cantons/communes au final contre-productive ([jeu à somme nulle](https://fr.wikipedia.org/wiki/Jeu_%C3%A0_somme_nulle)).
+- Suisse se rend peut-être légèrement moins attractive depuis l'étranger, mais peut se le permettre.
 - ...
 
 ### Acceptez-vous l'initiative populaire "Halte à la surpopulation - Oui à la préservation durable des ressources naturelles" ?
 
-?. Résultat : ? (?%).
+Non. Résultat : ? (?%).
 
 - ...
 
 ### Acceptez-vous l'initiative populaire "Sauvez l'or de la Suisse (Initiative sur l'or)" ?
 
-?. Résultat : ? (?%).
+Non. Résultat : ? (?%).
 
 - ...
 
