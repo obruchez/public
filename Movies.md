@@ -390,7 +390,7 @@ Date | Theater | Director | Title | Alternative Title(s) | Version | Rating | Co
 <a name="296"></a>2005/11/12 | Casino, Lausanne |  | The 40 Year Old Virgin | 40 Ans, Toujours Puceau (French) | French | ![2.5](https://raw.github.com/obruchez/public/master/img/stars2_5.png) | 
 <a name="295"></a>2005/11/04 | Galeries, Lausanne |  | Tim Burton's Corpse Bride | Les Noces Funèbres De Tim Burton (French) | Original | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="294"></a>2005/11/03 | Galeries, Lausanne |  | Match Point |  | Original | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
-<a name="293"></a>2005/10/27 | Galeries, Lausanne |  | Wallace & Gromit: The Curse Of The Wereabbit | Broken Flowers (French) | Original | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
+<a name="293"></a>2005/10/27 | Galeries, Lausanne |  | Broken Flowers |  | Original | ![4](https://raw.github.com/obruchez/public/master/img/stars4_0.png) | 
 <a name="292"></a>2005/10/12 | Cine Qua Non, Lausanne |  | Wallace & Gromit: The Curse Of The Wereabbit | Wallace Et Gromit Le Mystère Du Lapin-Garou (French) | Original | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="291"></a>2005/10/05 | Europlex Flon, Lausanne |  | Shane Black's Kiss Kiss, Bang Bang |  | Original | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
 <a name="290"></a>2005/08/23 | Cine Qua Non, Lausanne |  | The Hitchhiker's Guide To The Galaxy | Le Guide Du Voyageur Galactique (French) | Original | ![3.5](https://raw.github.com/obruchez/public/master/img/stars3_5.png) | 
