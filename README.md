@@ -2,7 +2,7 @@
 
 ## Introspection
 
- * [About / profile](Introspection/About.md) (draft)
+ * [About / profile](Introspection/About.md)
  * [Life principles](Introspection/Life principles.md) (in French)
  * [Worldview](Introspection/Beliefs.md) (in French)
 

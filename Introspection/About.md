@@ -1,4 +1,4 @@
-# About
+# About / profile
 
 I'm a geek. I like lists. So this is me. In lists.
 
