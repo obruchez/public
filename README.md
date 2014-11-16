@@ -4,7 +4,7 @@
 
  * [About / profile](Introspection/About.md)
  * [Life principles](Introspection/Life principles.md) (in French)
- * [Worldview](Introspection/Beliefs.md) (in French)
+ * [Worldview](Introspection/Worldview.md) (in French)
 
 ## Lists / lifelogging
 
