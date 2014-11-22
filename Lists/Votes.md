@@ -4,25 +4,39 @@
 
 ### Acceptez-vous l'initiative populaire "Halte aux privilèges fiscaux des millionnaires (abolition des forfaits fiscaux)" ?
 
-?. Résultat : ? (?%).
+Oui. Résultat : ? (?%).
 
+- Lorsqu'il s'agit de fiscalité, il semble effectivement injuste (inéquitable) de traiter certains individus spécialement.
+- Les forfaits fiscaux sont déjà abolis dans certains cantons.
+- La compétition engendrée entre cantons/communes est au final contre-productive ([jeu à somme nulle](https://fr.wikipedia.org/wiki/Jeu_%C3%A0_somme_nulle)).
+- Il existe des outils pour compenser les déséquilibres financiers entre cantons/communes ([péréquation financière](https://fr.wikipedia.org/wiki/P%C3%A9r%C3%A9quation_financi%C3%A8re_en_Suisse), etc.), qui pourraient être adaptés si nécessaire.
+- Un des arguments des opposants est que [la Suisse n'est pas le seul pays à pratiquer des forfaits fiscaux](http://www.swissrespect.ch/v2/assets/files/Fiscalite/LeTemps.ch%20%20A%20chaque%20pays%20sa%20formule%20pour%20attirer%20les%20riches.pdf) (Portugal, Grande-Bretagne, Irlande, Malte, etc.). Cela ne se passe apparemment pas sans problèmes ("Au Portugal cependant, le système est au cœur d’un
+scandale (...)") et, à nouveau, c'est un jeu à somme nulle entre les pays.
+- En abolissant ces forfaits, la Suisse se rend peut-être moins attractive par rapport à des pays étrangers (à vérifier...), mais elle peut se le permettre. Elle a d'autres atouts, moins artificiels et arbitraires.
+- Selon le comité d'initiative, la question du contrôle est problématique (domiciliation effective, interdiction d'exercer une activité lucrative, etc.). J'ai de la peine à voir comment un contrôle efficace pourrait être mis en place de manière réaliste, surtout avec la possibilité de travailler à distance (internet).
+- L'argument de la suppression des déductions fiscales possibles (troisième pilier, etc.) me paraît être un "argument de la peur" (ou "de la pente glissante"). Il me semble issu d'une interprétation trop stricte de l'initiative. Parlons d'un problème à la fois.
+- Exemple du Valais : [Maurice Tornay parle, en cas de oui, de 20 millions de recettes fiscales en moins.](http://www.rts.ch/info/suisse/6290357-maurice-tornay-les-forfaits-fiscaux-ce-n-est-pas-une-excentricite.html) Mise en perspective : cela ne représente que 60 francs par habitant (en moyenne). Dans le pire des cas, il me semble que l'on est donc loin de quelque chose d'insurmontable.
 - ["Les partisans des forfaits fiscaux font campagne avec des chiffres discutables"](http://www.letemps.ch/Page/Uuid/8b29ef22-62c3-11e4-802c-cf45623830fa/Les_partisans_des_forfaits_fiscaux_font_campagne_avec_des_chiffres_discutables).
-- Déjà aboli dans certains cantons.
-- Compétition entre cantons/communes au final contre-productive ([jeu à somme nulle](https://fr.wikipedia.org/wiki/Jeu_%C3%A0_somme_nulle)).
-- Suisse se rend peut-être légèrement moins attractive depuis l'étranger, mais peut se le permettre.
-- ...
 
 ### Acceptez-vous l'initiative populaire "Halte à la surpopulation - Oui à la préservation durable des ressources naturelles" ?
 
 Non. Résultat : ? (?%).
 
-- ...
+- Je suis d'accord, dans une certaine mesure, avec le diagnostic : la Suisse est un petit pays, qui ne peut pas supporter une croissance démographique trop importante (problème des ressources, des infrastructures, de l'immobilier, etc.).
+- L'initiative se concentre toutefois uniquement sur un aspect du problème : les étrangers. En cela, elle est xénophobe.
+- Idée volontairement provocatrice : il y a plus de 82'000 naissances en Suisse par année ([chiffres de 2013](http://www.bfs.admin.ch/bfs/portal/fr/index/themen/01/06/blank/key/02/01.html)). L'initiative propose, dans les faits, de réduire l'immigration de 87'000 ([solde migratoire en 2013](http://www.bfs.admin.ch/bfs/portal/fr/index/themen/01/06/blank/key/08.html)) à 17'000. Pourquoi ne pas encourager une baisse des naissances en Suisse de 82'000 à 12'000 ? Le résultat en terme de nombre d'habitants serait le même. Pourquoi les Suisses ont-ils besoin de faire autant d'enfants ? En quoi un bébé suisse est-il fondamentalement meilleur qu'un immigré étranger ?
+- L'aspect [planification familiale](https://fr.wikipedia.org/wiki/Planification_familiale) de l'initiative se concentre sur des symptômes superficiels et montre par là même clairement son manque de vision. Il ne s'agit pas de limiter les naissances à l'étranger, mais d'y encourager l'accès à l'éducation, d'y encourager le droit des femmes, etc. Bien plus difficile, certes, mais on s'attaquerait alors aux vrais problèmes plutôt que de se donner vagument bonne conscience.
+- L'initiative ne propose rien pour s'attaquer aux problèmes écologiques par lesquels elle est supposée être motivée (ressources, énergies, etc.).
+- Elle ne propose rien non plus concernant les autres problèmes liés à une population grandissante (infrastructures, transports, immobilier, etc.).
+- Bref, c'est le prototype même de l'initiative simpliste et non constructive, encourageant un repli sur soi au lieu d'une ouverture constructive et active au monde.
+- Enfin, cette initiative mettrait, une fois de plus, comme le [9 février 2014](http://www.bk.admin.ch/themen/pore/va/20140209/index.html?lang=fr), la Suisse en position très inconfortable par rapport à l'Europe, avec tous les dommages collatéraux que cela représente (financement de la recherche, etc.).
 
 ### Acceptez-vous l'initiative populaire "Sauvez l'or de la Suisse (Initiative sur l'or)" ?
 
 Non. Résultat : ? (?%).
 
-- ...
+- La Banque nationale suisse (BNS) a des outils plus modernes que l'or pour mener à bien sa mission.
+- Difficile de comprendre les arguments du comité d'initiative (réaction irrationnelle de repli sur soi ?).
 
 ## [Votation fédérale du 28 septembre 2014](http://www.bk.admin.ch/themen/pore/va/20140928/index.html?lang=fr)
 
