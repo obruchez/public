@@ -91,12 +91,16 @@ Ma position n'est pas un [nihilisme](https://fr.wikipedia.org/wiki/Nihilisme) au
 ## Thèmes à ajouter
 
  * armée, guerre
- * démocratie, systèmes politiques
+ * armes (port d'armes, etc.)
+ * drogues (légalisation, cannabis, etc)
  * droits des enfants (éducation, travail, etc.)
  * droits des femmes (avortement, [prostitution](http://danielmiessler.com/blog/current-view-prostitution/), etc.)
  * droits des homosexuels (mariage, adoption, etc.)
- * justice, prison, réhabilitation
- * légalisation des drogues (cannabis, etc)
+ * état (lien état / individu, lien état / économie, etc.)
+ * finance
+ * justice (prison, réhabilitation, etc.)
+ * politique (démocratie, systèmes politiques, etc.)
+ * santé (assurances, assistance au suicide, etc.)
  * torture
  * vin, audiophilie (effet placebo et snobisme)
  * voir aussi ["What do philosophers believe?"](http://philpapers.org/archive/BOUWDP)
