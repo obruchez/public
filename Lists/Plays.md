@@ -1,6 +1,7 @@
 # Plays
 Date | Location | Name | Author | Director | Adaptation | Translation | Actors | Rating | Comments
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+<a name="74"></a>2014/12/05 | Pulloff Théâtres, Lausanne, Switzerland | Macbeth | William Shakespeare | Geoffrey Dyson |  | Antoinette Monod & Geoffrey Dyson | René-Claude Emery, Darius Kehtari, Thierry Jorand, Virginie Meisterhans, Frank Michaud, Fanny Pelichet, David Pion, Pierric Tenthorey, and Raoul Teuscher | ![4](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | 
 <a name="73"></a>2014/06/20 | Pulloff Théâtres, Lausanne, Switzerland | Ring | Leonore Confino | Sarah Marcuse |  |  | Maud Faucherre, David Marchetto, and Alyssa Hochstaetter | ![4](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | 
 <a name="72"></a>2014/05/09 | Salle René Gonzalez, Théâtre de Vidy, Lausanne, Switzerland | Galilée, le mécano | Marco Paolini, Francesco Niccolini & Michela Signori | Charles Tordjman |  | Daniela Almansi, Franceso Niccolini & Marco Paolini | Marco Paolini | ![3.75](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | 
 <a name="71"></a>2014/05/03 | La Passerelle, Théâtre de Vidy, Lausanne, Switzerland | Les Demeurées | Jeanne Benameur | Didier Carrier |  |  | Maria Perez, Laurence Vielle, and Béatrice Graf | ![3.75](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | 
