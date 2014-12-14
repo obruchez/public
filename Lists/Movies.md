@@ -1,7 +1,8 @@
 # Movies
 Date | Theater | Director | Title | Alternative Title(s) | Version | Rating | Comments
 --- | --- | --- | --- | --- | --- | --- | ---
-<a name="684"></a>2014/11/29 | Corso, Martigny | Louis Clichy & Alexandre Astier | [Astérix: Le domaine des dieux](http://www.imdb.com/title/tt3759416/) |  | Original | ![3.75](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | 
+<a name="685"></a>2014/12/13 | Corso, Martigny | Francis Lawrence | [Hunger Games: La révolte - 1ère partie](http://www.imdb.com/title/tt1951265/) | The Hunger Games: Mockingjay - Part 1 (English) | French | ![3.5](https://raw.github.com/obruchez/public-src/master/img/stars3_5.png) | 
+<a name="684"></a>2014/11/29 | Corso, Martigny | Louis Clichy & Alexandre Astier | [Astérix: Le domaine des dieux](http://www.imdb.com/title/tt3759416/) |  | Original | ![3.5](https://raw.github.com/obruchez/public-src/master/img/stars3_5.png) | 
 <a name="683"></a>2014/11/16 | Cinétoile Malley Lumières, Lausanne-Prilly | Christopher Nolan | [Interstellar](http://www.imdb.com/title/tt0816692/) |  | Original | ![4](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | 
 <a name="682"></a>2014/11/09 | Cinétoile Malley Lumières, Lausanne-Prilly | David Fincher | [Gone Girl](http://www.imdb.com/title/tt2267998/) |  | Original | ![4.25](https://raw.github.com/obruchez/public-src/master/img/stars4_5.png) | 
 <a name="681"></a>2014/09/23 |  | James Ward Byrkit | [Coherence](http://www.imdb.com/title/tt2866360/) |  | Original | ![3.25](https://raw.github.com/obruchez/public-src/master/img/stars3_5.png) | 
