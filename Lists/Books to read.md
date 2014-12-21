@@ -32,7 +32,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Scott Atran, ["In Gods We Trust: The Evolutionary Landscape of Religion"](http://www.amazon.com/Gods-Trust-Evolutionary-Landscape-Evolution-ebook/dp/B0058RTMXG/) (mentioned by Carlo Strenger in "The Fear of Insignificance: Searching for Meaning in the Twenty-First Century")
 * Russell Blackford & Damien Broderick, ["Intelligence Unbound: The Future of Uploaded and Machine Minds"](http://www.amazon.com/Intelligence-Unbound-Future-Uploaded-Machine/dp/1118736281/) (mentioned on [kurzweilai.net](http://www.kurzweilai.net/intelligence-unbound-the-future-of-uploaded-and-machine-minds))
 * Michael S. A. Graziano, ["Consciousness and the Social Brain"](http://www.amazon.com/Consciousness-Social-Brain-Michael-Graziano/dp/0199928649) (summarized by [@SelfAwarePatter](https://twitter.com/SelfAwarePatter) on [his blog](http://selfawarepatterns.com/2013/12/30/consciousness-and-the-social-brain-a-review/))
-* Jean François Revel & Matthieu Ricard, ["Le moine et le philosophe"](http://www.amazon.fr/moine-philosophe-Jean-Fran-ois-Revel-ebook/dp/B009HBIGCC/) (mentioned by Carlo Strenger in "The Fear of Insignificance")
+* Jean-François Revel & Matthieu Ricard, ["Le moine et le philosophe"](http://www.amazon.fr/moine-philosophe-Jean-Fran-ois-Revel-ebook/dp/B009HBIGCC/) (mentioned by Carlo Strenger in "The Fear of Insignificance")
 * Theodore Schick & Lewis Vaughn, ["How to Think About Weird Things: Critical Thinking for a New Age"](http://www.amazon.com/How-Think-About-Weird-Things/dp/007353577X) (recommended by Peter Boghossian, author of "A Manual for Creating Atheists")
 
 ## Physics
