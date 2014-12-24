@@ -4,7 +4,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 ## Currently reading
 
-* Carlo Strenger, ["The Fear of Insignificance: Searching for Meaning in the Twenty-First Century"](books.google.com/books/about/The_Fear_of_Insignificance.html?id=Pn9oZlvz5qkC)
+* Paulo Coelho, [The Alchemist](https://en.wikipedia.org/wiki/The_Alchemist_(novel))
 * (H.P. Lovecraft, ["The Complete Works of H.P. Lovecraft"](https://www.goodreads.com/book/show/11851522-the-complete-works-of-h-p-lovecraft))
 
 ## Economics
@@ -14,10 +14,6 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## Education
 
 * Martha C. Nussbaum, ["Cultivating Humanity: A Classical Defense of Reform in Liberal Education"](http://www.amazon.com/Cultivating-Humanity-Martha-C-Nussbaum-ebook/dp/B00J8CVOHY/) (mentioned by Carlo Strenger in "The Fear of Insignificance")
-
-## Fiction
-
-* Paulo Coelho, [The Alchemist](https://en.wikipedia.org/wiki/The_Alchemist_(novel))
 
 ## Meditation
 
