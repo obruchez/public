@@ -1,6 +1,7 @@
 # Books
 Date | Author | Title | Subtitle | Year | Rating | Comments
 --- | --- | --- | --- | --- | --- | ---
+<a name="76"></a>2014/12/23 | Carlo Strenger | [The Fear of Insignificance](http://books.google.ch/books/about/The_Fear_of_Insignificance.html?id=kYkqAQAAMAAJ) | Searching for Meaning in the Twenty-First Century | 2011 | ![4](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | 
 <a name="75"></a>2014/10/31 | Carl Sagan | [Cosmos](https://en.wikipedia.org/wiki/Cosmos_(book)) |  | 1980 | ![4.5](https://raw.github.com/obruchez/public-src/master/img/stars4_5.png) | 
 <a name="74"></a>2014/10/18 | Roald Dahl | [The Collected Short Stories of Roald Dahl](https://en.wikipedia.org/wiki/The_Collected_Short_Stories_of_Roald_Dahl) |  | 1991 | ![4.25](https://raw.github.com/obruchez/public-src/master/img/stars4_5.png) | 
 <a name="73"></a>2014/09/27 | Sam Harris | [Waking Up](http://books.google.com/books/about/Waking_Up.html?id=dmhNAgAAQBAJ) | A Guide to Spirituality Without Religion | 2014 | ![4](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | 
