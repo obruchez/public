@@ -79,7 +79,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 
 ## [Robert Zemeckis](http://www.imdb.com/name/nm0000709)
 
-* [Back to the Future](http://www.imdb.com/title/tt0088763) (8.5) (already seen on TV a long time ago)
 * [Back to the Future Part II](http://www.imdb.com/title/tt0096874) (7.8)
 * [Back to the Future Part III](http://www.imdb.com/title/tt0099088) (7.4)
 * [Contact](http://www.imdb.com/title/tt0118884) (7.4)
