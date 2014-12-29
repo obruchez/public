@@ -1,8 +1,9 @@
 # Movies
 Date | Theater | Director | Title | Alternative Title(s) | Version | Rating | Comments
 --- | --- | --- | --- | --- | --- | --- | ---
+<a name="689"></a>2014/12/28 |  | Robert Zemeckis | [Back to the Future Part III](http://www.imdb.com/title/tt0099088/) |  | Original | ![3.5](https://raw.github.com/obruchez/public-src/master/img/stars3_5.png) | 
 <a name="688"></a>2014/12/27 |  | Robert Zemeckis | [Back to the Future Part II](http://www.imdb.com/title/tt0096874/) |  | Original | ![3.25](https://raw.github.com/obruchez/public-src/master/img/stars3_5.png) | 
-<a name="687"></a>2014/12/26 |  | Robert Zemeckis | [Back to the Future](http://www.imdb.com/title/tt0088763/) |  | Original | ![3.5](https://raw.github.com/obruchez/public-src/master/img/stars3_5.png) | 
+<a name="687"></a>2014/12/26 |  | Robert Zemeckis | [Back to the Future](http://www.imdb.com/title/tt0088763/) |  | Original | ![3.75](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | 
 <a name="686"></a>2014/12/25 |  | Chris Buck & Jennifer Lee | [Frozen](http://www.imdb.com/title/tt2294629/) |  | Original | ![3.25](https://raw.github.com/obruchez/public-src/master/img/stars3_5.png) | 
 <a name="685"></a>2014/12/13 | Corso, Martigny | Francis Lawrence | [Hunger Games: La révolte - 1ère partie](http://www.imdb.com/title/tt1951265/) | The Hunger Games: Mockingjay - Part 1 (English) | French | ![3.5](https://raw.github.com/obruchez/public-src/master/img/stars3_5.png) | 
 <a name="684"></a>2014/11/29 | Corso, Martigny | Louis Clichy & Alexandre Astier | [Astérix: Le domaine des dieux](http://www.imdb.com/title/tt3759416/) |  | Original | ![3.5](https://raw.github.com/obruchez/public-src/master/img/stars3_5.png) | 
