@@ -115,7 +115,6 @@ Ma position n'est pas un [nihilisme](https://fr.wikipedia.org/wiki/Nihilisme) au
 
 ## A faire / idées à ajouter
 
- * regrouper les idées en catégories
  * écrire une introduction
  * "sortir" Dieu + âme / dualisme (idée positive : mind = brain) + conscience de la partie réalité matérielle objective ?
  * investiguer le concept de [dualisme des propriétés](https://en.wikipedia.org/wiki/Property_dualism) (vs ["substance dualism"](https://en.wikipedia.org/wiki/Dualism_(philosophy_of_mind)#Substance_dualism))
@@ -126,3 +125,5 @@ Ma position n'est pas un [nihilisme](https://fr.wikipedia.org/wiki/Nihilisme) au
  * physique quantique : est-ce que je tends vraiment vers l'interprétation de [de Broglie–Bohm](https://en.wikipedia.org/wiki/De_Broglie-Bohm_theory) ?
  * déterminisme : lien réalité/mathématique (extême : idée d’univers mathématique) 
  * déterminisme / libre arbitre : principe d'incertitude (quantum indeterminacy) pas la même chose que [self-caused causes](http://www.informationphilosopher.com/freedom/causa_sui.html)
+ * libre arbitre : ["The dark side of free will"](https://www.youtube.com/watch?v=rfOMqehl-ZA) par Gregg Caruso (conséquences sociales négatives de la croyance en un libre arbitre)
+ * système nerveux : comment généraliser ? autres systèmes possibles (extra-terrestres, consciences/intelligence artificielles, panthéisme, etc.) ?
