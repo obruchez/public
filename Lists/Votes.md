@@ -4,7 +4,7 @@
 
 ### Acceptez-vous l'initiative populaire "Halte aux privilèges fiscaux des millionnaires (abolition des forfaits fiscaux)" ?
 
-Oui. Résultat : ? (?%).
+Oui. Résultat : non (59.2%).
 
 - Lorsqu'il s'agit de fiscalité, il semble effectivement injuste (inéquitable) de traiter certains individus spécialement.
 - Les forfaits fiscaux sont déjà abolis dans certains cantons.
@@ -20,7 +20,7 @@ scandale (...)") et, à nouveau, c'est un jeu à somme nulle entre les pays.
 
 ### Acceptez-vous l'initiative populaire "Halte à la surpopulation - Oui à la préservation durable des ressources naturelles" ?
 
-Non. Résultat : ? (?%).
+Non. Résultat : non (74.1%).
 
 - Je suis d'accord, dans une certaine mesure, avec le diagnostic : la Suisse est un petit pays, qui ne peut pas supporter une croissance démographique trop importante (problème des ressources, des infrastructures, de l'immobilier, etc.).
 - L'initiative se concentre toutefois uniquement sur un aspect du problème : les étrangers. En cela, elle est xénophobe.
@@ -33,7 +33,7 @@ Non. Résultat : ? (?%).
 
 ### Acceptez-vous l'initiative populaire "Sauvez l'or de la Suisse (Initiative sur l'or)" ?
 
-Non. Résultat : ? (?%).
+Non. Résultat : non (77.3%).
 
 - La Banque nationale suisse (BNS) a des outils plus modernes que l'or pour mener à bien sa mission.
 - Difficile de comprendre les arguments du comité d'initiative (réaction irrationnelle de repli sur soi ?).
