@@ -4,7 +4,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 ## Currently reading
 
-* Paulo Coelho, [The Alchemist](https://en.wikipedia.org/wiki/The_Alchemist_(novel))
+* François Rabelais, [Gargantua](https://fr.wikipedia.org/wiki/Gargantua)
 * (H.P. Lovecraft, ["The Complete Works of H.P. Lovecraft"](https://www.goodreads.com/book/show/11851522-the-complete-works-of-h-p-lovecraft))
 
 ## Economics
