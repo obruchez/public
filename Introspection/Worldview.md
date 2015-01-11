@@ -107,6 +107,7 @@ Ma position n'est pas un [nihilisme](https://fr.wikipedia.org/wiki/Nihilisme) au
  * état (lien état / individu, lien état / économie, etc.)
  * finance
  * justice (prison, réhabilitation, etc.)
+ * liberté d'expression, de la presse, de blasphémer (cf Charlie Hebdo)
  * politique (démocratie, systèmes politiques, etc.)
  * santé (assurances, assistance au suicide, etc.)
  * torture
