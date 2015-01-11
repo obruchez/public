@@ -26,7 +26,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 * Grégoire Cozon, ["Fatigue chronique"](https://encrypted.google.com/books/about/Fatigue_chronique.html?id=8UFrPQAACAAJ) (bought in 2005 - do I really want to read this?)
 
-## Interviews
+## Interviews
 
 * Maurice Chappaz, ["À-Dieu-Vat !"](https://encrypted.google.com/books/about/%C3%80_Dieu_vat.html?id=NJwbAQAAIAAJ)
 
@@ -64,7 +64,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 * Richard Dawkins, ["The Magic of Reality: How We Know What's Really True"](https://en.wikipedia.org/wiki/The_Magic_of_Reality)
 
-## Switzerland
+## Switzerland
 
 * Maurice Chappaz, ["Portrait des Valaisans"](https://encrypted.google.com/books/about/Portrait_des_Valaisans_en_l%C3%A9gende_et_en.html?id=82MkAQAAIAAJ)
 
