@@ -105,6 +105,7 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 * [Paths of Glory](http://www.imdb.com/title/tt0050825) (8.5)
 * [A Clockwork Orange](http://www.imdb.com/title/tt0066921) (8.4) (already seen on DVD)
 * [Full Metal Jacket](http://www.imdb.com/title/tt0093058) (8.4) (already seen on DVD)
+* [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/) (8.3) (already seen on TV and at the cinema)
 * [Barry Lyndon](http://www.imdb.com/title/tt0072684) (8.1)
 * [The Killing](http://www.imdb.com/title/tt0049406) (8.1)
 * [Spartacus](http://www.imdb.com/title/tt0054331) (8.0)
@@ -147,6 +148,12 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 * [Husbands and Wives](http://www.imdb.com/title/tt0104466) (7.6)
 
 ...
+
+## Misc
+
+* Yann Arthus-Bertrand, ["Home"](http://www.imdb.com/title/tt1014762/) (8.6)
+* Roy Andersson, ["Songs from the Second Floor"](http://www.imdb.com/title/tt0120263/) (7.7) (already seen at the cinema)
+* Dennis Hopper, ["The Hot Spot"](http://www.imdb.com/title/tt0099797/) (6.4) (for the Miles Davis soundtrack)
 
 ## To-do
 
