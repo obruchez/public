@@ -4,7 +4,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 ## Currently reading
 
-* François Rabelais, [Gargantua](https://fr.wikipedia.org/wiki/Gargantua)
+* François Rabelais, ["Gargantua"](https://fr.wikipedia.org/wiki/Gargantua)
 * (H.P. Lovecraft, ["The Complete Works of H.P. Lovecraft"](https://www.goodreads.com/book/show/11851522-the-complete-works-of-h-p-lovecraft))
 
 ## Economics
@@ -15,18 +15,43 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 * Martha C. Nussbaum, ["Cultivating Humanity: A Classical Defense of Reform in Liberal Education"](http://www.amazon.com/Cultivating-Humanity-Martha-C-Nussbaum-ebook/dp/B00J8CVOHY/) (mentioned by Carlo Strenger in "The Fear of Insignificance")
 
+## Fiction
+
+* Douglas Adams, ["The Hitchhiker's Guide to the Galaxy"](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)
+* Emily Brontë, ["Wuthering Heights"](https://en.wikipedia.org/wiki/Wuthering_Heights)
+* Arthur C. Clarke, ["Childhood's End"](https://en.wikipedia.org/wiki/Childhood%27s_End)
+* S. Corinna Bille, ["La Fraise Noire"](https://encrypted.google.com/books/about/La_fraise_noire.html?id=0EUVAAAAMAAJ) (read a long time ago?)
+
+## Health
+
+* Grégoire Cozon, ["Fatigue chronique"](https://encrypted.google.com/books/about/Fatigue_chronique.html?id=8UFrPQAACAAJ) (bought in 2005 - do I really want to read this?)
+
+## Interviews
+
+* Maurice Chappaz, ["À-Dieu-Vat !"](https://encrypted.google.com/books/about/%C3%80_Dieu_vat.html?id=NJwbAQAAIAAJ)
+
 ## Meditation
 
+* Stephan Bodian, ["Zen ! La méditation pour les nuls"](https://encrypted.google.com/books/about/Zen_La_m%C3%A9ditation_pour_les_nuls.html?id=Qo6gOwAACAAJ) (I started reading this in 2004, never finished it)
 * Alan Watts, ["Out of Your Mind: Essential Listening from the Alan Watts Audio Archives"](http://www.amazon.com/dp/1591791650) (audio book, recommended by [@avernet](https://twitter.com/avernet))
+
+## Music
+
+* Frank Alkyer, ["The Miles Davis Reader"](https://encrypted.google.com/books/about/The_Miles_Davis_Reader.html?id=Dx2Ty5xVg04C)
+* Peter Elsdon, ["The Köln Concert"](https://encrypted.google.com/books/about/Keith_Jarrett_s_The_Koln_Concert.html?id=HdO7iH2Sz6IC) (received from Peter Elsdon)
 
 ## Personal development
 
+* David Allen, ["Getting Things Done"](https://en.wikipedia.org/wiki/Getting_Things_Done) (already read - read again?)
 * Leo Babauta, ["The One Skill: How Mastering the Art of Letting Go Will Change Your Life"](http://zenhabits.net/lg/) (free book, mentioned by [@avernet](https://twitter.com/avernet))
+* FruitfulTime, ["Stop Procrastination Now"](https://dollswithoutheads.files.wordpress.com/2008/10/stop-procrastination-now.pdf) (and I should probably start by now reading this book...)
 
 ## Philosophy
 
 * Scott Atran, ["In Gods We Trust: The Evolutionary Landscape of Religion"](http://www.amazon.com/Gods-Trust-Evolutionary-Landscape-Evolution-ebook/dp/B0058RTMXG/) (mentioned by Carlo Strenger in "The Fear of Insignificance: Searching for Meaning in the Twenty-First Century")
 * Russell Blackford & Damien Broderick, ["Intelligence Unbound: The Future of Uploaded and Machine Minds"](http://www.amazon.com/Intelligence-Unbound-Future-Uploaded-Machine/dp/1118736281/) (mentioned on [kurzweilai.net](http://www.kurzweilai.net/intelligence-unbound-the-future-of-uploaded-and-machine-minds))
+* André Comte-Sponville, ["L'esprit de l'athéisme : Introduction à une spiritualité sans Dieu"](https://fr.wikipedia.org/wiki/L%27Esprit_de_l%27ath%C3%A9isme) (Comte-Sponville sounds like an "old atheist", who thinks that religion can be good - e.g. lead to a more moral life)
+* Paul Davies, ["The Mind Of God"](https://en.wikipedia.org/wiki/The_Mind_of_God)
 * Michael S. A. Graziano, ["Consciousness and the Social Brain"](http://www.amazon.com/Consciousness-Social-Brain-Michael-Graziano/dp/0199928649) (summarized by [@SelfAwarePatter](https://twitter.com/SelfAwarePatter) on [his blog](http://selfawarepatterns.com/2013/12/30/consciousness-and-the-social-brain-a-review/))
 * Jean-François Revel & Matthieu Ricard, ["Le moine et le philosophe"](http://www.amazon.fr/moine-philosophe-Jean-Fran-ois-Revel-ebook/dp/B009HBIGCC/) (mentioned by Carlo Strenger in "The Fear of Insignificance")
 * Theodore Schick & Lewis Vaughn, ["How to Think About Weird Things: Critical Thinking for a New Age"](http://www.amazon.com/How-Think-About-Weird-Things/dp/007353577X) (recommended by Peter Boghossian, author of "A Manual for Creating Atheists")
@@ -34,6 +59,14 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## Physics
 
 * Max Tegmark, ["Our Mathematical Universe: My Quest for the Ultimate Nature of Reality"](http://www.amazon.com/Our-Mathematical-Universe-Ultimate-Reality-ebook/dp/B00DXKJ2DA/) (summarized by [@SelfAwarePatter](https://twitter.com/SelfAwarePatter) on [his blog](http://selfawarepatterns.com/2014/04/21/tegmarks-mathematical-universe-hypothesis/))
+
+## Science
+
+* Richard Dawkins, ["The Magic of Reality: How We Know What's Really True"](https://en.wikipedia.org/wiki/The_Magic_of_Reality)
+
+## Switzerland
+
+* Maurice Chappaz, ["Portrait des Valaisans"](https://encrypted.google.com/books/about/Portrait_des_Valaisans_en_l%C3%A9gende_et_en.html?id=82MkAQAAIAAJ)
 
 ## Technology
 
