@@ -74,13 +74,12 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 * [Before Midnight](http://www.imdb.com/title/tt2209418/) (8.0)
 * [Waking Life](http://www.imdb.com/title/tt0243017/) (7.8)
 * [Tape](http://www.imdb.com/title/tt0275719/) (7.3)
+* [A Scanner Darkly ](http://www.imdb.com/title/tt0405296/) (7.1) (based on novel by Philip K. Dick)
 
 ...
 
 ## [Robert Zemeckis](http://www.imdb.com/name/nm0000709)
 
-* [Back to the Future Part II](http://www.imdb.com/title/tt0096874) (7.8)
-* [Back to the Future Part III](http://www.imdb.com/title/tt0099088) (7.4)
 * [Contact](http://www.imdb.com/title/tt0118884) (7.4)
 * [Flight](http://www.imdb.com/title/tt1907668) (7.3)
 
@@ -154,6 +153,60 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 * Yann Arthus-Bertrand, ["Home"](http://www.imdb.com/title/tt1014762/) (8.6)
 * Roy Andersson, ["Songs from the Second Floor"](http://www.imdb.com/title/tt0120263/) (7.7) (already seen at the cinema)
 * Dennis Hopper, ["The Hot Spot"](http://www.imdb.com/title/tt0099797/) (6.4) (for the Miles Davis soundtrack)
+
+## Selections from [25 Spectacular Movies You (Probably) Haven’t Seen](http://www.highexistence.com/25-spectacular-movies-you-probably-havent-seen/)
+
+* Guy Ritchie, [Snatch.](http://www.imdb.com/title/tt0208092/) (8.3) (seen in 2000)
+* Richard Schenkman, [The Man from Earth](http://www.imdb.com/title/tt0756683/) (8.0)
+* Paul Thomas Anderson, [Magnolia](http://www.imdb.com/title/tt0175880/) (8.0)
+* Tomas Alfredson, [Let the Right One In](http://www.imdb.com/title/tt1139797/) (8.0)
+* Paul Thomas Anderson, [Boogie Nights](http://www.imdb.com/title/tt0118749/) (7.9)
+* John Carney, [Once](http://www.imdb.com/title/tt0907657/) (7.9)
+* Richard Linklater, [Waking Life](http://www.imdb.com/title/tt0243017/) (7.8)
+* Stephen Chow, [Kung Fu Hustle](http://www.imdb.com/title/tt0373074/) (7.8)
+* Woody Allen, [Midnight in Paris](http://www.imdb.com/title/tt1605783/) (7.7) (seen in 2011)
+* Zach Braff, [Garden State](http://www.imdb.com/title/tt0333766/) (7.6)
+* Cary Fukunaga, [Sin Nombre](http://www.imdb.com/title/tt1127715/) (7.6) (seen in 2009)
+* Darren Aronofsky, [The Fountain](http://www.imdb.com/title/tt0414993/) (7.4) (was disappointed the first time I saw this - did I miss something?)
+* Paul Thomas Anderson, [Punch-Drunk Love](http://www.imdb.com/title/tt0272338/) (7.3)
+* Sean Ellis, [Cashback](http://www.imdb.com/title/tt0460740/) (7.3)
+* Gaspar Noé, [Enter the Void](http://www.imdb.com/title/tt1191111/) (7.3)
+* Neil Marshall, [The Descent](http://www.imdb.com/title/tt0435625/) (7.3) (horror movie - not a fan of this genre in general)
+
+## Selections from [25 Spectacular Movies You (Probably) Haven’t Seen Pt. 2](http://www.highexistence.com/25-spectacular-movies-you-probably-havent-seen-part-2/)
+
+* Juan José Campanella, [The Secret in Their Eyes](http://www.imdb.com/title/tt1305806/) (8.3)
+* Vincent Paronnaud & Marjane Satrapi, [Persepolis](http://www.imdb.com/title/tt0808417/) (8.0)
+* Tarsem Singh , [The Fall](http://www.imdb.com/title/tt0460791/) (7.9)
+* Nicolas Winding Refn, [Drive](http://www.imdb.com/title/tt0780504/) (7.8)
+* Shane Black, [Kiss Kiss Bang Bang](http://www.imdb.com/title/tt0373469/) (7.7)
+* Rian Johnson, [Brick](http://www.imdb.com/title/tt0393109/) (7.5)
+* Milos Forman, [Man on the Moon](http://www.imdb.com/title/tt0125664/) (7.5)
+* Raymond De Felitta, [City Island](http://www.imdb.com/title/tt1174730/) (7.4)
+* Kim Jee-woon, [The Good, the Bad, the Weird](http://www.imdb.com/title/tt0901487/) (7.3)
+* Steven Spielberg, [The Terminal](http://www.imdb.com/title/tt0362227/) (7.3) (seen in 2004)
+* David Slade, [Hard Candy](http://www.imdb.com/title/tt0424136/) (7.2)
+
+## Selections from [25 Spectacular Movies You (Probably) Haven’t Seen Pt. 3](http://www.highexistence.com/25-spectacular-movies-probably-havent-seen-pt-3/)
+
+* Joshua Oppenheimer, [The Act of Killing](http://www.imdb.com/title/tt2375605/) (8.2)
+* Andrei Tarkovsky, [Solyaris](http://www.imdb.com/title/tt0069293/) (8.1)
+* Ki-duk Kim, [Spring, Summer, Fall, Winter... and Spring ](http://www.imdb.com/title/tt0374546/) (8.1) (seen in 2004)
+* Jaco Van Dormael, [Mr. Nobody](http://www.imdb.com/title/tt0485947/) (7.9)
+* Jacques Audiard, [Un prophète](http://www.imdb.com/title/tt1235166/) (7.9)
+* Anders Thomas Jensen, [Adams æbler](http://www.imdb.com/title/tt0418455/) (7.9) (seen in 2006)
+* Andrew Niccol, [Gattaca](http://www.imdb.com/title/tt0119177/) (7.8) (seen in 1997?)
+* Kinji Fukasaku, [Battle Royale](http://www.imdb.com/title/tt0266308/) (7.8)
+* Paolo Sorrentino, [The Great Beauty](http://www.imdb.com/title/tt2358891/) (7.7)
+* Pan Nalin, [Samsara](http://www.imdb.com/title/tt0196069/) (7.7)
+* Tom Ford, [A Single Man](http://www.imdb.com/title/tt1315981/) (7.6)
+* Hans Weingartner, [The Edukators](http://www.imdb.com/title/tt0408777/) (7.6)
+* Dennis Gansel, [Die Welle](http://www.imdb.com/title/tt1063669/) (7.6)
+* Tom Tykwer, [Perfume: The Story of a Murderer ](http://www.imdb.com/title/tt0396171/) (7.5)
+* Neil Burger, [Limitless](http://www.imdb.com/title/tt1219289/) (7.4)
+* John Carpenter, [They Live](http://www.imdb.com/title/tt0096256/) (7.3)
+* Jamie Uys, [The Gods Must Be Crazy](http://www.imdb.com/title/tt0080801/) (7.3) (seen on TV a very long time ago)
+* Antonio Naharro & Álvaro Pastor, [Yo, también](http://www.imdb.com/title/tt1289449/) (7.2)
 
 ## To-do
 
