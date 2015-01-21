@@ -72,6 +72,10 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 * Nick Bostrom, ["Superintelligence: Paths, Dangers, Strategies"](http://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom-ebook/dp/B00LOOCGB2/) (recommended by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg))
 
+## Vegetarianism
+
+* Renan Larue, ["Le végétarisme et ses ennemis: Vingt-cinq siècles de débats"](http://www.amazon.fr/v-g-tarisme-ses-ennemis-Vingt-cinq-si-cles-ebook/dp/B00SBZ69TC/)
+
 ## To-do
 
 * migrate my Google Drive document to this list
