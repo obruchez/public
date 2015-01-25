@@ -46,6 +46,15 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 
 ...
 
+## [Ingmar Bergman](http://www.imdb.com/name/nm0000005/)
+
+* [The Seventh Seal](http://www.imdb.com/title/tt0050976/) (8.3)
+* [Wild Strawberries](http://www.imdb.com/title/tt0050986/) (8.3)
+* [Persona](http://www.imdb.com/title/tt0060827/) (8.2)
+* [Fanny and Alexander](http://www.imdb.com/title/tt0083922/) (8.2)
+
+...
+
 ## [Jean-Pierre Jeunet](http://www.imdb.com/name/nm0000466)
 
 * [La cité des enfants perdus](http://www.imdb.com/title/tt0112682) (7.7)
