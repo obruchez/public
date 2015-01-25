@@ -2,6 +2,18 @@
 
 Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 
+## [Andrei Tarkovsky](http://www.imdb.com/name/nm0001789/)
+
+* [Andrei Rublev](http://www.imdb.com/title/tt0060107/) (8.3)
+* [Stalker](http://www.imdb.com/title/tt0079944/) (8.2)
+* [Nostalgia](http://www.imdb.com/title/tt0086022/) (8.2)
+* [Solaris](http://www.imdb.com/title/tt0069293/) (8.1)
+* [The Sacrifice](http://www.imdb.com/title/tt0091670/) (8.1)
+* [The Mirror](http://www.imdb.com/title/tt0072443/) (8.1)
+* [Ivan's Childhood](http://www.imdb.com/title/tt0056111/) (8.1)
+
+...
+
 ## [Christopher Nolan](http://www.imdb.com/name/nm0634240)
 
 * [The Dark Knight Rises](http://www.imdb.com/title/tt1345836) (8.6)
@@ -191,7 +203,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 ## Selections from [25 Spectacular Movies You (Probably) Haven’t Seen Pt. 3](http://www.highexistence.com/25-spectacular-movies-probably-havent-seen-pt-3/)
 
 * Joshua Oppenheimer, [The Act of Killing](http://www.imdb.com/title/tt2375605/) (8.2)
-* Andrei Tarkovsky, [Solyaris](http://www.imdb.com/title/tt0069293/) (8.1)
 * Ki-duk Kim, [Spring, Summer, Fall, Winter... and Spring ](http://www.imdb.com/title/tt0374546/) (8.1) (seen in 2004)
 * Jaco Van Dormael, [Mr. Nobody](http://www.imdb.com/title/tt0485947/) (7.9)
 * Jacques Audiard, [Un prophète](http://www.imdb.com/title/tt1235166/) (7.9)
