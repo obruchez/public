@@ -18,13 +18,21 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## Fiction
 
 * Douglas Adams, ["The Hitchhiker's Guide to the Galaxy"](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)
+* René Barjavel, ["La Nuit des temps"](https://fr.wikipedia.org/wiki/La_Nuit_des_temps) (recommended by [@behaghel](https://twitter.com/behaghel))
+* René Barjavel, ["Le Grand Secret"](https://fr.wikipedia.org/wiki/Le_Grand_Secret_%28roman%29) (recommended by [@behaghel](https://twitter.com/behaghel))
+* René Barjavel, ["Ravage"](https://fr.wikipedia.org/wiki/Ravage_%28roman%29) (recommended by [@behaghel](https://twitter.com/behaghel))
 * Emily Brontë, ["Wuthering Heights"](https://en.wikipedia.org/wiki/Wuthering_Heights)
 * Arthur C. Clarke, ["Childhood's End"](https://en.wikipedia.org/wiki/Childhood%27s_End)
 * S. Corinna Bille, ["La Fraise Noire"](https://encrypted.google.com/books/about/La_fraise_noire.html?id=0EUVAAAAMAAJ) (read a long time ago?)
 
 ## Health
 
+* R. Barker Bausell, ["Snake Oil Science: The Truth about Complementary and Alternative Medicine"](http://www.amazon.com/Snake-Oil-Science-Complementary-Alternative/dp/0195383427)
+* Jean Brissonnet, ["Les pseudo-médecines : Un serment d'hypocrites"](http://www.amazon.fr/pseudo-m%C3%A9decines-Un-serment-dhypocrites/dp/2915312028/)
 * Grégoire Cozon, ["Fatigue chronique"](https://encrypted.google.com/books/about/Fatigue_chronique.html?id=8UFrPQAACAAJ) (bought in 2005 - do I really want to read this?)
+* Edzard Ernst, ["Healing, Hype, or Harm?: A Critical Analysis of Complementary or Alternative Medicine"](http://www.amazon.com/Healing-Hype-Harm-Complementary-Alternative/dp/1845401182/)
+* Ben Goldacre, ["Bad Pharma: How drug companies mislead doctors and harm patients"](http://www.amazon.co.uk/dp/0007350740/)
+* Mikhail Tombak, ["Can We Live 150 Years?"](http://www.amazon.com/Can-Live-150-Years-Maintenance/dp/0972732845/)
 
 ## Interviews
 
@@ -58,10 +66,22 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 ## Physics
 
+* Eric B. Baum, ["What Is Thought?"](http://www.amazon.com/exec/obidos/tg/detail/-/0262025485/) (recommended by [@r3mix](https://twitter.com/r3mix))
+* Richard P. Feynman, ["QED: The Strange Theory of Light and Matter"](http://www.amazon.com/QED-Strange-Princeton-Science-Library/dp/0691125759/) (recommended on Quora)
+* Richard P. Feynman, ["What Do You Care What Other People Think?"](http://en.wikipedia.org/wiki/What_Do_You_Care_What_Other_People_Think%3F)
+* Brian Greene, ["The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory"](https://en.wikipedia.org/wiki/The_Elegant_Universe)
+* Brian Greene, ["The Fabric of the Cosmos: Space, Time, and the Texture of Reality"](https://en.wikipedia.org/wiki/The_Fabric_of_the_Cosmos)
+* Darrell Huff, ["How to Lie with Statistics"](https://en.wikipedia.org/wiki/How_to_Lie_with_Statistics) (recommended by [@behaghel](https://twitter.com/behaghel))
+* David Lindley, "Where Does The Weirdness Go?: Why Quantum Mechanics Is Strange, But Not As Strange As You Think"](http://www.amazon.com/Where-Does-The-Weirdness-Mechanics/dp/0465067867) (recommended on Quora)
 * Max Tegmark, ["Our Mathematical Universe: My Quest for the Ultimate Nature of Reality"](http://www.amazon.com/Our-Mathematical-Universe-Ultimate-Reality-ebook/dp/B00DXKJ2DA/) (summarized by [@SelfAwarePatter](https://twitter.com/SelfAwarePatter) on [his blog](http://selfawarepatterns.com/2014/04/21/tegmarks-mathematical-universe-hypothesis/))
+
+## Psychology
+
+* Daniel Kahneman, ["Thinking, Fast and Slow"](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) (recommended by [@mistertricker](https://twitter.com/mistertricker))
 
 ## Science
 
+* Richard Dawkins, ["The Extended Phenotype"](https://en.wikipedia.org/wiki/The_Extended_Phenotype) (considered by Richard Dawkins himself as his best book)
 * Richard Dawkins, ["The Magic of Reality: How We Know What's Really True"](https://en.wikipedia.org/wiki/The_Magic_of_Reality)
 
 ## Switzerland
