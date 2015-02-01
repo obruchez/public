@@ -1,6 +1,7 @@
 # Concerts
 Date | Musicians | Location | Event | Rating | Comments
 --- | --- | --- | --- | --- | ---
+<a name="220"></a>2015/01/28 | **Mary's Private Eyes**: Adrian Held, Patrick Macheret, Nathalie Winiger, and Sarah Artacho | Cave du Bleu Lézard, Lausanne, Switzerland |  | ![2.5](https://raw.github.com/obruchez/public-src/master/img/stars2_5.png) | 
 <a name="219"></a>2014/11/01 | **21st Century Symphony Orchestra** and Ludwig Wicki | Auditorium Stravinski, Montreux, Switzerland |  | ![3.25](https://raw.github.com/obruchez/public-src/master/img/stars3_5.png) | "Concert John Williams".
 <a name="218"></a>2014/07/19 | **Yaron Herman and David Greilsammer**: Yaron Herman, David Greilsammer, Massimo Pinca, and Geneva Camerata | Eglise Sainte-Claire, Vevey, Switzerland | Montreux Jazz Festival | ![4.25](https://raw.github.com/obruchez/public-src/master/img/stars4_5.png) | 
 <a name="217"></a>2014/07/18 | **Herbie Hancock and Wayne Shorter**: Herbie Hancock and Wayne Shorter | Auditorium Stravinski, Montreux, Switzerland | Montreux Jazz Festival | ![3.75](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | 
