@@ -66,23 +66,23 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 ## Physics
 
-* Eric B. Baum, ["What Is Thought?"](http://www.amazon.com/exec/obidos/tg/detail/-/0262025485/) (recommended by [@r3mix](https://twitter.com/r3mix))
 * Richard P. Feynman, ["QED: The Strange Theory of Light and Matter"](http://www.amazon.com/QED-Strange-Princeton-Science-Library/dp/0691125759/) (recommended on Quora)
 * Richard P. Feynman, ["What Do You Care What Other People Think?"](http://en.wikipedia.org/wiki/What_Do_You_Care_What_Other_People_Think%3F)
 * Brian Greene, ["The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory"](https://en.wikipedia.org/wiki/The_Elegant_Universe)
 * Brian Greene, ["The Fabric of the Cosmos: Space, Time, and the Texture of Reality"](https://en.wikipedia.org/wiki/The_Fabric_of_the_Cosmos)
-* Darrell Huff, ["How to Lie with Statistics"](https://en.wikipedia.org/wiki/How_to_Lie_with_Statistics) (recommended by [@behaghel](https://twitter.com/behaghel))
-* David Lindley, "Where Does The Weirdness Go?: Why Quantum Mechanics Is Strange, But Not As Strange As You Think"](http://www.amazon.com/Where-Does-The-Weirdness-Mechanics/dp/0465067867) (recommended on Quora)
+* David Lindley, ["Where Does The Weirdness Go?: Why Quantum Mechanics Is Strange, But Not As Strange As You Think"](http://www.amazon.com/Where-Does-The-Weirdness-Mechanics/dp/0465067867) (recommended on Quora)
 * Max Tegmark, ["Our Mathematical Universe: My Quest for the Ultimate Nature of Reality"](http://www.amazon.com/Our-Mathematical-Universe-Ultimate-Reality-ebook/dp/B00DXKJ2DA/) (summarized by [@SelfAwarePatter](https://twitter.com/SelfAwarePatter) on [his blog](http://selfawarepatterns.com/2014/04/21/tegmarks-mathematical-universe-hypothesis/))
 
 ## Psychology
 
+* Eric B. Baum, ["What Is Thought?"](http://www.amazon.com/exec/obidos/tg/detail/-/0262025485/) (recommended by [@r3mix](https://twitter.com/r3mix))
 * Daniel Kahneman, ["Thinking, Fast and Slow"](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) (recommended by [@mistertricker](https://twitter.com/mistertricker))
 
 ## Science
 
 * Richard Dawkins, ["The Extended Phenotype"](https://en.wikipedia.org/wiki/The_Extended_Phenotype) (considered by Richard Dawkins himself as his best book)
 * Richard Dawkins, ["The Magic of Reality: How We Know What's Really True"](https://en.wikipedia.org/wiki/The_Magic_of_Reality)
+* Darrell Huff, ["How to Lie with Statistics"](https://en.wikipedia.org/wiki/How_to_Lie_with_Statistics) (recommended by [@behaghel](https://twitter.com/behaghel))
 
 ## Switzerland
 
