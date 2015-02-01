@@ -176,6 +176,9 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 * Alejandro Amenábar, [Abre los ojos](http://www.imdb.com/title/tt0125659/) (7.9) ([Vanilla Sky](http://www.imdb.com/title/tt0259711/) is a remake of this movie)
 * Roy Andersson, [Songs from the Second Floor](http://www.imdb.com/title/tt0120263/) (7.7) (already seen at the cinema)
 * Dennis Hopper, [The Hot Spot](http://www.imdb.com/title/tt0099797/) (6.4) (for the Miles Davis soundtrack)
+* Jessie Nelson, [I Am Sam](http://www.imdb.com/title/tt0277027/) (7.6)
+* Robert Barry Ptolemy, [Transcendent Man](http://www.imdb.com/title/tt1117394/) (7.2) (documentary about Ray Kurzweil)
+* Michèle Rosier, [Mon coeur est rouge](http://www.imdb.com/title/tt0074913/) (7.8) (some music composed by Keith Jarrett)
 
 ## Selections from [25 Spectacular Movies You (Probably) Haven’t Seen](http://www.highexistence.com/25-spectacular-movies-you-probably-havent-seen/)
 
