@@ -1,6 +1,7 @@
 # Movies
 Date | Theater | Director | Title | Alternative Title(s) | Version | Rating | Comments
 --- | --- | --- | --- | --- | --- | --- | ---
+<a name="693"></a>2015/02/08 | Galeries, Lausanne | Morten Tyldum | [The Imitation Game](http://www.imdb.com/title/tt2084970/) |  | Original | ![4](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | 
 <a name="692"></a>2015/01/25 | Galeries, Lausanne | Jean-Marc Vallée | [Wild](http://www.imdb.com/title/tt2305051/) |  | Original | ![3.75](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | 
 <a name="691"></a>2015/01/24 | Galeries, Lausanne | James Marsh | [The Theory of Everything](http://www.imdb.com/title/tt2980516/) |  | Original | ![3.75](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | 
 <a name="690"></a>2015/01/17 | Casino, Martigny | Damien Chazelle | [Whiplash](http://www.imdb.com/title/tt2582802/) |  | Original | ![4.25](https://raw.github.com/obruchez/public-src/master/img/stars4_5.png) | 
