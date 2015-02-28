@@ -1,6 +1,7 @@
 # Movies
 Date | Theater | Director | Title | Alternative Title(s) | Version | Rating | Comments
 --- | --- | --- | --- | --- | --- | --- | ---
+<a name="695"></a>2015/02/28 |  | Guillermo del Toro | [El laberinto del fauno](http://www.imdb.com/title/tt0457430/) | Pan's Labyrinth (English) | Original | ![4](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | 
 <a name="694"></a>2015/02/15 | Galeries, Lausanne | Ruben Östlund | [Turist](http://www.imdb.com/title/tt3630276/) | Force Majeure (English) | Original | ![4](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | 
 <a name="693"></a>2015/02/08 | Galeries, Lausanne | Morten Tyldum | [The Imitation Game](http://www.imdb.com/title/tt2084970/) |  | Original | ![4](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | 
 <a name="692"></a>2015/01/25 | Galeries, Lausanne | Jean-Marc Vallée | [Wild](http://www.imdb.com/title/tt2305051/) |  | Original | ![3.75](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | 
