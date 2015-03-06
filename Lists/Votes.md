@@ -1,5 +1,15 @@
 # Votations
 
+## [Votation fédérale du 8 mars 2015](http://www.bk.admin.ch/themen/pore/va/20150308/index.html?lang=fr)
+
+### Acceptez-vous l’initiative populaire "Aider les familles ! Pour des allocations pour enfant et des allocations de formation professionnelle exonérées de l’impôt" ?
+
+Non. Résultat : ? (?%).
+
+### Acceptez-vous l’initiative populaire "Remplacer la taxe sur la valeur ajoutée par une taxe sur l’énergie" ?
+
+Non. Résultat : ? (?%).
+
 ## [Votation fédérale du 30 novembre 2014](http://www.bk.admin.ch/themen/pore/va/20141130/index.html?lang=fr)
 
 ### Acceptez-vous l'initiative populaire "Halte aux privilèges fiscaux des millionnaires (abolition des forfaits fiscaux)" ?
