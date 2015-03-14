@@ -24,6 +24,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Emily Brontë, ["Wuthering Heights"](https://en.wikipedia.org/wiki/Wuthering_Heights)
 * Arthur C. Clarke, ["Childhood's End"](https://en.wikipedia.org/wiki/Childhood%27s_End)
 * S. Corinna Bille, ["La Fraise Noire"](https://encrypted.google.com/books/about/La_fraise_noire.html?id=0EUVAAAAMAAJ) (read a long time ago?)
+* Terry Pratchett, ["The Colour of Magic"](https://en.wikipedia.org/wiki/The_Colour_of_Magic) (recommended by François)
 
 ## Health
 
