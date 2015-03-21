@@ -5,3 +5,4 @@
 * [Neural Networks for Machine Learning](https://class.coursera.org/neuralnets-2012-001) by Geoffrey Hinton (2013-12-25)
 * [Unpredictable? Randomness, Chance and Free Will](https://class.coursera.org/randomness-001) by Valerio Scarani (2014-03-08) ([Statement of Accomplishment](../Coursera/Coursera (Unpredictable - Randomness, Chance and Free Will).pdf))
 * [Machine Learning](https://class.coursera.org/ml-005) by Andrew Ng (2014-05-14) ([Statement of Accomplishment](../Coursera/Coursera (Machine Learning).pdf))
+* [Introduction to Astronomy](https://class.coursera.org/introastro-003) by Ronen Plesser (2015-03-20) [Statement of Accomplishment](../Coursera/Coursera (Introduction to Astronomy).pdf))
