@@ -4,11 +4,21 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 ## Currently reading
 
-* François Rabelais, ["Gargantua"](https://fr.wikipedia.org/wiki/Gargantua)
+* Amélie Nothomb, ["Stupeur et Tremblements"](https://fr.wikipedia.org/wiki/Stupeur_et_Tremblements)
 * (H.P. Lovecraft, ["The Complete Works of H.P. Lovecraft"](https://www.goodreads.com/book/show/11851522-the-complete-works-of-h-p-lovecraft))
+
+##  Business / entrepreneurship
+
+* Jason Fried, ["Rework"](http://www.amazon.com/ReWork-Change-Way-Work-Forever-ebook/dp/B003ELY7PG/) (mentioned by [@epsitec](https://twitter.com/epsitec))
+
+## Computer science
+
+* Benjamin C. Pierce, ["Types and Programming Languages"](http://www.cis.upenn.edu/~bcpierce/tapl/) (recommended by [@icassina](https://twitter.com/icassina), quite "academic"/complex; see also [code in Scala](https://github.com/ilya-klyuchnikov/tapl-scala))
+* Harold Simmons, ["An Introduction to Category Theory"](http://www.amazon.com/Introduction-Category-Theory-Harold-Simmons/dp/0521283043/) (also recommended by [@icassina](https://twitter.com/icassina)?)
 
 ## Economics
 
+* Ronald Findlay, ["Power and Plenty: Trade, War, and the World Economy in the Second Millennium (Princeton Economic History of the Western World)"](http://www.amazon.com/Power-Plenty-Millennium-Princeton-Economic-ebook/dp/B003SNJEPS/) (recommended by Christoph G.)
 * Thomas Piketty, ["Le Capital au XXIe siècle"](http://www.amazon.fr/Le-Capital-au-XXIe-si%C3%A8cle-ebook/dp/B00EYCOV3M/) (long book - 970 pages -, recommended by [@danielmiessler](https://twitter.com/danielmiessler))
 
 ## Education
@@ -22,9 +32,15 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * René Barjavel, ["Le Grand Secret"](https://fr.wikipedia.org/wiki/Le_Grand_Secret_%28roman%29) (recommended by [@behaghel](https://twitter.com/behaghel))
 * René Barjavel, ["Ravage"](https://fr.wikipedia.org/wiki/Ravage_%28roman%29) (recommended by [@behaghel](https://twitter.com/behaghel))
 * Emily Brontë, ["Wuthering Heights"](https://en.wikipedia.org/wiki/Wuthering_Heights)
+* John Christopher, ["The Tripods"](https://en.wikipedia.org/wiki/The_Tripods) (trilogy)
 * Arthur C. Clarke, ["Childhood's End"](https://en.wikipedia.org/wiki/Childhood%27s_End)
+* Friedrich Dürrenmatt, ["Der Tunnel"](https://en.wikipedia.org/wiki/The_Tunnel_%28short_story%29) (short story, mentioned by [@icassina](https://twitter.com/icassina))
 * S. Corinna Bille, ["La Fraise Noire"](https://encrypted.google.com/books/about/La_fraise_noire.html?id=0EUVAAAAMAAJ) (read a long time ago?)
-* Terry Pratchett, ["The Colour of Magic"](https://en.wikipedia.org/wiki/The_Colour_of_Magic) (recommended by François)
+* Terry Pratchett, ["The Carpet People"](https://en.wikipedia.org/wiki/The_Carpet_People) (recommended by François?)
+* Terry Pratchett, ["The Colour of Magic"](https://en.wikipedia.org/wiki/The_Colour_of_Magic) (recommended by François in 2015)
+* Terry Pratchett, ["The Dark Side of the Sun"](https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Sun) (recommended by François?)
+* Terry Pratchett, ["Strata"](https://en.wikipedia.org/wiki/Strata_%28novel%29) (recommended by François?)
+* Neil Stephenson, ["Cryptonomicon"](https://en.wikipedia.org/wiki/Cryptonomicon) (recommended by [@ebruchez](https://twitter.com/ebruchez))
 
 ## Health
 
@@ -34,6 +50,11 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Edzard Ernst, ["Healing, Hype, or Harm?: A Critical Analysis of Complementary or Alternative Medicine"](http://www.amazon.com/Healing-Hype-Harm-Complementary-Alternative/dp/1845401182/)
 * Ben Goldacre, ["Bad Pharma: How drug companies mislead doctors and harm patients"](http://www.amazon.co.uk/dp/0007350740/)
 * Mikhail Tombak, ["Can We Live 150 Years?"](http://www.amazon.com/Can-Live-150-Years-Maintenance/dp/0972732845/)
+
+## History / anthropology
+
+* Jared Diamond, ["Collapse: How Societies Choose to Fail or Succeed"](https://en.wikipedia.org/wiki/Collapse:_How_Societies_Choose_to_Fail_or_Succeed) (recommended by Franck?)
+* Jared Diamond, ["Guns, Germs, and Steel: The Fates of Human Societies"](https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel) (recommended by Franck?)
 
 ## Interviews
 
@@ -53,6 +74,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 * David Allen, ["Getting Things Done"](https://en.wikipedia.org/wiki/Getting_Things_Done) (already read - read again?)
 * Leo Babauta, ["The One Skill: How Mastering the Art of Letting Go Will Change Your Life"](http://zenhabits.net/lg/) (free book, mentioned by [@avernet](https://twitter.com/avernet))
+* Leo Babauta, ["Zen To Done"](http://www.amazon.com/Zen-Done-Ultimate-Simple-Productivity-ebook/dp/B001970HQU/)
 * FruitfulTime, ["Stop Procrastination Now"](https://dollswithoutheads.files.wordpress.com/2008/10/stop-procrastination-now.pdf) (and I should probably start by now reading this book...)
 
 ## Philosophy
@@ -93,6 +115,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 ## Technology
 
 * Nick Bostrom, ["Superintelligence: Paths, Dangers, Strategies"](http://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom-ebook/dp/B00LOOCGB2/) (recommended by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg))
+* Peter H. Diamandis & Steven Kotler, ["Abundance: The Future Is Better Than You Think"](http://www.amazon.com/Abundance-Future-Better-Than-Think-ebook/dp/B005FLOGMM) (recommended by Ray Kurzweil)
 
 ## Vegetarianism
 
