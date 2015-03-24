@@ -4,7 +4,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 
 ## Currently reading
 
-* Amélie Nothomb, ["Stupeur et Tremblements"](https://fr.wikipedia.org/wiki/Stupeur_et_Tremblements)
+* Ben Goldacre, ["Bad Pharma"](https://en.wikipedia.org/wiki/Bad_Pharma)
 * (H.P. Lovecraft, ["The Complete Works of H.P. Lovecraft"](https://www.goodreads.com/book/show/11851522-the-complete-works-of-h-p-lovecraft))
 
 ##  Business / entrepreneurship
