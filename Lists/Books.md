@@ -1,6 +1,7 @@
 # Books
 Date | Author | Title | Subtitle | Year | Rating | Comments
 --- | --- | --- | --- | --- | --- | ---
+<a name="79"></a>2015/03/24 | Amélie Nothomb | [Stupeur et Tremblements](https://fr.wikipedia.org/wiki/Stupeur_et_Tremblements) |  | 1999 | ![3.75](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | 
 <a name="78"></a>2015/03/21 | François Rabelais | [Gargantua](https://fr.wikipedia.org/wiki/Gargantua) |  | 1534 | ![4](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | See comments for "Pantagruel".
 <a name="77"></a>2014/12/30 | Paulo Coelho | [L'Alchimiste](https://fr.wikipedia.org/wiki/L%27Alchimiste) |  | 1988 | ![2](https://raw.github.com/obruchez/public-src/master/img/stars2_0.png) | French translation of "O Alquimista" by Jean Orecchioni.
 <a name="76"></a>2014/12/23 | Carlo Strenger | [The Fear of Insignificance](http://books.google.com/books/about/The_Fear_of_Insignificance.html?id=kYkqAQAAMAAJ) | Searching for Meaning in the Twenty-First Century | 2011 | ![4](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | 
