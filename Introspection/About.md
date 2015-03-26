@@ -130,7 +130,7 @@ I'm a geek. I like lists. So this is me. In lists.
 * [Utilitarianism](https://en.wikipedia.org/wiki/Utilitarianism)
 * [Vegetarianism](https://en.wikipedia.org/wiki/Vegetarianism)
 
-## Places
+## Places
 
 * [Bagnes](https://en.wikipedia.org/wiki/Bagnes)
 * [Lausanne](https://en.wikipedia.org/wiki/Lausanne)
