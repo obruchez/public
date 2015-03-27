@@ -50,7 +50,7 @@ I'm a geek. I like lists. So this is me. In lists.
 * [Programming](https://en.wikipedia.org/wiki/Computer_programming) / [Software development](https://en.wikipedia.org/wiki/Software_development) / [Functional programming](https://en.wikipedia.org/wiki/Functional_programming) / [Scala](https://en.wikipedia.org/wiki/Scala_(programming_language))
 * [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) / [Lifelogging](https://en.wikipedia.org/wiki/Lifelog)
 * [Science](https://en.wikipedia.org/wiki/Science)
-* [Technology](https://en.wikipedia.org/wiki/Technology) / [computers](https://en.wikipedia.org/wiki/Computer)
+* [Technology](https://en.wikipedia.org/wiki/Technology) / [Computers](https://en.wikipedia.org/wiki/Computer)
 
 ## Musicians
 
