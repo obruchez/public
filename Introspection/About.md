@@ -40,15 +40,15 @@ I'm a geek. I like lists. So this is me. In lists.
 
 ## Interests
 
-* [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) / [machine learning](https://en.wikipedia.org/wiki/Machine_learning)
+* [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) / [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
 * [Astronomy](https://en.wikipedia.org/wiki/Astronomy)
 * [Futures studies (a.k.a. futurology / futurism)](https://en.wikipedia.org/wiki/Futures_studies)
 * [Getting Things Done (GTD)](https://en.wikipedia.org/wiki/Getting_Things_Done)
 * [Jazz](https://en.wikipedia.org/wiki/Jazz)
 * [MOOCs](https://en.wikipedia.org/wiki/Mooc) / [Coursera](https://en.wikipedia.org/wiki/Coursera)
 * [Philosophy](https://en.wikipedia.org/wiki/Philosophy)
-* [Programming](https://en.wikipedia.org/wiki/Computer_programming) / [software development](https://en.wikipedia.org/wiki/Software_development) / [functional programming](https://en.wikipedia.org/wiki/Functional_programming) / [Scala](https://en.wikipedia.org/wiki/Scala_(programming_language))
-* [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) / [lifelogging](https://en.wikipedia.org/wiki/Lifelog)
+* [Programming](https://en.wikipedia.org/wiki/Computer_programming) / [Software development](https://en.wikipedia.org/wiki/Software_development) / [Functional programming](https://en.wikipedia.org/wiki/Functional_programming) / [Scala](https://en.wikipedia.org/wiki/Scala_(programming_language))
+* [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) / [Lifelogging](https://en.wikipedia.org/wiki/Lifelog)
 * [Science](https://en.wikipedia.org/wiki/Science)
 * [Technology](https://en.wikipedia.org/wiki/Technology) / [computers](https://en.wikipedia.org/wiki/Computer)
 
