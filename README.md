@@ -21,6 +21,6 @@
 
 ## Résumé / CV
 
- * [HTML](https://rawgithub.com/obruchez/public/master/CV/ResumeOlivierBruchez.zip)
+ * [HTML](https://rawgithub.com/obruchez/public/master/CV/ResumeOlivierBruchez.html)
  * [PDF](https://github.com/obruchez/public/raw/master/CV/ResumeOlivierBruchez.pdf)
  * [Word](https://github.com/obruchez/public/raw/master/CV/ResumeOlivierBruchez.doc)
