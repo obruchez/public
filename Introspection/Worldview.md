@@ -88,7 +88,7 @@ Ma position n'est pas un [nihilisme](https://fr.wikipedia.org/wiki/Nihilisme) au
 
 ## Références générales
 
-* [ebruchez's world view](https://github.com/ebruchez/public/blob/master/Wordview.md)
+* [ebruchez's world view](https://github.com/ebruchez/public/blob/master/Worldview.md)
 * [World Views: From fragmentation to integration](http://www.vub.ac.be/CLEA/pub/books/worldviews.pdf)
 * [World view development](https://en.wikipedia.org/wiki/World_view#Development)
 
