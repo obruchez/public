@@ -1,6 +1,8 @@
 # Movies
 Date | Theater | Director | Title | Alternative Title(s) | Version | Rating | Comments
 --- | --- | --- | --- | --- | --- | --- | ---
+<a name="698"></a>2015/03/29 | Galeries, Lausanne | Tim Burton | [Big Eyes](http://www.imdb.com/title/tt1126590/) |  | Original | ![3.75](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | 
+<a name="697"></a>2015/03/28 |  | Marc Caro & Jean-Pierre Jeunet | [La cité des enfants perdus](http://www.imdb.com/title/tt0112682/) | The City of Lost Children (English) | Original | ![3.75](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | 
 <a name="696"></a>2015/03/01 | Galeries, Lausanne | Alejandro González Iñárritu | [Birdman: Or (The Unexpected Virtue of Ignorance)](http://www.imdb.com/title/tt2562232/) |  | Original | ![4.25](https://raw.github.com/obruchez/public-src/master/img/stars4_5.png) | 
 <a name="695"></a>2015/02/28 |  | Guillermo del Toro | [El laberinto del fauno](http://www.imdb.com/title/tt0457430/) | Pan's Labyrinth (English) | Original | ![4](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | 
 <a name="694"></a>2015/02/15 | Galeries, Lausanne | Ruben Östlund | [Turist](http://www.imdb.com/title/tt3630276/) | Force Majeure (English) | Original | ![4](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | 
