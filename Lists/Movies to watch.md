@@ -183,6 +183,7 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 * Jessie Nelson, [I Am Sam](http://www.imdb.com/title/tt0277027/) (7.6)
 * Robert Barry Ptolemy, [Transcendent Man](http://www.imdb.com/title/tt1117394/) (7.2) (documentary about Ray Kurzweil)
 * Michèle Rosier, [Mon coeur est rouge](http://www.imdb.com/title/tt0074913/) (7.8) (some music composed by Keith Jarrett)
+* Patrick Savey, [Marcus](http://www.imdb.com/title/tt4400358/) (available on iTunes)
 
 ## Selections from [25 Spectacular Movies You (Probably) Haven’t Seen](http://www.highexistence.com/25-spectacular-movies-you-probably-havent-seen/)
 
