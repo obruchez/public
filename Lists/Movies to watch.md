@@ -46,7 +46,7 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 
 ...
 
-## [Ingmar Bergman](http://www.imdb.com/name/nm0000005/)
+## [Ingmar Bergman](http://www.imdb.com/name/nm0000005/)
 
 * [The Seventh Seal](http://www.imdb.com/title/tt0050976/) (8.3)
 * [Wild Strawberries](http://www.imdb.com/title/tt0050986/) (8.3)

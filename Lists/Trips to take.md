@@ -2,7 +2,7 @@
 
 See also [1000 places to see before you die](http://1000places.com/).
 
-## Cities
+## Cities
 
 * [Budapest](https://en.wikipedia.org/wiki/Budapest)
 * [Copenhaguen](https://en.wikipedia.org/wiki/Copenhagen)

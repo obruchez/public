@@ -7,7 +7,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Ben Goldacre, ["Bad Pharma"](https://en.wikipedia.org/wiki/Bad_Pharma)
 * (H.P. Lovecraft, ["The Complete Works of H.P. Lovecraft"](https://www.goodreads.com/book/show/11851522-the-complete-works-of-h-p-lovecraft))
 
-##  Business / entrepreneurship
+## Business / entrepreneurship
 
 * Jason Fried, ["Rework"](http://www.amazon.com/ReWork-Change-Way-Work-Forever-ebook/dp/B003ELY7PG/) (mentioned by [@epsitec](https://twitter.com/epsitec))
 
@@ -117,7 +117,7 @@ Pretty much everything from [Les cent livres du siècle](https://fr.wikipedia.or
 * Nick Bostrom, ["Superintelligence: Paths, Dangers, Strategies"](http://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom-ebook/dp/B00LOOCGB2/) (recommended by [@SamHarrisOrg](https://twitter.com/SamHarrisOrg))
 * Peter H. Diamandis & Steven Kotler, ["Abundance: The Future Is Better Than You Think"](http://www.amazon.com/Abundance-Future-Better-Than-Think-ebook/dp/B005FLOGMM) (recommended by Ray Kurzweil)
 
-## Vegetarianism
+## Vegetarianism
 
 * Renan Larue, ["Le végétarisme et ses ennemis: Vingt-cinq siècles de débats"](http://www.amazon.fr/v-g-tarisme-ses-ennemis-Vingt-cinq-si-cles-ebook/dp/B00SBZ69TC/)
 
