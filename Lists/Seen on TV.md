@@ -1,4 +1,6 @@
-# Séries
+# Vu à la télé
+
+## Séries
 
 * [ALF](http://www.imdb.com/title/tt0090390/)
 * [Bioman](http://www.imdb.com/title/tt0086683/)
@@ -37,7 +39,7 @@
 * [Tribunal](http://www.imdb.com/title/tt0168400/) (pas sûr s'il s'agisse de la bonne série)
 * [Vice à Miami](http://www.imdb.com/title/tt0086759/)
 
-# Séries inconnues
+## Séries inconnues
 
 * billes extra-terrestres (cf  [Google Groups](http://groups.google.ch/group/fr.rec.tv.series.sf/browse_thread/thread/2d316fb939ba12f5/), ainsi qu'un [message de quelqu'un d'autre](http://groups.google.ch/group/fr.rec.cinema.discussion/browse_thread/thread/321f1fe1b249abd5/))
 * fille qui veut un vélo, se fait kidnapper, kidnappeur se casse la ou les jambes, la fille le soigne; à la fin, la fille obtient son vélo
@@ -51,7 +53,7 @@
 * série que je confonds avec Tales from the Crypt (contes, qqn près du feu, avec un chien, images en ombres et avec des acteurs humains)
 * série vaguement similaire à Supercopter, mais avec une "super-moto"
 
-# Dessins animés
+## Dessins animés
 
 * [Cat's Eye](http://www.imdb.com/title/tt0131160/)
 * [Clémentine](http://www.imdb.com/title/tt0297529/) (avec le géant de feu, Malmoth, qui me faisait peur ?)
@@ -74,7 +76,7 @@
 * [Pif et Hercule](http://www.imdb.com/title/tt1194638/)
 * [Tom Sawyer](http://www.imdb.com/title/tt0168391/)
 
-# Films / téléfilms
+## Films / téléfilms
 
 * "Saturn 3" (?)
 * "New York 1997" (ou "Escape from New York")
@@ -83,7 +85,7 @@
 * [Opération Ypsilon](http://www.imdb.com/title/tt1369834/) (avec Bruno Cremer et des armes bio-chimiques diffusées par hélicoptère ? en quatre parties d'une heure chacune)
 * film avec la pièce interdite (chambre ?), la collection sous le lit (coquillages ?), le frère qui se fait enliser (dune ou plage ?), etc.
 
-# Emissions
+## Emissions
 
 * [Carabine FM](http://fr.wikipedia.org/wiki/Carabine_FM) (TSR, 1986-91)
 * [Club Dorothée](http://fr.wikipedia.org/wiki/Club_doroth%C3%A9e) (TF1, 1987-97)
@@ -92,12 +94,12 @@
 * Petit Poisson (TSR, années ‘80) (caméra cachée)
 * [Temps X](http://fr.wikipedia.org/wiki/Igor_et_Grichka_Bogdanoff%23Temps_X) (TF1, 1979-89) (avec Igor et Grichka Bogdanoff ; probablement vu dans cette émission : personnage miniaturisé glissant sur un toboggan, effet spécial très visible, mal fait - sorte de halo autour du personnage - mais pas sûr, terminé en 1982 !)
 
-# Divers
+## Divers
 
 * [Services secrets](http://www.jmcharlier.com/tele_docu_divers.php) (série de documentaires sur les services secrets présentés par Omar Sharif en 1989)
 * "TV à la carte" (TSR, film au choix, dans les années '80, choix par téléphone)
 
-# A faire
+## A faire
 
 * utiliser sites de génériques pour compléter les listes (e.g. [Coucoucircus](http://www.coucoucircus.org/index3.php))
 * dessins animés à ajouter
