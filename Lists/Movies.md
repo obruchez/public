@@ -1,6 +1,7 @@
 # Movies
 Date | Theater | Director | Title | Alternative Title(s) | Version | Rating | Comments
 --- | --- | --- | --- | --- | --- | --- | ---
+<a name="700"></a>2015/04/04 | Cinétoile Malley Lumières, Lausanne-Prilly | Mark Burton & Richard Starzak | [Shaun le mouton](http://www.imdb.com/title/tt2872750/) | Shaun the Sheep Movie (English) | French | ![3.5](https://raw.github.com/obruchez/public-src/master/img/stars3_5.png) | 
 <a name="699"></a>2015/04/03 |  | Terry Zwigoff | [Ghost World](http://www.imdb.com/title/tt0162346/) |  | Original | ![4](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | 
 <a name="698"></a>2015/03/29 | Galeries, Lausanne | Tim Burton | [Big Eyes](http://www.imdb.com/title/tt1126590/) |  | Original | ![3.75](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | 
 <a name="697"></a>2015/03/28 |  | Marc Caro & Jean-Pierre Jeunet | [La cité des enfants perdus](http://www.imdb.com/title/tt0112682/) | The City of Lost Children (English) | Original | ![3.75](https://raw.github.com/obruchez/public-src/master/img/stars4_0.png) | 
