@@ -15,7 +15,7 @@ See also [1000 places to see before you die](http://1000places.com/).
 * [Iceland](https://en.wikipedia.org/wiki/Iceland) (trekking, etc.)
 * [India](https://en.wikipedia.org/wiki/India) ([Taj Mahal](https://en.wikipedia.org/wiki/Taj_Mahal), etc.)
 * [Japan](https://en.wikipedia.org/wiki/Japan) ([cherry blossom](https://en.wikipedia.org/wiki/Cherry_blossom), etc.)
-* [New Zealand](https://en.wikipedia.org/wiki/New_Zealand) ((cf Marc-André's trip)
+* [New Zealand](https://en.wikipedia.org/wiki/New_Zealand) (cf Marc-André's trip)
 * [South Africa](https://en.wikipedia.org/wiki/South_Africa) (cf Marc-André's trip)
 
 ## Islands
