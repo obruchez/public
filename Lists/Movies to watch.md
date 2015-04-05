@@ -57,7 +57,6 @@ Pretty much everything from [IMDb's Top 250](http://www.imdb.com/chart/top).
 
 ## [Jean-Pierre Jeunet](http://www.imdb.com/name/nm0000466)
 
-* [La cité des enfants perdus](http://www.imdb.com/title/tt0112682) (7.7)
 * [The Young and Prodigious T.S. Spivet](http://www.imdb.com/title/tt1981107) (7.2)
 * [Micmacs à tire-larigot](http://www.imdb.com/title/tt1149361) (7.2)
 
