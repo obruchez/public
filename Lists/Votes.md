@@ -1,6 +1,6 @@
 # Votations
 
-My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
+My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. :) J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
 
 ## [Votation fédérale du 8 mars 2015](http://www.bk.admin.ch/themen/pore/va/20150308/index.html?lang=fr)
 
