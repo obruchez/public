@@ -1,14 +1,16 @@
 # Votations
 
+My votes (in French). En Suisse, on ne plaisante pas avec la démocratie directe. J'essaie ici de documenter et de justifier la façon dont je me positionne par rapport aux votations fédérales, qui ont lieu jusqu'à quatre fois par année.
+
 ## [Votation fédérale du 8 mars 2015](http://www.bk.admin.ch/themen/pore/va/20150308/index.html?lang=fr)
 
 ### Acceptez-vous l’initiative populaire "Aider les familles ! Pour des allocations pour enfant et des allocations de formation professionnelle exonérées de l’impôt" ?
 
-Non. Résultat : ? (?%).
+Non. Résultat : non (75.4%).
 
 ### Acceptez-vous l’initiative populaire "Remplacer la taxe sur la valeur ajoutée par une taxe sur l’énergie" ?
 
-Non. Résultat : ? (?%).
+Non. Résultat : non (92%).
 
 ## [Votation fédérale du 30 novembre 2014](http://www.bk.admin.ch/themen/pore/va/20141130/index.html?lang=fr)
 
